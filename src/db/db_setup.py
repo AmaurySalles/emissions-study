@@ -1,10 +1,12 @@
 import sqlite3
 import logging
 import pandas as pd
+from typing import List, Callable
+
 from src.utils.cleaning_utils import update_FR_region_names
 from src.db.db_queries import upload_data
+
 from src.db.db_tables import ALL_DB_TABLES
-from typing import List, Callable
 
 logging.basicConfig(level=logging.INFO)
 
@@ -12,6 +14,7 @@ def create_db(tables:List[Callable[[None], str]]=ALL_DB_TABLES) -> None:
     """
     Creating all dimension and fact DB tables.
     """
+    
     db = sqlite3.connect('ecoact.db')
     c = db.cursor()
 
@@ -26,6 +29,7 @@ def create_db(tables:List[Callable[[None], str]]=ALL_DB_TABLES) -> None:
     db.close()
 
 def init_db_dim_data() -> None:
+    
     # Countries                                                         # Namibia's acronym is 'NA'
     countries = pd.read_csv('./data/countries.csv', encoding='latin-1', keep_default_na=False) 
     upload_data(countries, "Dim_Countries")

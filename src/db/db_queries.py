@@ -30,9 +30,9 @@ def fetch_all_from_table(table:str) -> pd.DataFrame:
         query = f"SELECT * FROM {table}"
         df = pd.read_sql_query(query, db)
         
-        # For auto-incrementing primary keys
+        # For auto-incrementing primary keys, grab df index as id
         df.reset_index(names='id', inplace=True)
-        df['id'] +=1 # auto-incrementing ids start at 1, rather than 0 (in pd.DataFrames)
+        df['id'] +=1 # auto-incrementing ids start at 1 (sqlite3), rather than 0 (in pd.DataFrames)
         
         logging.info(f'Fetch from {table} successful.')
     except sqlite3.OperationalError as e:

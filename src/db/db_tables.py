@@ -49,7 +49,7 @@ def Dim_Sources() -> str:
 def Dim_Elec_mix_source_types() -> str:
     return """CREATE TABLE Dim_Elec_mix_source_types (
                 source_type_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                source_type_name TEXT NOT NULL UNIQUE,
+                source_type_name TEXT NOT NULL UNIQUE
             );
             """
 
@@ -67,18 +67,18 @@ def F_fr_regional_heating_emissions() -> str:
                 validity_date DATE NOT NULL,
                 source_id INTEGER,
                 FOREIGN KEY (dept_id) REFERENCES Dim_Departments (dept_id),
-                FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id)
+                FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id),
                 FOREIGN KEY (source_id) REFERENCES Dim_Sources (source_id)
             );
         """
 
 def F_world_electricity_mix() -> str:
-    return """ CREATE TABLE F_electricity_mix (
+    return """ CREATE TABLE F_world_electricity_mix (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             country_id TEXT NOT NULL,
-            type TEXT NOT NULL
+            type TEXT NOT NULL,
             validity_date DATE NOT NULL,
-            source_type_id INTEGER NOT NULL
+            source_type_id INTEGER NOT NULL,
             emissions REAL NOT NULL,
             unit_id INT NOT NULL,
             uncertainty REAL,
@@ -86,13 +86,13 @@ def F_world_electricity_mix() -> str:
             modified_date DATE,
             source_id INTEGER,
             FOREIGN KEY (country_id) REFERENCES Dim_Countries (country_id),
-            FOREIGN KEY (source_type_id) REFERENCES Dim_Elec_mix_source_types (source_type_id)
-            FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id)
+            FOREIGN KEY (source_type_id) REFERENCES Dim_Elec_mix_source_types (source_type_id),
+            FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id),
             FOREIGN KEY (source_id) REFERENCES Dim_Sources (source_id)
         );
     """
 
-# 
+# List of callable functions
 ALL_DB_TABLES = [
     Dim_Countries,
     Dim_Regions,

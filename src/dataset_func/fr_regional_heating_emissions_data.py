@@ -3,11 +3,13 @@ import pandas as pd
 from src.utils.cleaning_utils import clean_FR_dates, update_FR_region_names
 from src.db.db_queries import fetch_all_from_table, upload_data
 
+DB_TABLE = 'F_fr_regional_heating_emissions'
+
 def fr_regional_heating_emissions_data(full_dataset:pd.DataFrame) -> None:
     data = retrieve_fr_regional_heating_emissions_data(full_dataset)
     data = clean_fr_regional_heating_emissions_data(data)
     data = prep_fr_regional_heating_emissions_data(data)
-    upload_data(data, 'F_Regional_heat_emissions')
+    upload_data(data, DB_TABLE)
 
 def retrieve_fr_regional_heating_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     # Split main categories
@@ -56,10 +58,10 @@ def clean_fr_regional_heating_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     clean_df['uncertainty'] = data['Incertitude']
     
     # Units
-    clean_df['unit'] = data['Unité français']
+    clean_df['unit_name'] = data['Unité français']
     
     # Source
-    clean_df['source'] = data['Source']
+    clean_df['source_name'] = data['Source']
     
     return clean_df 
 
@@ -72,12 +74,12 @@ def prep_fr_regional_heating_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     
     # Find unit_ids
     unit_ids = fetch_all_from_table('Dim_Units')
-    data = data.merge(unit_ids, left_on='unit', right_on='unit_name', how='left')
+    data = data.merge(unit_ids, on='unit_name', how='left')
     data.rename(columns={'id':'unit_id'}, inplace=True)
     
     # Find source_ids
     source_ids = fetch_all_from_table('Dim_Sources')
-    data = data.merge(source_ids, left_on='source', right_on='source_name', how='left')
+    data = data.merge(source_ids, on='source_name', how='left')
     data.rename(columns={'id':'source_id'}, inplace=True)
         
     db_data = data[['dept_id', 'heat_cycle', 'emissions', 'unit_id','uncertainty', 

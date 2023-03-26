@@ -26,6 +26,10 @@ def init_db_dim_data() -> None:
     sources = pd.DataFrame(data['Source'].unique()).rename(columns={0:'source_name'}) # TODO: To add source_url if avaiable
     upload_data(sources.astype(str), "Dim_Sources")
 
+    # Electricity mix source type
+    elec_mix_source_types = pd.DataFrame({'source_type_name': ['Amont', 'Combustion à la centrale', 'Transport et distribution', 'Total']})
+    upload_data(elec_mix_source_types, "Dim_Elec_mix_source_types")
+
 def prep_FR_dept_dim_data() -> pd.DataFrame:
     """
     Retrieves all french departments and regions, alongside their corresponding ids

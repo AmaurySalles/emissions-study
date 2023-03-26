@@ -1,0 +1,1241 @@
+,country,region,dept_id,city,address,heat_cycle,creation_date,modified_date,validity_date,archived,emissions,uncertainty,unit,source,unit_id,unit_name,source_id,source_name
+0,France,Auvergne-Rhône-Alpes,1,Bourg-en-Bresse,La Reyssouze ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.141,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+1,France,Auvergne-Rhône-Alpes,1,Oyonnax,La Forge ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.268,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+2,France,Auvergne-Rhône-Alpes,1,Oyonnax,La Plaine (HLM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.334,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+3,France,Auvergne-Rhône-Alpes,1,Saint-Denis-les-Bourg,Réseau de Saint-Denis-les-Bourg ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.055,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+4,France,Auvergne-Rhône-Alpes,1,Marignieu,Belena ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.008,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+5,France,Auvergne-Rhône-Alpes,1,Val-Revermont,Réseau de Treffort ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.051,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+6,France,Hauts de France,2,Saint-Quentin,ZUP du Quartier Europe ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.135,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+7,France,Hauts de France,2,Soissons,ZUP de Presles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.077,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+8,France,Hauts de France,2,Laon,Réseau de Laon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.004,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+9,France,Hauts de France,2,Urcel,Réseau d'Urcel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.04,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+10,France,Auvergne-Rhône-Alpes,3,Moulins,Réseau de Moulins ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.028,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+11,France,Auvergne-Rhône-Alpes,3,Montluçon,Fontbouillant ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.124,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+12,France,Auvergne-Rhône-Alpes,3,Mayet-de-Montagne,Réseau de Mayet-de-Montagne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+13,France,Auvergne-Rhône-Alpes,3,Meaulne,Meaulne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.268,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+14,France,Provence-Alpes-Côte d'Azur,4,Manosque,RCU Manosque ZAC Chanteprunier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.036,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+15,France,Provence-Alpes-Côte d'Azur,5,Embrun,Réseau bois Delaroche ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.06575,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+16,France,Provence-Alpes-Côte d'Azur,5,Embrun,Réseau Quartier Gare ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.005,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+17,France,Provence-Alpes-Côte d'Azur,6,Nice,Sonitherm-Réseau de l'Ariane ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.003,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+18,France,Provence-Alpes-Côte d'Azur,6,Nice,Saint Augustin (HLM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.197,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+19,France,Provence-Alpes-Côte d'Azur,6,Cannes,Ranguin ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.135,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+20,France,Auvergne-Rhône-Alpes,7,Aubenas,Réseau d'Aubenas ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+21,France,Auvergne-Rhône-Alpes,7,Cheylard,Réseau de Cheylard ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.02,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+22,France,Champagne,8,Charleville-Mézières,La Citadelle ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.227,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+23,France,Champagne,8,Charleville-Mézières,Ronde couture ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.052,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+24,France,Champagne,8,Sedan,ZUP de Sedan ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.101,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+25,France,Champagne,8,Machault,Réseau bois de Machault ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.05,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+26,France,Champagne,8,Rocroi,Réseau de Rocroi ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.315,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+27,France,Champagne,10,Les Noes,ZUP de la Chapelle Saint-Luc ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.246,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+28,France,Champagne,10,Troyes,Les Chartreux ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.071,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+29,France,Champagne,10,Piney,Biomasse de Piney ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.058,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+30,France,Languedoc,11,Narbonne,ZAC Saint Jean et Saint Pierre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.112,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+31,France,Languedoc,11,Carcassone,Réseau CEF-MCO ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.101,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+32,France,Occitanie,12,Decazeville,Réseau de Decazeville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.292,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+33,France,Occitanie,12,Rodez,Réseau Sarrus ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.012,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+34,France,Occitanie,12,Onet-le-Château,Réseau de Cantagrelh ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.127,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+35,France,Provence-Alpes-Côte d'Azur,13,Salon de Provence,ZAC des Canourgues ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.207,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+36,France,Provence-Alpes-Côte d'Azur,13,Marseille,Luminy ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.298,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+37,France,Provence-Alpes-Côte d'Azur,13,Martigues,ZAC Paradis-Saint-Roch ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.234,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+38,France,Provence-Alpes-Côte d'Azur,13,Martigues,ZAC Canto Perdrix ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.22,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+39,France,Provence-Alpes-Côte d'Azur,13,Vitrolles,Centre Urbain-Zac des Pins ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.218,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+40,France,Provence-Alpes-Côte d'Azur,13,Aix-en-Provence,Réseau d'Aix-en-Provence ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.075,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+41,France,Normandie,14,Hérouville-Saint-Clair,Hérouville St Clair ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.013,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+42,France,Normandie,14,Lisieux,ZUP de Hauteville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.022,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+43,France,Normandie,14,Falaise,ZAC de Falaise ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.008,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+44,France,Normandie,14,Caen,La Guérinière ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.184,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+45,France,Normandie,14,Caen,Grâce de Dieu ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.19,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+46,France,Normandie,14,Caen,Quartier Nord ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.253,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+47,France,Normandie,14,Bayeux,Réseau Bois I ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.074,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+48,France,Normandie,14,Bayeux,Réseau Bois Vallée des Près ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.06,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+49,France,Auvergne-Rhône-Alpes,15,Saint-Georges,Réseau de chaleur bois du Crozatier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.003,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+50,France,Auvergne-Rhône-Alpes,15,Saint-Flour,Réseau de chaleur bois du Volzac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.016,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+51,France,Auvergne-Rhône-Alpes,15,Baignes Sainte-Radegonde,Réseau de Baignes Sainte-Radegonde ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.192,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+52,France,Poitou-Charente,16,Soyaux,Réseau Champ de manoeuvre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.2,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+53,France,Poitou-Charente,16,Montemboeuf,Réseau de Montemboeuf ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.2625,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+54,France,Poitou-Charente,17,La Rochelle,Villeneuve les Salines ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.076,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+55,France,Poitou-Charente,17,Jonzac,Réseau de Jonzac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.058,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+56,France,Poitou-Charente,17,Aytre,Réseau de Aytre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.04072727272727273,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+57,France,Poitou-Charente,17,La Rochelle,ZUP de Mireuil ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.016,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+58,France,Poitou-Charente,17,Pons,Réseau de Pons ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.089,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+59,France,Poitou-Charente,17,Gémozac,Réseau Gémozac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.018,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+60,France,Centre,18,Asnières-les-Bourges,Chancellerie Gibjoncs-Zup de Bourges ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.012,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+61,France,Centre,18,Vierzon,ZUP du Clos du Roy ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.325,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+62,France,Aquitaine-Limousin-Poitou-Charentes,19,Saint-Pantaléon-de-Larche,Centre valorisation énergétique Brive ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.002,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+63,France,Aquitaine-Limousin-Poitou-Charentes,19,Egletons,Egletons Bois Energie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.06,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+64,France,Aquitaine-Limousin-Poitou-Charentes,19,Sornac,Réseau de Sornac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+65,France,Corse,20,Corte,Réseau de Corte ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.019,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+66,France,Bourgogne-Franche-Comté Dijon,21,Dijon,La Fontaine d'Ouche ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.206,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+67,France,Bourgogne-Franche-Comté Dijon,21,Djon,Dijon Énergies ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.028,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+68,France,Bourgogne-Franche-Comté Dijon,21,Chenove,ZUP de Chenove ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.331,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+69,France,Bourgogne-Franche-Comté Dijon,21,Quetigny,Réseau de Quetigny ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.143,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+70,France,Bourgogne-Franche-Comté Dijon,21,Dijon,Les Gresilles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.077,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+71,France,Aquitaine-Limousin-Poitou-Charentes,23,Bourganeuf,Réseau de Bourganeuf ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.017,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+72,France,Aquitaine-Limousin-Poitou-Charentes,23,Felletin,Réseau de Felletin ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.222,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+73,France,Aquitaine-Limousin-Poitou-Charentes,24,Saint-Astier,Réseau de Saint-Astier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.023,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+74,France,Aquitaine-Limousin-Poitou-Charentes,24,Périgueux,L'Arche au Bois ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.003,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+75,France,Aquitaine-Limousin-Poitou-Charentes,24,Douville,Réseau de Douville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.049,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+76,France,Bourgogne-Franche-Comté Dijon,25,Besançon,Besançon-Planoise ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.142,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+77,France,Bourgogne-Franche-Comté Dijon,25,Montbéliard,ZUP de la Petite Hollande ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.045,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+78,France,Bourgogne-Franche-Comté Dijon,25,Béthoncourt,Champvalon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.212,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+79,France,Bourgogne-Franche-Comté Dijon,25,Le Russey,Chaufferie Bois du Russey ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.05,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+80,France,Bourgogne-Franche-Comté Dijon,25,Audincourt,Champs Montants ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.178,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+81,France,Bourgogne-Franche-Comté Dijon,25,Besançon,Domaine Universitaire de la Bouloie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.054,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+82,France,Bourgogne-Franche-Comté Dijon,25,Mouthe,Réseau de Mouthe ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.053,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+83,France,Bourgogne-Franche-Comté Dijon,25,Pontarlier,Réseau de Pontarlier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+84,France,Auvergne-Rhône-Alpes,26,Valence,Réseau de la Zup de Valence ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.284,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+85,France,Auvergne-Rhône-Alpes,26,Vassieux-en-Vercors,Réseau de Vassieux-en-Vercors ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.019,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+86,France,Auvergne-Rhône-Alpes,26,Pierrelatte,Réseau de Pierrelatte-Des ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.19514285714285715,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+87,France,Auvergne-Rhône-Alpes,26,Montélimar,Réseau Pracomptal ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.249,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+88,France,Normandie,27,Evreux,ZUP de Saint André-Thermevra ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.01,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+89,France,Normandie,27,Louvriers,ZAC des Maisons Rouges ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.166,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+90,France,Normandie,27,Pont Audemer,Quartier de l'Europe ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.232,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+91,France,Normandie,27,Les Andelys,Tours du Levant Clos Galots ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.202,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+92,France,Normandie,27,Vernon,ZUP Les Valmeux ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.202,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+93,France,Centre,28,Chartres,ZUP de la Madeleine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.276,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+94,France,Centre,28,Nogent Rotrou,Les Gauchetières ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.236,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+95,France,Centre,28,Chateaudun,DUNE ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.01,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+96,France,Centre,28,Manvilliers,Tallemont ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.211,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+97,France,Bretagne,29,Brest,Réseau de Brest ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.023,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+98,France,Bretagne,29,Plougastel-Daoulas,Réseau de Plougastel-Daoulas ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.009,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+99,France,Languedoc,30,Nîmes,Quartier Ouest ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.24,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+100,France,Languedoc,30,Ales,Centre Ville Ales ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.074,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+101,France,Occitanie,31,Toulouse,Réseau de Toulouse (UIOM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.13666666666666666,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+102,France,Occitanie,31,Toulouse,Canceropôle ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.124,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+103,France,Occitanie,31,Toulouse,Canceropôle ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+104,France,Occitanie,31,Toulouse,Réseau Saint-Exupéry ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.361,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+105,France,Occitanie,31,Toulouse,CSU Rangueil ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.374,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+106,France,Occitanie,31,Toulouse,Ensemble Universitaire de Toulouse Rangueil ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.205,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+107,France,Occitanie,31,Balma,Eco-quartier Balma Vidailhan ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.044,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+108,France,Occitanie,31,Blagnac,ZAC du Ritouret ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.087,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+109,France,Occitanie,31,Ayguevives,Réseau En Turet ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+110,France,Aquitaine-Limousin-Poitou-Charentes,33,Bordeaux,Grand Parc ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.195,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+111,France,Aquitaine-Limousin-Poitou-Charentes,33,Bordeaux,Mériadeck ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.08388,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+112,France,Aquitaine-Limousin-Poitou-Charentes,33,Le Barp,Laseris ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+113,France,Aquitaine-Limousin-Poitou-Charentes,33,Pellegrue,Réseau de Pellegrue ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.021,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+114,France,Aquitaine-Limousin-Poitou-Charentes,33,Mérignac,Parc de Mérignac Ville Stemer ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.209,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+115,France,Aquitaine-Limousin-Poitou-Charentes,33,Cenon Lormont Floirac,Hauts de Garonne-Rive Droite Energies ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.046,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+116,France,Aquitaine-Limousin-Poitou-Charentes,33,Gironde sur Dropt,Réseau de chaleur de Gironde sur Dropt ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.004,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+117,France,Aquitaine-Limousin-Poitou-Charentes,33,Saint-Pierre d'Aurillac,Réseau de chaleur de Saint-Pierre d'Aurillac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.03,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+118,France,Aquitaine-Limousin-Poitou-Charentes,33,La Réole,Réseau de la Réole ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.015,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+119,France,Aquitaine-Limousin-Poitou-Charentes,33,Bègles,Réseau de Terre Neuves ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.128,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+120,France,Aquitaine-Limousin-Poitou-Charentes,33,Lormont,Eco-quartier GINKO ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.096,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+121,France,Languedoc,34,Montpellier,Polygone Antigone ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.265,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+122,France,Languedoc,34,Montpellier,Polygone Antigone ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.085,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+123,France,Languedoc,34,Montpellier,Ernest Granier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.186,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+124,France,Languedoc,34,Montpellier,Ernest Granier ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.01,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+125,France,Languedoc,34,Montpellier,Port Marianne Odysseum ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.198,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+126,France,Languedoc,34,Montpellier,Port Marianne Odysseum ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+127,France,Languedoc,34,Montpellier,Réseau des universités ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.026,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+128,France,Languedoc,34,Montpellier,Réseau Arches Jacques Coeur ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.225,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+129,France,Languedoc,34,Montpellier,Réseau Arches Jacques Coeur ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.015,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+130,France,Languedoc,34,Montpellier,Parc Marianne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.192,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+131,France,Languedoc,34,Montpellier,Les Grisettes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.034,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+132,France,Languedoc,34,Juvignac,ZAC des Constellations ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.064,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+133,France,Bretagne,35,Rennes,Villejean-Beauregard ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.21,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+134,France,Bretagne,35,Rennes,Sarah Bernhardt ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.201,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+135,France,Bretagne,35,Rennes,Campus scientifique de Beaulieu ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.203,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+136,France,Bretagne,35,Rennes,Quartier Sud ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.095,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+137,France,Centre,37,Joué les Tours,Morier et Rabière ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.239,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+138,France,Centre,37,Tours,ZUP des Bords de Cher ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.103,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+139,France,Centre,37,Tours,Sanitas ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.119,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+140,France,Centre,37,Tours,Quartier Chateaubriand ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.184,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+141,France,Centre,37,Saint-Pierre-des-Corps,La Rabaterie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.22,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+142,France,Centre,37,Saint-Benoît-la-Forêt,Réseau UIOM Chinon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.003,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+143,France,Centre,37,La Riche,Réseau de la Riche-Quartier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.225,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+144,France,Auvergne-Rhône-Alpes,38,Grenoble,Compagnie de chauffage de Grenoble ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.143,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+145,France,Auvergne-Rhône-Alpes,38,Grenoble,Compagnie de chauffage de Grenoble ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.012,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+146,France,Auvergne-Rhône-Alpes,38,Bourgoin Jailleu,Réseau UIOM SITOM Nord Isère ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.0508695652173913,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+147,France,Auvergne-Rhône-Alpes,38,Vinay,Réseau de chaleur de Vinay ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.023,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+148,France,Auvergne-Rhône-Alpes,38,Saint-Marcellin,Réseau de Saint Marcellin ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.031,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+149,France,Auvergne-Rhône-Alpes,38,Villars-de-Lans,Les Laiches ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.186,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+150,France,Auvergne-Rhône-Alpes,38,Lans-en-Vercors,Réseau de Lans-en-Vercors ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.016,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+151,France,Auvergne-Rhône-Alpes,38,Monestier-de-Clermont,Réseau de Monestier-de-Clermont ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.038,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+152,France,Auvergne-Rhône-Alpes,38,Mens,Réseau de Mens ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.079,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+153,France,Auvergne-Rhône-Alpes,38,Pontcharra,Réseau bois RCBP ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.05,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+154,France,Auvergne-Rhône-Alpes,38,Allevard,Allevard ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.024,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+155,France,Bourgogne-Franche-Comté Dijon,39,Dole,Réseau de Dole ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.118,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+156,France,Bourgogne-Franche-Comté Dijon,39,Lons le Saunier,La Marjorie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.079,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+157,France,Bourgogne-Franche-Comté Dijon,39,Champvans,Réseau de Champvans ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.11116666666666668,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+158,France,Bourgogne-Franche-Comté Dijon,39,Moirans en Montagne,Réseau de Moirans en Montagne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.161,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+159,France,Aquitaine-Limousin-Poitou-Charentes,40,Mont-de-Marsan,Géothermie Mont-de-Marsan (GMM1) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.239,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+160,France,Centre,41,Blois,Quartier Bégon et Chevalier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.037,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+161,France,Centre,41,Vineuil,ZAC des Paradis ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.037,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+162,France,Centre,41,Mondoubleau,Réseau de Mondoubleau ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.077,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+163,France,Auvergne-Rhône-Alpes,42,Saint-Étienne,ZUP de la Cotonne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.232,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+164,France,Auvergne-Rhône-Alpes,42,Saint-Étienne,La Métare ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.19,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+165,France,Auvergne-Rhône-Alpes,42,Saint-Étienne,Montchovet-Beaulieu 4 (HLM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.31,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+166,France,Auvergne-Rhône-Alpes,42,Firminy,Réseau de Firminy ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.211,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+167,France,Auvergne-Rhône-Alpes,42,Roanne,Quartier RN 7 ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.242,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+168,France,Auvergne-Rhône-Alpes,42,Roanne,ZUP du Parc des Sports ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.235,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+169,France,Auvergne-Rhône-Alpes,42,Saint Etienne,Réseau de Chaleur VIACONFORT ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.077,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+170,France,Auvergne-Rhône-Alpes,42,Saint Etienne,Réseau de froid VIACONFORT ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.014,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+171,France,Auvergne-Rhône-Alpes,42,Saint-Étienne,ZUP de Montreynaud ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.1,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+172,France,Auvergne-Rhône-Alpes,42,Andrézieux-Bouthéon,Réseau d'Andrézieux-Bouthéon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.032,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+173,France,Auvergne-Rhône-Alpes,42,Montrond-les-Bains,Réseau de Montrond-les-Bains ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.032,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+174,France,Auvergne-Rhône-Alpes,42,Saint-Chamond,Scevia Quartier de Fonsala ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.062,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+175,France,Auvergne-Rhône-Alpes,42,Usson-en-Forez,Réseau d'Usson-en-Forez ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.051,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+176,France,Auvergne-Rhône-Alpes,42,Saint-Bonnet-le-Château,Réseau de Saint-Bonnet-le-Château ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.0774,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+177,France,Auvergne-Rhône-Alpes,42,Jonzieux,Réseau de Jonzieux ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.037,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+178,France,Auvergne-Rhône-Alpes,42,Roisey,Réseau de Roisey ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.002,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+179,France,Auvergne-Rhône-Alpes,42,Planfoy,ZAC des Lucioles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.001,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+180,France,Auvergne-Rhône-Alpes,42,Le Bessat,Réseau de Le Bessat ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.0774,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+181,France,Auvergne-Rhône-Alpes,42,Saint-Bonnet-le-Courreau,Réseau de Saint-Bonnet-le-Courreau ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.005,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+182,France,Auvergne-Rhône-Alpes,42,La Terrasse-sur-Dorlay,Réseau de La Terrasse-sur-Dorlay ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.0774,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+183,France,Auvergne-Rhône-Alpes,42,Saint-Régis-du-Coin,Réseau de Saint-Régis-du-Coin ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.015,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+184,France,Auvergne-Rhône-Alpes,42,Saint-Didier-sur-Rochefort,Réseau de Saint-Didier-sur-Rochefort ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.008,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+185,France,Auvergne-Rhône-Alpes,42,Neulise,Réseau de Neulise ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.025,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+186,France,Auvergne-Rhône-Alpes,42,Pelussin,Quartier Notre-Dame ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.03,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+187,France,Auvergne-Rhône-Alpes,42,Saint-Christo-en-Jarez,Réseau de Saint-Christo-en-Jarez ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.03,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+188,France,Auvergne-Rhône-Alpes,42,Saint-Martin-la-Sauveté,Réseau de Saint-Martin-la-Sauveté ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.025,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+189,France,Auvergne-Rhône-Alpes,42,Saint-Symphorien-de-Lay,Réseau de Saint-Symphorien-de-Lay ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.0774,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+190,France,Auvergne-Rhône-Alpes,42,Marlhes,Réseau de Marlhes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.0774,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+191,France,Auvergne-Rhône-Alpes,42,Saint-Haon-le-Châtel,Réseau de Saint-Haon-le-Châtel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.018,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+192,France,Auvergne-Rhône-Alpes,42,Saint-Joseph,Réseau de Saint-Joseph ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.158,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+193,France,Auvergne-Rhône-Alpes,42,Saint-Cyr-de-Favières,Réseau de Saint-Cyr-de-Favières ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.004,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+194,France,Auvergne-Rhône-Alpes,42,Roanne,Quartier de Mâtel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.093,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+195,France,Auvergne-Rhône-Alpes,42,Roanne,Quartier Arsenal ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.066,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+196,France,Auvergne-Rhône-Alpes,42,Pelussin,Quartier les Croix-Saint Jean ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.027,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+197,France,Auvergne-Rhône-Alpes,42,Pelussin,Réseau siège CDC ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.001,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+198,France,Auvergne-Rhône-Alpes,42,Saint-Maurice-en-Gourgois,Réseau de Saint-Maurice-en-Gourgois ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.001,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+199,France,Auvergne-Rhône-Alpes,42,Colombier,Réseau de Colombier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.002,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+200,France,Auvergne-Rhône-Alpes,43,Langeac,Langeac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.128,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+201,France,Auvergne-Rhône-Alpes,43,Puy-en-Velay,Réseau Vert Veine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.054,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+202,France,Auvergne-Rhône-Alpes,43,Yssingeaux,Réseau de chaleur YES ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.356,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+203,France,Auvergne-Rhône-Alpes,43,Dunières,Réseau de la Mairie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.10036363636363638,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+204,France,Auvergne-Rhône-Alpes,43,Dunières,Réseau de la Piscine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.10036363636363638,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+205,France,Auvergne-Rhône-Alpes,43,Pradelles,Réseau de Pradelles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.013,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+206,France,Pays-de-la-Loire,44,Nantes,Beaulieu Malakoff-Valorena ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.10876923076923078,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+207,France,Pays-de-la-Loire,44,Châteaubriant,Réseau de Chateaubriant ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.073,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+208,France,Pays-de-la-Loire,44,Nantes,Réseau de la Chantrerie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.07,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+209,France,Pays-de-la-Loire,44,Nantes-Saint-Herblain,ZUP de Bellevue Saint Herblain ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.123,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+210,France,Pays-de-la-Loire,44,Rezé,Réseau AFUL de Rezé-Château ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.127,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+211,France,Pays-de-la-Loire,44,Sainte-Luce-sur-Loire,Réseau ZAC de la Minais ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.26,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+212,France,Pays-de-la-Loire,44,Saint-Julien-de-Concelles,Réseau de Saint-Julien-de-Concelles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.066,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+213,France,Centre,45,Orléans,Socos ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.085,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+214,France,Centre,45,Orléans,Quartier Centre Ville et Nord ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.21,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+215,France,Centre,45,Montargis,ZUP du grand clos ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.096,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+216,France,Centre,45,Fleury les Aubrais,Réseau de Fleury les Aubrais ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.26,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+217,France,Centre,45,Pithiviers,C. V. E Pithiviers ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.115,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+218,France,Occitanie,46,Biars dur Cere,Réseau de Biars du Cere ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.012,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+219,France,Occitanie,46,Cajarc,Réseau de Cajarc ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.005,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+220,France,Occitanie,46,Catus,Réseau de Catus ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.007,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+221,France,Occitanie,46,Caillac,Réseau de Caillac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.021,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+222,France,Occitanie,46,Saint Germain du Bel Air,Réseau de St Germain du Bel air ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.01,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+223,France,Occitanie,46,Les-Quatre-Routes-du-Lot,Réseau de Les-Quatre-Routes-du-Lot ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.002,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+224,France,Occitanie,46,Sousceyrac,Réseau de Sousceyrac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.01,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+225,France,Occitanie,46,Figeac,Réseau de Figeac ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.002,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+226,France,Occitanie,46,Livernon,Réseau de Livernon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.055,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+227,France,Occitanie,46,Cahors,Réseau de Cahors ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.056,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+228,France,Occitanie,46,Thégra,Réseau de Thégra ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.003,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+229,France,Occitanie,46,Lacapelle-Marival,Réseau de Lacapelle-Marival ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.164,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+230,France,Aquitaine-Limousin-Poitou-Charentes,47,Le Passage,Novergie Sud Ouest-Sogad ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.256,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+231,France,Languedoc,48,Mende,Mende ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.023,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+232,France,Pays-de-la-Loire,49,Angers,Réseau d'Angers ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.03,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+233,France,Pays-de-la-Loire,49,Angers,ZUP de Jeanne d'Arc ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.188,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+234,France,Pays-de-la-Loire,49,Angers,CHU Angers ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.179,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+235,France,Pays-de-la-Loire,49,Saumur,Chemin Vert ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.103,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+236,France,Pays-de-la-Loire,49,Andrezé,Réseau de chaleur d'Andrezé ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.318,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+237,France,Pays-de-la-Loire,49,Angers,Réseau d'Orgemont ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.1236923076923077,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+238,France,Pays-de-la-Loire,49,Ecouflant,Réseau de chaleur d'Ecouflant ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.064,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+239,France,Normandie,50,Cherbourg,ZUP d'Octeville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.059,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+240,France,Normandie,50,Cherbourg,Ilot Divette ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.141,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+241,France,Normandie,50,Le Teilleul,Régie de chauffage au bois ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.052,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+242,France,Champagne,51,Reims,ZUP Laon Neufchâtel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.227,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+243,France,Champagne,51,Reims,Réseau UIOM de Reims ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.256,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+244,France,Champagne,51,Vitry-le-François,Vitry Habitat ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.21485714285714286,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+245,France,Champagne,51,Epernay,Quartier Bernon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.262,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+246,France,Champagne,51,Reims,Croix Rouge ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.128,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+247,France,Champagne,52,Chaumont,Réseau de chaleur du sud de la ville de Chaumont ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.007,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+248,France,Champagne,52,Saint-Dizier,Ensemble du Vert Bois ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.186,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+249,France,Champagne,52,Chaumont,La Rochotte ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.292,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+250,France,Pays-de-la-Loire,53,Laval,ZUP de Nicolas ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.231,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+251,France,Grand Est,54,Nancy,Nancy Energie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.116,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+252,France,Grand Est,54,Vandoeuvre-lès-Nancy,Réseau de Vandoeuvre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.023,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+253,France,Grand Est,54,Nancy,Haut du Lièvre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.068,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+254,France,Grand Est,54,Ecrouve,Réseau d'Ecrouve ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.087,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+255,France,Grand Est,55,Bar le Duc,Côte Sainte Catherine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.257,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+256,France,Grand Est,55,Verdun,ZUP Anthouard ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.055,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+257,France,Grand Est,55,Ligny en Barrois,Ligny en Barrois ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.055,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+258,France,Bretagne,56,Lanester,Réseau de Lanester ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.028,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+259,France,Bretagne,56,Hennebont,Réseau de chaleur Zac Centre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.064,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+260,France,Bretagne,56,Auray,Réseau de Gumenen ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.104,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+261,France,Bretagne,56,Locminé,Réseau Liger ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.064,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+262,France,Grand Est,57,Metz,Réseau de Metz ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.068,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+263,France,Grand Est,57,Yutz,Réseau de la ville de Yutz ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.145,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+264,France,Grand Est,57,Farébersviller,Réseau du Farébersviller ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.064,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+265,France,Grand Est,57,Saint-Avold,Wenheck ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.25,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+266,France,Grand Est,57,Freyming-Merlebach,Réseau de Freyming-Merlebach ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.155,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+267,France,Grand Est,57,Sarreguemines,Réseau de Sarreguemines ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.257,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+268,France,Grand Est,57,Forbach-Stiring-Wendel-Behren-lès-Forbach,Réseau de Holweg-Forbach-Behren ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.073,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+269,France,Grand Est,57,Saint-Avold,Huchet ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.192,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+270,France,Grand Est,57,Saint-Avold,Côte de la Justice ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.214,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+271,France,Grand Est,57,Saint-Avold,Carrière ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.231,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+272,France,Grand Est,57,Creutzwald,Réseau de chauffage de Creutzwald ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.248,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+273,France,Bourgogne-Franche-Comté Dijon,58,Decize,Réseau de Decize ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.176,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+274,France,Bourgogne-Franche-Comté Dijon,58,Nevers,Réseau du Banlay ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.189,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+275,France,Bourgogne-Franche-Comté Dijon,58,Nevers,Réseau de Nevers ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.342,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+276,France,Nord,59,Roubaix,Alma-Beaurepaire ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.083,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+277,France,Nord,59,Valenciennes,Les Canonniers ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.252,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+278,France,Nord,59,Sains-du-Nord,Réseau de Sains-du-Nord ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.128,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+279,France,Nord,59,Villeneuve-d'Ascq,Quartier Pont de bois ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.214,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+280,France,Nord,59,Villeneuve-d'Ascq,Domaine Universitaire et Scientifique ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.241,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+281,France,Nord,59,Wattignies,ZUP de Wattignies-Blanc Riez ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.174,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+282,France,Nord,59,Wattrelos,Réseau de Wattrelos ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.214,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+283,France,Nord,59,Sin-le-Noble,ZAC des Epis ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.228,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+284,France,Nord,59,Mons-en-Barœul,Monsenergie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.232,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+285,France,Nord,59,Lille,Métropole Nord ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.284,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+286,France,Nord,59,Lambersart,Réseau de Lambersart ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.294,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+287,France,Nord,59,Maubeuge,ZUP de la caserne joyeuse ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.237,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+288,France,Nord,59,Anzin,Les rives créatives de l'Escaut ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.005,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+289,France,Nord,59,Dunkerque,Energie Grand Littoral ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.1,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+290,France,Nord,59,Hazebrouck,Réseau de chauffage d'Hazebrouck ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.226,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+291,France,Nord,59,Lomme,Quartier Tournebride Lomme-Capinghem ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.079,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+292,France,Hauts de France,60,Compiègne,Réseau de Compiègne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.246,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+293,France,Hauts de France,60,Creil,La Cavée ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.109,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+294,France,Hauts de France,60,Nogent-sur-Oise,Quartier des Obiers ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.183,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+295,France,Hauts de France,60,Montataire,Les Martinets ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.213,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+296,France,Hauts de France,60,Beauvais,Réseau du Quartier Saint-Jean ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.013,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+297,France,Hauts de France,60,Breteuil-sur-Noye,Réseau de Breteuil-sur-Noye ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.025,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+298,France,Normandie,61,Alençon,Perseigne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.055,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+299,France,Normandie,61,Argentan,Quartier Nord-Route de Falaise ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.025,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+300,France,Normandie,61,La Ferté-Macé,Réseau de La Ferté-Macé ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.042,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+301,France,Normandie,61,L'Aigle,Recbia ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.032,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+302,France,Nord,62,Avion,ZUP du quartier République ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.226,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+303,France,Nord,62,Arques,Réseau de Arques ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.054,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+304,France,Nord,62,Lens,ZUP de Lens ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.006,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+305,France,Nord,62,Outreau,Le Portel-Outreau Engie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.193,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+306,France,Nord,62,Outreau,Le Portel-Outreau Dalkia ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.209,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+307,France,Nord,62,Béthune,ZUP de Béthune ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.239,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+308,France,Nord,62,Liévin,Réseau de Liévin ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.252,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+309,France,Nord,62,Calais,Calais Energie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.202,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+310,France,Nord,62,Béthune,Réseau Centre Ville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.225,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+311,France,Nord,62,Achicourt,Réseau d'Achicourt ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.1,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+312,France,Nord,62,Arras,Réseau d'Arras ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.224,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+313,France,Nord,62,Boulogne-sur-Mer,Réseau de Boulogne-sur-Mer ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.238,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+314,France,Auvergne-Rhône-Alpes,63,Riom,Réseau RCBE de Riom ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.064,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+315,France,Auvergne-Rhône-Alpes,63,Clermont-Ferrand,Saint-Jacques (HLM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.19,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+316,France,Auvergne-Rhône-Alpes,63,Clermont-Ferrand,ZUP de la Gauthière ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.081,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+317,France,Auvergne-Rhône-Alpes,63,Clermont-Ferrand,Quartiers Nord ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.022,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+318,France,Auvergne-Rhône-Alpes,63,Beaumont,ZAC du Masage ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.219,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+319,France,Auvergne-Rhône-Alpes,63,Rochefort-Montagne,Réseau de Rochefort-Montagne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.056,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+320,France,Auvergne-Rhône-Alpes,63,Royat,Réseau de Royat ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.215,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+321,France,Auvergne-Rhône-Alpes,63,Pontaumur,Réseau de Pontaumur ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.084,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+322,France,Auvergne-Rhône-Alpes,63,Ambert,Le Coral ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.12258823529411765,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+323,France,Occitanie,65,Vic-en-Bigorre,Réseau de Vic-en-Bigorre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.187,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+324,France,Grand Est,67,Strasbourg,Elsau ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.214,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+325,France,Grand Est,67,Strasbourg,Hautepierre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.225,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+326,France,Grand Est,67,Strasbourg,L'Esplanade ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.238,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+327,France,Grand Est,67,Strasbourg,Eco-Quartier Brasserie Cronenbourg ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.152,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+328,France,Grand Est,67,Strasbourg,Hochfelden ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.07,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+329,France,Grand Est,67,Betschdorf,Réseau de Betschdorf ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.086,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+330,France,Grand Est,67,Ostwald,Cité du Wihrel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.216,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+331,France,Grand Est,67,Strasbourg,Cité de l'Ill ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.1,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+332,France,Grand Est,67,Schiltigheim,Le Ried ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.256,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+333,France,Grand Est,67,Morsbronn-les-Bains,Réseau de la Communauté de Communes Sauer Pechelbronn ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.082,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+334,France,Grand Est,67,Lingolsheim,Réseau des Tanneries-Bohrie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.235,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+335,France,Grand Est,67,Haguenau,Réseau Mars ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.023,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+336,France,Grand Est,67,Niederbronn-les-Bains,Réseau de Niederbronn-les-Bains ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.045,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+337,France,Grand Est,67,Allenwiller,Réseau d'Allenwiller ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.14566666666666667,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+338,France,Grand Est,67,Haguenau,Réseau de Haguenau ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.275,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+339,France,Grand Est,68,Colmar,Réseau de Colmar ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.052,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+340,France,Grand Est,68,Colmar,Montagne Verte ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.332,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+341,France,Grand Est,68,Didenheim,L'Illberg ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.085,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+342,France,Grand Est,68,Mulhouse,Porte de Bâle ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.217,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+343,France,Grand Est,68,Saint-Louis,Réseau de la Ville de Saint-Louis ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.10928571428571429,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+344,France,Grand Est,68,Cernay,Réseau de Cernay ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.106,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+345,France,Grand Est,68,Rixheim,Réseau de Rixheim ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.05,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+346,France,Auvergne-Rhône-Alpes,69,Vénissieux,Les Minguettes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.123,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+347,France,Auvergne-Rhône-Alpes,69,Ecully,Les Sources (HLM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.223,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+348,France,Auvergne-Rhône-Alpes,69,Champagne au Mont d'Or,La Duchère et Lyon 9e ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.067,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+349,France,Auvergne-Rhône-Alpes,69,Lyon-Villeurbanne,Réseau Lyon-Villeurbanne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.093,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+350,France,Auvergne-Rhône-Alpes,69,Lyon-Villeurbanne,Réseau Lyon-Villeurbanne ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+351,France,Auvergne-Rhône-Alpes,69,Vaulx-en-Velin,Réseau de Vaulx-en-Velin ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.117,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+352,France,Auvergne-Rhône-Alpes,69,Villeurbanne,Campus de la Doua ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.257,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+353,France,Auvergne-Rhône-Alpes,69,Villeurbanne,La Perralière ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.214,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+354,France,Auvergne-Rhône-Alpes,69,Rillieux-la-Pape,Les Semailles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.057,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+355,France,Auvergne-Rhône-Alpes,69,Bron,Quartier de Parilly ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.208,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+356,France,Auvergne-Rhône-Alpes,69,Givors,Les Vernes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.237,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+357,France,Auvergne-Rhône-Alpes,69,Villefranche-sur-Saone,Réseau UIOM Villefranche ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.001,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+358,France,Auvergne-Rhône-Alpes,69,Oullins,Plateau de Montmein ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.21,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+359,France,Auvergne-Rhône-Alpes,69,Lyon,Z. H Champvert ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.235,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+360,France,Auvergne-Rhône-Alpes,69,Rillieux-la-Pape,Réseau de Rillieux-la-Pape ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.128,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+361,France,Auvergne-Rhône-Alpes,69,Gleize,Belleroche Ouest ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.069,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+362,France,Auvergne-Rhône-Alpes,69,Lyon,Mermoz Sud ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.185,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+363,France,Auvergne-Rhône-Alpes,69,Rillieux-la-Pape,Domaine de la Roue ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.235,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+364,France,Auvergne-Rhône-Alpes,69,Sathonay-Camp,Réseau de Sathonay-Camp ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.063,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+365,France,Auvergne-Rhône-Alpes,69,La Tour-de-Salvagny,Réseau de La Tour-de-Salvagny ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.055,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+366,France,Auvergne-Rhône-Alpes,69,Lamure-sur-Azergues,Réseau de Lamure-sur-Azergues ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.14536585365853658,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+367,France,Bourgogne-Franche-Comté Dijon,70,Gray,ZUP des Capucins ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.049,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+368,France,Bourgogne-Franche-Comté Dijon,70,Saulnot,Réseau de Saulnot ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.015,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+369,France,Bourgogne-Franche-Comté Dijon,70,Dampierre-sur-Linotte,Réseau de Dampierre-sur-Linotte ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.256,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+370,France,Bourgogne-Franche-Comté Dijon,70,Plancher-Bas,Réseau de Plancher-Bas ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.12,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+371,France,Bourgogne-Franche-Comté Dijon,71,Chalon-sur-Saone,Réseau de Chalon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.111,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+372,France,Bourgogne-Franche-Comté Dijon,71,Montceau-les-Mines,Réseau de Montceau les mines ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.323,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+373,France,Bourgogne-Franche-Comté Dijon,71,Mâcon,Réseau de Mâcon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.297,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+374,France,Bourgogne-Franche-Comté Dijon,71,Autun,Réseau d'Autun ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.07,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+375,France,Bourgogne-Franche-Comté Dijon,71,Tramayes,Réseau de Tramayes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.02,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+376,France,Pays-de-la-Loire,72,Le Mans,Réseau du Mans ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.23,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+377,France,Pays-de-la-Loire,72,Le Mans,Percée Centrale ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.209,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+378,France,Pays-de-la-Loire,72,Le Mans-Allonnes,ZUP d'Allonnes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.037,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+379,France,Pays-de-la-Loire,72,Coulaine,Bellevue ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.243,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+380,France,Auvergne-Rhône-Alpes,73,Chambéry,Bissy et Croix Rouge ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.149,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+381,France,Auvergne-Rhône-Alpes,73,Macôt La Plagne,La Plagne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.081,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+382,France,Auvergne-Rhône-Alpes,73,Bourg Saint Maurice,Les Arcs ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.37,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+383,France,Auvergne-Rhône-Alpes,73,Saint Etienne de Cuines,Réseau de Saint Etienne de Cuines ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.032,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+384,France,Auvergne-Rhône-Alpes,73,Beaufort,Réseau de Beaufort ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.002,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+385,France,Auvergne-Rhône-Alpes,73,Gilly-sur-Isère,Réseau de Gilly-sur-Isère ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.017,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+386,France,Auvergne-Rhône-Alpes,73,Yenne,Réseau de Yenne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.014,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+387,France,Auvergne-Rhône-Alpes,73,La Bauche,Réseau de la Bauche ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.241,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+388,France,Auvergne-Rhône-Alpes,74,Annecy,Novel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.274,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+389,France,Auvergne-Rhône-Alpes,74,Seynod,ZUP de Champ Fleury ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.045,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+390,France,Auvergne-Rhône-Alpes,74,Annemasse,Bois Energies Annemasse ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.104,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+391,France,Auvergne-Rhône-Alpes,74,Thonon-les-Bains,Réseau de la Rénovation ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.286,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+392,France,Auvergne-Rhône-Alpes,74,Arracles les Carroy,Flaine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.32,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+393,France,Auvergne-Rhône-Alpes,74,Cluses,Réseau de la Zup des Ewues ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.212,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+394,France,Auvergne-Rhône-Alpes,74,Faverges,ZA La Cudra ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.005,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+395,France,Auvergne-Rhône-Alpes,74,Scionzier,ZUP de Cozets ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.225,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+396,France,Auvergne-Rhône-Alpes,74,Avoriaz,Réseau d'Avoriaz ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.071,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+397,France,Auvergne-Rhône-Alpes,74,Clarafond-Arcine,Réseau de Clarafond-la-Presles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.224,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+398,France,Auvergne-Rhône-Alpes,74,Vallorcine,Réseau de Vallorcine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.029,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+399,France,Ile-de-France,75,Paris,CPCU-Paris et communes limitrophes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.218,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+400,France,Ile-de-France,75,Paris,Réseau Climespace ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.235,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+401,France,Ile-de-France,75,Paris,Réseau Climespace ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.006,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+402,France,Ile-de-France,75,Paris,Rue Legendre ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.325,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+403,France,Normandie,76,Rouen,Curb-Bihorel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.312,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+404,France,Normandie,76,Le Havre,ZAC du Mont Gaillard ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.261,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+405,France,Normandie,76,Mont Saint Aignan,Réseau de Mont Saint Aignan ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.255,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+406,France,Normandie,76,Canteleu,ZUP de la Cité Verte ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.157,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+407,France,Normandie,76,Petit-Quevilly,ZAC Nobel Bozel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.064,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+408,France,Normandie,76,St Etienne du Rouvray,Château Blanc ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.02,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+409,France,Normandie,76,Neuville Les Dieppe,Extension Nord-Thermical ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.215,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+410,France,Normandie,76,Gonfreville-l'Orcher,SECGO ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.014,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+411,France,Normandie,76,Rouen,CHU Charles Nicolle ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.208,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+412,France,Normandie,76,Le Havre,ZUP de Caucriauville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.31,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+413,France,Normandie,76,Le Havre,La Côte Brulée ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.231,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+414,France,Normandie,76,Rouen,Réseau bois Grammont ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.02,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+415,France,Normandie,76,Maromme,Réseau de Maromme ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.013,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+416,France,Normandie,76,Notre-Dame-de-Gravenchon,SRGB ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.019,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+417,France,Normandie,76,Neufchatel-en-Bray,Réseau de Neufchatel-en-Bray ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.038,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+418,France,Ile-de-France,77,Meaux,Hôpital ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.108,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+419,France,Ile-de-France,77,Meaux,Beauval-Collinet ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.093,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+420,France,Ile-de-France,77,Melun,Almont-Montaigu ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.021,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+421,France,Ile-de-France,77,Nemours,ZUP du mont Saint-Martin (GTNM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.069,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+422,France,Ile-de-France,77,Dammarie-les-Lys,Réseau de Dammarie-les-Lys ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.237,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+423,France,Ile-de-France,77,Avon,Centrale de la butte Monceau ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.318,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+424,France,Ile-de-France,77,Le Mée-sur-Seine,Réseau du Mée-sur-Seine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.046,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+425,France,Ile-de-France,77,Vaux-le-Pénil,Réseau de Vaux-le-Pénil ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.011,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+426,France,Ile-de-France,77,Coulommiers,Réseau de Coulommiers ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.0007,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+427,France,Ile-de-France,77,Montereau-Fault-Yonne,ZUP de Surville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.024,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+428,France,Ile-de-France,77,Torcy,Réseau de Marne la Vallée ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.008,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+429,France,Ile-de-France,77,Chelles,Réseau de Chelles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.124,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+430,France,Ile-de-France,78,Elancourt,Les Nouveaux Horizons ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.349,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+431,France,Ile-de-France,78,Mantes la Jolie,Le Val Fourré ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.095,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+432,France,Ile-de-France,78,Versailles,Réseau SVCU de Versailles ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.236,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+433,France,Ile-de-France,78,Le Chesnay,Parly II-Le Chesnay ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.227,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+434,France,Ile-de-France,78,Saint Germain en Laye,Réseau de Saint Germain en Laye ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.242,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+435,France,Ile-de-France,78,Achères,Réseau d'Achères ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.096,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+436,France,Ile-de-France,78,Chanteloup,ZAC de la Noe ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.319,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+437,France,Ile-de-France,78,Les Mureaux,Quartier Grand Ouest et des Musiciens ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.213,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+438,France,Ile-de-France,78,Vélizy-Villacoublay,Réseau de Vélizy ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.239,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+439,France,Ile-de-France,78,La Celle Saint Cloud,Domaine de Beauregard-Cogecel ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.322,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+440,France,Ile-de-France,78,Carrières sur Seine,Réseau de Carrières-Chatou ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.006,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+441,France,Ile-de-France,78,Plaisir,Réseau de Plaisir-Resop ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.043,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+442,France,Poitou-Charente,79,Niort,ZUP Le Clou Bouchet ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.202,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+443,France,Poitou-Charente,79,Bressuire,Réseau de Bressuire ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.049,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+444,France,Poitou-Charente,79,L'Absie,Réseau de l'Absie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.006,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+445,France,Hauts de France,80,Amiens,Etouvie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.259,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+446,France,Hauts de France,80,Montdidier,Réseau de Montdidier ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.075,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+447,France,Hauts de France,80,Abbeville,Réseau d'Abbeville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.106,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+448,France,Occitanie,81,Carmaux,Réseau de Carmaux ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.259,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+449,France,Occitanie,81,Mazamet,Chauffage urbain de Mazamet ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.072,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+450,France,Occitanie,81,Castres,Réseau de Castres Lameilhé ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.041,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+451,France,Occitanie,81,Gaillac,Réseau de Gaillac-ZAC de Pouille ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.04,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+452,France,Occitanie,81,Graulhet,Réseau de Graulhet ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.017,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+453,France,Occitanie,81,Alban,Réseau d'Alban ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.021,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+454,France,Occitanie,82,Montauban,Réseau de Montauban-Setmo ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.02,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+455,France,Occitanie,82,Caylus,Réseau de Caylus ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.267,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+456,France,Provence-Alpes-Côte d'Azur,83,Toulon,Réseau La Beaucaire (UIOM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.053,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+457,France,Provence-Alpes-Côte d'Azur,83,La-Seyne-sur-Mer,Berthe ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.095,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+458,France,Provence-Alpes-Côte d'Azur,84,Avignon,Le Triennal ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.217,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+459,France,Pays-de-la-Loire,85,La-Roche-sur-Yon,Quartier Vendée ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.314,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+460,France,Pays-de-la-Loire,85,Les Herbiers,Réseau Les Herbiers ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.054,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+461,France,Pays-de-la-Loire,85,Saint-Pierre-du-Chemin,Réseau de Saint-Pierre-du-Chemin ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.1855,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+462,France,Poitou-Charente,86,Poitiers,ZUP des Couronneries ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.078,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+463,France,Poitou-Charente,86,Civaux,Réseau de Civaux ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.067,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+464,France,Aquitaine-Limousin-Poitou-Charentes,87,Limoges,ZUP Val de l'Aurence ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.038,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+465,France,Aquitaine-Limousin-Poitou-Charentes,87,Limoges,ZAC de Beaubreuil ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.005,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+466,France,Aquitaine-Limousin-Poitou-Charentes,87,Limoges,Quartier de l'Hôtel de Ville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.219,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+467,France,Grand Est,88,Epinal,Plateau de la Justice ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.138,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+468,France,Grand Est,88,Saint-Dié,Quartier Kellerman ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.035,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+469,France,Grand Est,88,Vittel,ZAD du Haut de Fol ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.144,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+470,France,Grand Est,88,Fresse sur Moselle,Réseau de Fresse sur Moselle ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.02,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+471,France,Bourgogne-Franche-Comté Dijon,89,Sens,ZUP des Grahuches ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.015,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+472,France,Bourgogne-Franche-Comté Dijon,89,Auxerre,ZUP de Sainte Geneviève ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.241,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+473,France,Bourgogne-Franche-Comté Dijon,89,Sens,Les Chaillots ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.234,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+474,France,Bourgogne-Franche-Comté Dijon,90,Belfort,ZUP des Glacis ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.248,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+475,France,Ile-de-France,91,Massy,Réseau de Massy-Antony ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.134,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+476,France,Ile-de-France,91,Les Ulis,Réseau des Ulis-Thermulis ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.103,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+477,France,Ile-de-France,91,Evry,Réseau d'Evry ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.168,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+478,France,Ile-de-France,91,Saint-Michel-Sur-Orge,Domaine du Bois des Roches ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.262,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+479,France,Ile-de-France,91,Grigny,Réseau de Grigny SOCCRAM ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.235,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+480,France,Ile-de-France,91,Brétigny-sur-orge,Réseau de Brétigny-sur-Orge ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.093,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+481,France,Ile-de-France,91,Dourdan,Réseau de Dourdan ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.259,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+482,France,Ile-de-France,91,Bruyères-le-Chatel,CEA DIF ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.147,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+483,France,Ile-de-France,91,Vigneux-sur-Seine,ZUP de la Croix Blanche ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.137,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+484,France,Ile-de-France,91,Epinay-sous-Sénart,Réseau d'Epinay sous Sénart ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.068,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+485,France,Ile-de-France,91,Ris-Orangis,Réseau de Ris-Orangis ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.094,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+486,France,Ile-de-France,91,Sainte Geneviève des Bois,Réseaux ZUP de Saint Hubert et Louis Pergaud ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.217,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+487,France,Ile-de-France,91,Corbeil-Essonnes,Les Tarterets ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.28,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+488,France,Ile-de-France,91,Grigny,Réseau de Grigny COFELY ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.289,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+489,France,Ile-de-France,91,Villejust,Réseau Parc d'activités ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.17627586206896553,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+490,France,Ile-de-France,91,Viry-Châtillon,Réseau de Viry Châtillon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.218,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+491,France,Ile-de-France,92,Meudon la Forêt,Réseau de Meudon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.208,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+492,France,Ile-de-France,92,Clichy la Garenne,Réseau de Clichy ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.26,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+493,France,Ile-de-France,92,Nanterre,ZAC Sainte-Geneviève ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.101,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+494,France,Ile-de-France,92,Gennevilliers,Réseau Gennedith ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.231,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+495,France,Ile-de-France,92,Chaville,Réseau de Chaville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.224,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+496,France,Ile-de-France,92,Levallois-Perret,ZAC de Levallois Perret ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.253,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+497,France,Ile-de-France,92,Plessis-Robinson,Réseau du Plessis-Robinson (HLM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.332,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+498,France,Ile-de-France,92,Levallois-Perret,ZAC du Front de Seine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.274,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+499,France,Ile-de-France,92,Châtillon-Sous-Bagneux,Réseau de Châtillon sous Bagneux Cocharec ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.212,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+500,France,Ile-de-France,92,Boulogne-Billancourt,ZAC île Séguin Rives de Seine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.214,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+501,France,Ile-de-France,92,Boulogne-Billancourt,ZAC île Séguin Rives de Seine ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.013,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+502,France,Ile-de-France,92,Le Plessis-Robinson,Réseau du Plessis Robinson-ZIPEC ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.346,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+503,France,Ile-de-France,92,Suresnes,Chauffage urbain de Suresnes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.24,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+504,France,Ile-de-France,92,Courbevoie,Réseau Soclic ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.25,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+505,France,Ile-de-France,92,Courbevoie,Réseau de La Défense-Enertherm ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.244,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+506,France,Ile-de-France,92,Courbevoie,Réseau de La Défense-Enertherm ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.009,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+507,France,Ile-de-France,92,Villeneuve-la-Garenne,Résidence Villeneuve ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.212,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+508,France,Ile-de-France,92,Puteaux,Réseau Ciceo ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.235,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+509,France,Ile-de-France,92,Issy-les-Moulineaux,Réseau Suc ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.012,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+510,France,Ile-de-France,92,Nanterre,Réseau Quartier Hoche ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.095,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+511,France,Ile-de-France,92,Colombes,Réseau de la ZAC de la Marine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.202,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+512,France,Ile-de-France,92,Levallois-Perret,Réseau Cristalia ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.02,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+513,France,Ile-de-France,93,Saint Denis,Réseau de Saint Denis ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.177,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+514,France,Ile-de-France,93,Bobigny,ZUP de Bobigny ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.217,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+515,France,Ile-de-France,93,Sevran,ZAC de Sevran ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.217,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+516,France,Ile-de-France,93,Neuilly-sur-Marne,ZUP des Fauvettes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.244,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+517,France,Ile-de-France,93,Villepinte,Réseau de Villepinte ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.254,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+518,France,Ile-de-France,93,Aubervilliers,Pariféric ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.313,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+519,France,Ile-de-France,93,Sevran,Rougemont Perrin Chanteloup ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.202,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+520,France,Ile-de-France,93,Le Bourget,Réseau ADP Le Bouget ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.021,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+521,France,Ile-de-France,93,Le Bourget,Réseau ADP Le Bouget ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.242,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+522,France,Ile-de-France,93,Clichy-sous-Bois,Le Chêne Pointu ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.173,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+523,France,Ile-de-France,93,Aulnay-sous-Bois,Le Gros Saule ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.18,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+524,France,Ile-de-France,93,La Courneuve,La Courneuve Quartier Nord ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.159,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+525,France,Ile-de-France,93,Tremblay-en-France,Tremblay-en-France ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.09,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+526,France,Ile-de-France,93,Blanc Mesnil,Réseau du Blanc Mesnil ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.232,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+527,France,Ile-de-France,93,Bondy,Réseau de Bondy ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.192,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+528,France,Ile-de-France,93,Aulnay sous bois,Garonor ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.322,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+529,France,Ile-de-France,93,Aulnay sous bois,Aulnay 3000-Rose des Vents ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.325,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+530,France,Ile-de-France,93,Saint-Denis,Stade Energies Centrale Landy ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.225,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+531,France,Ile-de-France,93,Saint-Denis,Stade Energies ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.009,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+532,France,Ile-de-France,93,La Courneuve,La Courneuve Quartier Sud ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.161,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+533,France,Ile-de-France,93,Les Lilas,Résidence Les Lilas ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.283,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+534,France,Ile-de-France,94,Limeil-Brévannes,Réseau de Limeil-Brévannes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.274,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+535,France,Ile-de-France,94,Créteil,Réseau de Créteil-Scuc ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.047,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+536,France,Ile-de-France,94,Vitry-sur-Seine,Réseau de Vitry-sur-Seine ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.235,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+537,France,Ile-de-France,94,Fontenay-sous-Bois,Fontenay-sous-Bois ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.166,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+538,France,Ile-de-France,94,Sucy-en-Brie,Réseau de Sucy en Brie ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.089,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+539,France,Ile-de-France,94,Cachan,Réseau de Cachan ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.026,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+540,France,Ile-de-France,94,Champigny-sur-Marne,Réseau de Champigny sur Marne ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.058,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+541,France,Ile-de-France,94,Maison-Alfort,Réseau de Maison Alfort ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.077,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+542,France,Ile-de-France,94,Thiais,Réseau de Thiais ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.014,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+543,France,Ile-de-France,94,Bonneuil-sur-Marne,Réseau de Bonneuil sur Marne (UIOM) ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.056,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+544,France,Ile-de-France,94,l'Hay-les-Roses,Réseau de Chevilly-Larue et l'Hay les Roses ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.087,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+545,France,Ile-de-France,94,Fresnes,Quartier Nord ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.103,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+546,France,Ile-de-France,94,Orly,Réseau d'Orly ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.018,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+547,France,Ile-de-France,94,Alfortville,Réseau d'Alfortville-Smag ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.055,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+548,France,Ile-de-France,94,Ivry,Réseau d'Ivry ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.226,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+549,France,Ile-de-France,94,Villeneuve Saint Georges,Réseau de Villeneuve Saint Georges ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.084,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+550,France,Ile-de-France,94,Orly,Réseau ADP Orly ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.084,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+551,France,Ile-de-France,94,Orly,Réseau ADP Orly ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.007,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+552,France,Ile-de-France,95,Taverny,Réseau de la ZAC Croix Rouge ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.24,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+553,France,Ile-de-France,95,Sarcelles,Grand Ensemble Sarcelles-Locheres ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.037,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+554,France,Ile-de-France,95,Cergy Pontoise,Réseau de Cergy-Pontoise ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.188,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+555,France,Ile-de-France,95,Ermont,Les Chênes ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.209,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+556,France,Ile-de-France,95,Garges-Les-Gonesse,Van Gogh ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.181,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+557,France,Ile-de-France,95,Franconville,ZUP de Sannois-Ermont-Franconville ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.08,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+558,France,Ile-de-France,95,Argenteuil,Réseau d'Argenteuil ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.053,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+559,France,Ile-de-France,95,Roissy,Réseaux ADP Roissy ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.166,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+560,France,Ile-de-France,95,Roissy,Réseau ADP Roissy ,cool,2017-12-01,2019-09-01,2017-01-01,True,0.008,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+561,France,Ile-de-France,95,Franconville,ZUP de l'Epine Guyon ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.201,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+562,France,Ile-de-France,95,Villiers-le-Bel,Réseau de Villiers-le-Bel-Gonesse ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.058,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+563,France,Ile-de-France,95,Pontoise,Réseau de Pontoise ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.194,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+564,France,Ile-de-France,95,Franconville,ZAC Montedour ,heat,2017-12-01,2019-09-01,2017-01-01,True,0.23,30%,kgCO2e/kWh,Legifrance,27,kgCO2e/kWh,32.0,Legifrance
+565,France,Auvergne-Rhône-Alpes,1,Bourg-en-Bresse,La Reyssouze ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.141,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+566,France,Auvergne-Rhône-Alpes,1,Hauteville Lompnes,Réseau d’Hauteville Lompnes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1245,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+567,France,Auvergne-Rhône-Alpes,1,Saint-Denis-les-Bourg,Réseau de Saint-Denis-les-Bourg ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+568,France,Auvergne-Rhône-Alpes,1,Belley,Belena ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.025,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+569,France,Auvergne-Rhône-Alpes,1,Treffort-Cuisiat,Réseau de Treffort ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.273,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+570,France,Auvergne-Rhône-Alpes,1,Oyonnax,Oyonnax BioChaleur ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.03,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+571,France,Auvergne-Rhône-Alpes,1,Bourg-en-Bresse,La Vinaigrerie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.068,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+572,France,Hauts de France,2,Saint-Quentin,ZUP du Quartier Europe ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.079,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+573,France,Hauts de France,2,Soissons,ZUP de Presles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.085,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+574,France,Hauts de France,2,Barenton-Bugny,Réseau de Laon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.013,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+575,France,Hauts de France,2,Urcel,Réseau d’Urcel ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.038,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+576,France,Hauts de France,2,Château-Thierry,Réseau de Château-Thierry ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.026,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+577,France,Auvergne-Rhône-Alpes,3,Moulins,Réseau de Moulins ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.027,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+578,France,Auvergne-Rhône-Alpes,3,Montluçon,Fontbouillant ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.142,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+579,France,Auvergne-Rhône-Alpes,3,Le Mayet-de-Montagne,Réseau de Mayet-de-Montagne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.011,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+580,France,Auvergne-Rhône-Alpes,3,Meaulne,Réseau de Meaulne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08022222222222222,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+581,France,Auvergne-Rhône-Alpes,3,Commentry,Réseau de Commentry ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.081,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+582,France,Auvergne-Rhône-Alpes,3,Ebreuil,Réseau de chaleur d’Ebreuil ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.03,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+583,France,Provence-Alpes-Côte d'Azur,4,Manosque,RCU Manosque ZAC Chanteprunier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.048,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+584,France,Provence-Alpes-Côte d'Azur,4,Forcalquier,Réseau La Tomie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.009,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+585,France,Provence-Alpes-Côte d'Azur,4,Allos,Réseau d’Allos ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.035250000000000004,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+586,France,Provence-Alpes-Côte d'Azur,4,Barcelonnette,Réseau de Barcelonnette ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.048,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+587,France,Provence-Alpes-Côte d'Azur,5,Embrun,Réseau bois Delaroche ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.011,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+588,France,Provence-Alpes-Côte d'Azur,5,Embrun,Réseau Quartier Gare ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.005,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+589,France,Provence-Alpes-Côte d'Azur,5,Tallard,Réseau de l’Association La Chrysalide ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.242,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+590,France,Provence-Alpes-Côte d'Azur,6,Nice,Sonitherm-Réseau de l’Ariane ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11950000000000001,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+591,France,Provence-Alpes-Côte d'Azur,6,Nice,Saint Augustin (HLM) ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.183,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+592,France,Provence-Alpes-Côte d'Azur,6,Cannes,Ranguin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.129,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+593,France,Provence-Alpes-Côte d'Azur,6,Levens,Réseau chaleur et froid chaine de vie 06 ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.07,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+594,France,Auvergne-Rhône-Alpes,7,Aubenas,Réseau d’Aubenas ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.023,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+595,France,Auvergne-Rhône-Alpes,7,Le Cheylard,Réseau de Cheylard ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.025,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+596,France,Auvergne-Rhône-Alpes,7,Valgorge,Réseau de Valgorge ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.01975,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+597,France,Auvergne-Rhône-Alpes,7,Banne,Réseau de chaleur de Banne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.01975,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+598,France,Auvergne-Rhône-Alpes,7,Burzet,Réseau de chaleur communal de Burzet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.01975,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+599,France,Auvergne-Rhône-Alpes,7,Montpezat-Sous-Bauzon,Réseau de Montpezat-Sous-Bauzon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.01975,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+600,France,Grand Est,8,Charleville-Mézières,La Citadelle ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.225,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+601,France,Grand Est,8,Charleville-Mézières,Ronde couture ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.075,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+602,France,Grand Est,8,Sedan,ZUP de Sedan ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.114,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+603,France,Grand Est,8,Machault,Réseau bois de Machault ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.273,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+604,France,Grand Est,8,Rocroi,Réseau de chaleur de Rocroi ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.094,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+605,France,Grand Est,10,Les Noes-Pres-Troyes,ZUP de la Chapelle Saint-Luc ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.228,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+606,France,Grand Est,10,Troyes,Les Chartreux ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.084,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+607,France,Grand Est,10,Piney,Biomasse de Piney ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.071,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+608,France,Occitanie,11,Narbonne,ZAC Saint Jean et Saint Pierre ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.093,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+609,France,Occitanie,11,Carcassonne,Réseau CEF-MCO ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.184,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+610,France,Occitanie,12,Decazeville,Réseau de Decazeville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.02,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+611,France,Occitanie,12,Rodez,Réseau Sarrus ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.142,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+612,France,Occitanie,12,Onet-le-Château,Réseau de Cantagrelh ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.298,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+613,France,Provence-Alpes-Côte d'Azur,13,Salon de Provence,ZAC des Canourgues ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.206,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+614,France,Provence-Alpes-Côte d'Azur,13,Marseille,Luminy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.253,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+615,France,Provence-Alpes-Côte d'Azur,13,Martigues,ZAC Paradis-Saint-Roch ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.245,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+616,France,Provence-Alpes-Côte d'Azur,13,Martigues,ZAC Canto Perdrix ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.049,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+617,France,Provence-Alpes-Côte d'Azur,13,Vitrolles,Centre Urbain-Zac des Pins ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.225,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+618,France,Provence-Alpes-Côte d'Azur,13,Aix-en-Provence,Réseau d’Aix-en-Provence ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.18823076923076923,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+619,France,Provence-Alpes-Côte d'Azur,13,Istres,La Bayanne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.116,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+620,France,Provence-Alpes-Côte d'Azur,13,Coudoux,Réseau communal de Coudoux ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.101,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+621,France,Normandie,14,Hérouville-Saint-Clair,Hérouville St Clair ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.015,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+622,France,Normandie,14,Lisieux,ZUP de Hauteville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.046,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+623,France,Normandie,14,Falaise,ZAC de Falaise ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.02,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+624,France,Normandie,14,Caen,Quartier Nord ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.231,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+625,France,Normandie,14,Bayeux,Réseau Bois I ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.081,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+626,France,Normandie,14,Bayeux,Réseau Bois Vallée des Près (Bayeux 2) ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.068,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+627,France,Normandie,14,Aunay-sur-Odon,Réseau d’Aunay-sur-Odon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.017,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+628,France,Normandie,14,Vire,Réseau de Vire ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.027,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+629,France,Normandie,14,Argences,Réseau de Val-ès-Dunes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.041,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+630,France,Normandie,14,Caen,Caen Sud ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.167,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+631,France,Auvergne-Rhône-Alpes,15,Aurillac,Réseau de l’hôpital d’Aurillac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.002,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+632,France,Auvergne-Rhône-Alpes,15,Saint-Georges,Réseau de chaleur bois du Crozatier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.005,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+633,France,Auvergne-Rhône-Alpes,15,Saint-Flour,Réseau de chaleur bois du Volzac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.007,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+634,France,Auvergne-Rhône-Alpes,15,Riom-ès-Montagnes,Réseau de Riom-ès-Montagnes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.033,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+635,France,Auvergne-Rhône-Alpes,15,Arpajon-sur-Cere,Réseau de l’OP HLM Du Cantal ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.03685714285714286,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+636,France,Poitou-Charente,16,Soyaux,Réseau Champ de manoeuvre ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.325,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+637,France,Poitou-Charente,16,Champagne-Mouton,Réseau de Champagne-Mouton ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.2625,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+638,France,Poitou-Charente,16,Montemboeuf,Réseau de Montemboeuf ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.2625,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+639,France,Poitou-Charente,17,La Rochelle,Villeneuve les Salines ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.044,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+640,France,Poitou-Charente,17,Jonzac,Réseau de Jonzac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.029,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+641,France,Poitou-Charente,17,Aytre,Réseau de Aytre ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.008,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+642,France,Poitou-Charente,17,La Rochelle,Pont Neuf Mireuil Energie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.019,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+643,France,Poitou-Charente,17,Pons,Réseau de Pons ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.072,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+644,France,Poitou-Charente,17,Gémozac,Réseau de Gémozac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.019,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+645,France,Centre,18,Asnières-les-Bourges,Chancellerie Gibjoncs-ZUP de Bourges ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.023,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+646,France,Centre,18,Vierzon,Clos du Roi-Tunnel Château ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.19,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+647,France,Aquitaine-Limousin-Poitou-Charentes,19,Saint-Pantaléon-de-Larche,Centre de valorisation énergétique Brive ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.004,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+648,France,Aquitaine-Limousin-Poitou-Charentes,19,Egletons,Egletons Bois Energie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.02,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+649,France,Aquitaine-Limousin-Poitou-Charentes,19,Sornac,Réseau de Sornac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.042,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+650,France,Aquitaine-Limousin-Poitou-Charentes,19,Servières-le-Château,Réseau de Servières-le-Château ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.06042857142857143,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+651,France,Aquitaine-Limousin-Poitou-Charentes,19,Eyrein,Borg Warner ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.284,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+652,France,Corse,20,Corte,Réseau de Corte ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.266,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+653,France,Bourgogne-Franche-Comté Dijon,21,Dijon,La Fontaine d’Ouche et Chenove ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.161,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+654,France,Bourgogne-Franche-Comté Dijon,21,Dijon,Dijon Énergies ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.068,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+655,France,Bourgogne-Franche-Comté Dijon,21,Dijon,Les Gresilles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.07,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+656,France,Bretagne,22,Ploufragan,Réseau de Brézillet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.181,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+657,France,Bretagne,22,Pluzunet,Réseau de chaleur de Pluzunet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.181,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+658,France,Bretagne,22,Collinée,Réseau de chaleur de Collinée ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.181,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+659,France,Bretagne,22,Plessala,Réseau de chaleur de Pessala ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.181,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+660,France,Bretagne,22,Le Gouray,Réseau de chaleur du Gouray ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.181,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+661,France,Aquitaine-Limousin-Poitou-Charentes,23,Bourganeuf,Réseau de Bourganeuf ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.026,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+662,France,Aquitaine-Limousin-Poitou-Charentes,23,Felletin,Réseau de Felletin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.024,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+663,France,Aquitaine-Limousin-Poitou-Charentes,23,Gentioux-Pigerolles,Réseau de Gentioux ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.192,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+664,France,Aquitaine-Limousin-Poitou-Charentes,24,Saint-Astier,Réseau de Saint-Astier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.069,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+665,France,Aquitaine-Limousin-Poitou-Charentes,24,Périgueux,L’Arche au Bois ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.037,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+666,France,Aquitaine-Limousin-Poitou-Charentes,24,Douville,Réseau de Douville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.049,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+667,France,Aquitaine-Limousin-Poitou-Charentes,24,Coulounieix-chamiers,Réseau de Coulounieix-chamiers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.091,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+668,France,Bourgogne-Franche-Comté Dijon,25,Besançon,Besançon-Planoise ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.063,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+669,France,Bourgogne-Franche-Comté Dijon,25,Montbéliard,ZUP de la Petite Hollande ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.053,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+670,France,Bourgogne-Franche-Comté Dijon,25,Béthoncourt,Champvalon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.216,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+671,France,Bourgogne-Franche-Comté Dijon,25,Le Russey,Chaufferie Bois du Russey ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.048,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+672,France,Bourgogne-Franche-Comté Dijon,25,Audincourt,Champs Montants ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.184,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+673,France,Bourgogne-Franche-Comté Dijon,25,Besançon,Domaine Universitaire de la Bouloie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.051,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+674,France,Bourgogne-Franche-Comté Dijon,25,Mouthe,Réseau de Mouthe ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.091,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+675,France,Bourgogne-Franche-Comté Dijon,25,Pontarlier,Réseau de Pontarlier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.011,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+676,France,Auvergne-Rhône-Alpes,26,Valence,Réseau de la Zup de Valence ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.288,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+677,France,Auvergne-Rhône-Alpes,26,Vassieux-en-Vercors,Réseau de Vassieux-en-Vercors ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.014,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+678,France,Auvergne-Rhône-Alpes,26,Pierrelatte,Réseau de Pierrelatte-Des ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.19514285714285715,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+679,France,Auvergne-Rhône-Alpes,26,Montélimar,Réseau Pracomptal ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.268,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+680,France,Auvergne-Rhône-Alpes,26,Romans-sur-Isère,Réseau du quartier de la Monnaie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.244,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+681,France,Normandie,27,Evreux,ZUP de Saint André-Thermevra ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.018,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+682,France,Normandie,27,Louviers,Louviers Energie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.077,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+683,France,Normandie,27,Pont-Audemer,Quartier de l’Europe ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.217,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+684,France,Normandie,27,Les Andelys,Tours du Levant Clos Galots ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.21,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+685,France,Normandie,27,Vernon,ZUP Les Valmeux ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.191,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+686,France,Normandie,27,Conches-en-Ouches,Réseau de Conches-en-Ouches ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.053,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+687,France,Normandie,27,Canappeville,Réseau-Canappeville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.14345454545454547,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+688,France,Centre,28,Chartres,ZUP de la Madeleine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.315,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+689,France,Centre,28,Nogent Rotrou,Les Gauchetières ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.219,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+690,France,Centre,28,Chateaudun,Réseau Dunes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.036,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+691,France,Centre,28,Manvilliers,Tallemont ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.326,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+692,France,Centre,28,Voves,Réseau de chaleur de Voves ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.203625,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+693,France,Bretagne,29,Brest,Eco chaleur de Brest ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.02,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+694,France,Bretagne,29,Plougastel-Daoulas,Réseau de Plougastel-Daoulas ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.02,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+695,France,Occitanie,30,Nîmes,Quartier Ouest ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+696,France,Occitanie,30,Ales,DALAE ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+697,France,Occitanie,30,Lamelouze,Réseau Lamelouze ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1235,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+698,France,Occitanie,31,Toulouse,Réseau de Toulouse Mirail ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.13666666666666666,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+699,France,Occitanie,31,Toulouse,Canceropôle ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.017,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+700,France,Occitanie,31,Toulouse,Canceropôle ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.01,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+701,France,Occitanie,31,Toulouse,Réseau Saint-Exupéry ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.2,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+702,France,Occitanie,31,Toulouse,Ensemble Universitaire de Toulouse Rangueil ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.324,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+703,France,Occitanie,31,Balma,Eco-quartier Balma Vidailhan ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.083,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+704,France,Occitanie,31,Blagnac,ZAC du Ritouret ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.122,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+705,France,Occitanie,31,Ayguevives,Réseau En Turet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.077,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+706,France,Aquitaine-Limousin-Poitou-Charentes,33,Bordeaux,Grand Parc ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.185,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+707,France,Aquitaine-Limousin-Poitou-Charentes,33,Bordeaux,Mériadeck ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08388,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+708,France,Aquitaine-Limousin-Poitou-Charentes,33,Le Barp,Laseris ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.228,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+709,France,Aquitaine-Limousin-Poitou-Charentes,33,Le Barp,Laseris ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.012,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+710,France,Aquitaine-Limousin-Poitou-Charentes,33,Pellegrue,Réseau de Pellegrue ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.031,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+711,France,Aquitaine-Limousin-Poitou-Charentes,33,Mérignac,Parc de Mérignac Ville Stemer ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.208,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+712,France,Aquitaine-Limousin-Poitou-Charentes,33,Cenon,Rive Droite Energies ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.048,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+713,France,Aquitaine-Limousin-Poitou-Charentes,33,Gironde-sur-Dropt,Réseau de chaleur de Gironde sur Dropt ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.06,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+714,France,Aquitaine-Limousin-Poitou-Charentes,33,Saint-Pierre-d’Aurillac,Réseau de chaleur de Saint-Pierre d’Aurillac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.021,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+715,France,Aquitaine-Limousin-Poitou-Charentes,33,La Réole,Réseau de la Réole ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.005,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+716,France,Aquitaine-Limousin-Poitou-Charentes,33,Bègles,Réseau de Terre Neuves ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+717,France,Aquitaine-Limousin-Poitou-Charentes,33,Lormont,Eco-quartier Ginko ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.055,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+718,France,Aquitaine-Limousin-Poitou-Charentes,33,Bordeaux,Bassins à flots ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.029,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+719,France,Aquitaine-Limousin-Poitou-Charentes,33,Bordeaux,Bassins à flots ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.009,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+720,France,Aquitaine-Limousin-Poitou-Charentes,33,Bordeaux,Bordeaux Begles Energies ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.285,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+721,France,Aquitaine-Limousin-Poitou-Charentes,33,Lesparre-Médoc,Réseau de la clinique de Lesparre ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.056,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+722,France,Occitanie,34,Montpellier,RMCF ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.086,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+723,France,Occitanie,34,Montpellier,Polygone Antigone ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.093,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+724,France,Occitanie,34,Montpellier,Ernest Granier ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.012,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+725,France,Occitanie,34,Montpellier,Port Marianne Odysseum ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.012,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+726,France,Occitanie,34,Montpellier,Réseau des universités ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.031,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+727,France,Occitanie,34,Montpellier,Réseau Arches Jacques Coeur ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.015,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+728,France,Occitanie,34,Juvignac,ZAC des Constellations ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.079,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+729,France,Bretagne,35,Rennes,Sarah Bernhardt ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.215,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+730,France,Bretagne,35,Rennes,Campus scientifique de Beaulieu ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.196,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+731,France,Bretagne,35,Rennes,Quartier Sud ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.093,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+732,France,Bretagne,35,Combourg,Réseau de chaleur de Bretagne Romantique ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.054,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+733,France,Bretagne,35,Vitré,Réseau de Vitré ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.112,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+734,France,Bretagne,35,Rennes,Réseau de la centrale Thermique de Villejean ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.021,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+735,France,Bretagne,35,Janzé,Réseau de Janzé ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.02,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+736,France,Bretagne,35,Vezin le Coquet,Réseau de Vezin le Coquet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.035,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+737,France,Bretagne,35,Rennes,Réseau de Rennes Est (ZAC Baud-Chardonnet) ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.001,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+738,France,Centre,37,Joué-les-Tours,Morier et Rabière ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.22,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+739,France,Centre,37,Tours,ZUP des Bords de Cher et Sanitas ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.071,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+740,France,Centre,37,Tours,Quartier Chateaubriand ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.192,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+741,France,Centre,37,Saint-Pierre-des-Corps,La Rabaterie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.232,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+742,France,Centre,37,Saint-Benoît-la-Forêt,Centre de Valorisation Energétique ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.005,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+743,France,Centre,37,La Riche,Réseau de chauffage urbain de la Riche-Quartier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.238,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+744,France,Auvergne-Rhône-Alpes,38,Grenoble,Réseau de Grenoble ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.141,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+745,France,Auvergne-Rhône-Alpes,38,Grenoble,Réseau froid CCIAG Grenoble ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.013,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+746,France,Auvergne-Rhône-Alpes,38,Bourgoin Jailleu,Berjalia ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.034,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+747,France,Auvergne-Rhône-Alpes,38,Vinay,Réseau de chaleur de Vinay ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.048,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+748,France,Auvergne-Rhône-Alpes,38,Saint-Marcellin,Réseau de Saint Marcellin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.027,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+749,France,Auvergne-Rhône-Alpes,38,Villars-de-Lans,Les Laiches ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.023,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+750,France,Auvergne-Rhône-Alpes,38,Lans-en-Vercors,Réseau de Lans-en-Vercors ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.013,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+751,France,Auvergne-Rhône-Alpes,38,Monestier-de-Clermont,Réseau de Monestier-de-Clermont ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.024,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+752,France,Auvergne-Rhône-Alpes,38,Mens,Réseau de Mens ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.066,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+753,France,Auvergne-Rhône-Alpes,38,Pontcharra,Réseau de Chaleur Bois Pontcharra RCBP ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.061,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+754,France,Auvergne-Rhône-Alpes,38,Allevard,Réseau d’Allevard ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.02,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+755,France,Auvergne-Rhône-Alpes,38,Coublevie,Réseau de Coublevie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.056,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+756,France,Auvergne-Rhône-Alpes,38,Voreppe,Réseau de chaleur de Voreppe ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.042,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+757,France,Bourgogne-Franche-Comté Dijon,39,Dole,Réseau de Dole ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.109,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+758,France,Bourgogne-Franche-Comté Dijon,39,Lons-le-Saunier,La Marjorie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.082,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+759,France,Bourgogne-Franche-Comté Dijon,39,Champvans,Réseau de Champvans ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11116666666666668,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+760,France,Bourgogne-Franche-Comté Dijon,39,Moirans-en-Montagne,Réseau de Moirans-en-Montagne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.118,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+761,France,Bourgogne-Franche-Comté Dijon,39,Arinthod,Réseau CCPM Arinthod ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11116666666666668,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+762,France,Bourgogne-Franche-Comté Dijon,39,Hauts de Bienne,Réseau de la Ville de Morez ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11116666666666668,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+763,France,Bourgogne-Franche-Comté Dijon,39,Avignon-Les-Saint-Claude,Chaufferie Bois les Orchidées ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11116666666666668,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+764,France,Aquitaine-Limousin-Poitou-Charentes,40,Mont-de-Marsan,Géothermie Mont-de-Marsan (GMM1) ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.018,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+765,France,Aquitaine-Limousin-Poitou-Charentes,40,Mont-de-Marsan,Réseau de chaleur Peyrouat ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.095,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+766,France,Centre,41,Blois,Quartier Bégon et Chevalier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.022,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+767,France,Centre,41,Vineuil,ZAC des Paradis ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.056,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+768,France,Centre,41,Mondoubleau,Réseau de Mondoubleau ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.116,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+769,France,Auvergne-Rhône-Alpes,42,Saint-Étienne,ZUP de la Cotonne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.227,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+770,France,Auvergne-Rhône-Alpes,42,Saint-Étienne,Quartier de La Métare ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.196,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+771,France,Auvergne-Rhône-Alpes,42,Saint-Étienne,HLM Beaulieu Montchovet IV ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.275,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+772,France,Auvergne-Rhône-Alpes,42,Firminy,Réseau de Firminy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.116,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+773,France,Auvergne-Rhône-Alpes,42,Roanne,Quartier RN 7 ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.233,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+774,France,Auvergne-Rhône-Alpes,42,Saint Etienne,Réseau de Chaleur VIACONFORT ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.081,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+775,France,Auvergne-Rhône-Alpes,42,Saint Etienne,Réseau de froid VIACONFORT ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.013,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+776,France,Auvergne-Rhône-Alpes,42,Saint-Étienne,Quartier Montreynaud ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.055,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+777,France,Auvergne-Rhône-Alpes,42,Andrézieux-Bouthéon,Réseau d’Andrézieux-Bouthéon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.077,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+778,France,Auvergne-Rhône-Alpes,42,Montrond-les-Bains,Réseau de Montrond-les-Bains ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.066,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+779,France,Auvergne-Rhône-Alpes,42,Saint-Chamond,Scevia Quartier de Fonsala ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.049,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+780,France,Auvergne-Rhône-Alpes,42,Usson-en-Forez,Réseau d’Usson-en-Forez ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.019,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+781,France,Auvergne-Rhône-Alpes,42,Saint-Bonnet-le-Château,Siège CDC St Bonnet le Château ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+782,France,Auvergne-Rhône-Alpes,42,Jonzieux,Réseau de Jonzieux ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.075,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+783,France,Auvergne-Rhône-Alpes,42,Roisey,Réseau de Roisey ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+784,France,Auvergne-Rhône-Alpes,42,Planfoy,ZAC des Lucioles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.014,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+785,France,Auvergne-Rhône-Alpes,42,Le Bessat,Réseau de Le Bessat ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+786,France,Auvergne-Rhône-Alpes,42,Saint-Bonnet-le-Courreau,Réseau de Saint-Bonnet-le-Courreau ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+787,France,Auvergne-Rhône-Alpes,42,La Terrasse-sur-Dorlay,Réseau de La Terrasse-sur-Dorlay ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+788,France,Auvergne-Rhône-Alpes,42,Saint-Régis-du-Coin,Réseau de Saint-Régis-du-Coin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.013,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+789,France,Auvergne-Rhône-Alpes,42,Saint-Didier-sur-Rochefort,Réseau de Saint-Didier-sur-Rochefort ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.005,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+790,France,Auvergne-Rhône-Alpes,42,Neulise,Réseau de Neulise ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.017,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+791,France,Auvergne-Rhône-Alpes,42,Pelussin,Quartier Notre-Dame ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.071,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+792,France,Auvergne-Rhône-Alpes,42,Saint-Christo-en-Jarez,Réseau de Saint-Christo-en-Jarez ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.152,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+793,France,Auvergne-Rhône-Alpes,42,Saint-Martin-la-Sauveté,Réseau de Saint-Martin-la-Sauveté ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.091,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+794,France,Auvergne-Rhône-Alpes,42,Saint-Symphorien-de-Lay,Réseau de Saint-Symphorien-de-Lay ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+795,France,Auvergne-Rhône-Alpes,42,Marlhes,Réseau de Marlhes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+796,France,Auvergne-Rhône-Alpes,42,Saint-Haon-le-Châtel,Réseau de Saint-Haon-le-Châtel ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.025,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+797,France,Auvergne-Rhône-Alpes,42,Saint-Joseph,Réseau de Saint-Joseph ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.165,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+798,France,Auvergne-Rhône-Alpes,42,Saint-Cyr-de-Favières,Réseau de Saint-Cyr-de-Favières ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+799,France,Auvergne-Rhône-Alpes,42,Roanne,Quartier de Mâtel ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.088,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+800,France,Auvergne-Rhône-Alpes,42,Roanne,Quartier Arsenal ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.072,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+801,France,Auvergne-Rhône-Alpes,42,Pelussin,Quartier ” des Croix St Jean “ ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.046,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+802,France,Auvergne-Rhône-Alpes,42,Pelussin,Siège CDC du Pilat Rhodanien et siège maison des s ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.025,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+803,France,Auvergne-Rhône-Alpes,42,Saint-Maurice-en-Gourgois,Réseau de Saint-Maurice-en-Gourgois ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0774,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+804,France,Auvergne-Rhône-Alpes,42,Colombier,Réseau de Colombier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.032,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+805,France,Auvergne-Rhône-Alpes,42,Roche,Roche-en-Forez ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.01,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+806,France,Auvergne-Rhône-Alpes,43,Tence,Réseau de Tence ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.012,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+807,France,Auvergne-Rhône-Alpes,43,Langeac,Langeac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.192,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+808,France,Auvergne-Rhône-Alpes,43,Le Puy-en-Velay,Réseau du Puy en Velay VERT VEINE ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.021,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+809,France,Auvergne-Rhône-Alpes,43,Yssingeaux,Réseau de chaleur YES ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.044,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+810,France,Auvergne-Rhône-Alpes,43,Dunières,Réseau de la Mairie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.128,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+811,France,Auvergne-Rhône-Alpes,43,Dunières,Réseau de la Piscine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.128,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+812,France,Auvergne-Rhône-Alpes,43,Pradelles,Réseau de Pradelles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.028,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+813,France,Auvergne-Rhône-Alpes,43,Mazet-Saint-Voy,Réseau de Mazet St Voy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.10036363636363638,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+814,France,Auvergne-Rhône-Alpes,43,Saint-Bonnet-Le-Froid,Réseau de St Bonnet le Froid ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.10036363636363638,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+815,France,Pays-de-la-Loire,44,Nantes,Beaulieu Malakoff ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.042,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+816,France,Pays-de-la-Loire,44,Châteaubriant,Réseau de Chateaubriant ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.078,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+817,France,Pays-de-la-Loire,44,Nantes,Réseau Nantes Chantrerie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.074,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+818,France,Pays-de-la-Loire,44,Nantes-Saint-Herblain,ZUP de Bellevue Saint Herblain ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.089,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+819,France,Pays-de-la-Loire,44,Rezé,Réseau AFUL de Rezé-Château ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.162,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+820,France,Pays-de-la-Loire,44,Saint-Jean-de-Boiseau,Réseau de Saint-Jean-de-Boiseau ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.077,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+821,France,Pays-de-la-Loire,44,Sainte-Luce-sur-Loire,Réseau ZAC de la Minais ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.173,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+822,France,Pays-de-la-Loire,44,Saint-Julien-de-Concelles,Réseau de Saint-Julien-de-Concelles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.10876923076923078,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+823,France,Centre,45,Orléans,Socos source ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.081,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+824,France,Centre,45,Orléans,Quartier Centre Ville et Nord ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.115,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+825,France,Centre,45,Montargis,ZUP du grand clos ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.075,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+826,France,Centre,45,Fleury-les-Aubrais,Réseau de Fleury les Aubrais ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.071,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+827,France,Centre,45,Amilly,Réseau de Amilly ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.042,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+828,France,Centre,45,Pithiviers,U. V. E Pithiviers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.115,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+829,France,Occitanie,46,Nuzejouls,Réseau de Nuzéjouls ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.034,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+830,France,Occitanie,46,Biars-sur-Cere,Réseau de Biars du Cere ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.006,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+831,France,Occitanie,46,Cajarc,Réseau de Cajarc ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.006,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+832,France,Occitanie,46,Catus,Réseau de Catus ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.028,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+833,France,Occitanie,46,Caillac,Réseau de Caillac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.007,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+834,France,Occitanie,46,Saint-Germain-du-Bel-Air,Réseau de St Germain du Bel air ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.012,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+835,France,Occitanie,46,Les-Quatre-Routes-du-Lot,Réseau de Les-Quatre-Routes-du-Lot ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.003,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+836,France,Occitanie,46,Sousceyrac,Réseau de Sousceyrac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.026,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+837,France,Occitanie,46,Figeac,Réseau de Figeac ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.006,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+838,France,Occitanie,46,Livernon,Réseau de Livernon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.025,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+839,France,Occitanie,46,Cahors,Réseau de Cahors ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.065,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+840,France,Occitanie,46,Thégra,Réseau de Thégra ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.008,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+841,France,Occitanie,46,Lacapelle-Marival,Réseau de Lacapelle-Marival ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.014,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+842,France,Aquitaine-Limousin-Poitou-Charentes,47,Le Passage,Novergie Sud Ouest-Sogad ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.256,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+843,France,Occitanie,48,Mende,Mende ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.023,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+844,France,Occitanie,48,Saint-Chely-d’Apcher,Réseau Saint Chely d’Apcher ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.023,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+845,France,Pays-de-la-Loire,49,Angers,Réseau d’Angers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.012,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+846,France,Pays-de-la-Loire,49,Angers,Zup Jeanne d’Arc-Déromédi (UPJM) ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.202,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+847,France,Pays-de-la-Loire,49,Angers,CHU Angers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.052,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+848,France,Pays-de-la-Loire,49,Saumur,Chemin Vert ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.052,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+849,France,Pays-de-la-Loire,49,Andrezé,Réseau de chaleur d’Andrezé ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.253,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+850,France,Pays-de-la-Loire,49,Angers,Réseau d’Orgemont ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1236923076923077,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+851,France,Pays-de-la-Loire,49,Ecouflant,Réseau de chaleur d’Ecouflant ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.071,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+852,France,Pays-de-la-Loire,49,Angers,Hauts de Saint Aubin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.084,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+853,France,Normandie,50,Cherbourg-Octeville,ZUP d’Octeville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.019,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+854,France,Normandie,50,Cherbourg-Octeville,Ilot Divette ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.151,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+855,France,Normandie,50,Le Teilleul,Régie de chauffage au bois ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.051,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+856,France,Grand Est,51,Reims,ZUP de Laon Neufchâtel ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.239,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+857,France,Grand Est,51,Reims,Réseau UIOM de Reims ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.21485714285714286,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+858,France,Grand Est,51,Vitry-le-François,Vitry Habitat ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.21485714285714286,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+859,France,Grand Est,51,Epernay,Quartier Bernon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.277,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+860,France,Grand Est,51,Reims,Croix Rouge ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.115,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+861,France,Grand Est,52,Chaumont,Réseau de chaleur du sud de la ville de Chaumont ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.03,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+862,France,Grand Est,52,Saint-Dizier,Réseau de Saint-Dizier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.111,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+863,France,Grand Est,52,Longeau-Percey,Réseau de chaleur de l’EHPAD St Augustin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1804285714285714,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+864,France,Grand Est,52,Wassy,Réseau de Wassy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1804285714285714,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+865,France,Grand Est,52,Bourmont,Réseau de Bourmont ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1804285714285714,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+866,France,Grand Est,52,Saint-Dizier,Zup de Grigny ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.297,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+867,France,Grand Est,52,Chaumont,La Rochotte ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.34,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+868,France,Pays-de-la-Loire,53,Saint-Hilaire-du-Maine,Lotissement les lilas ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1645,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+869,France,Pays-de-la-Loire,53,Laval,ZUP de Nicolas ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.098,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+870,France,Grand Est,54,Nancy,ESTIA-Saint Julien Kennedy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+871,France,Grand Est,54,Vandoeuvre-les-Nancy,S E. E. V-Ville de Vandoeuvre,heat,2019-09-01,2019-09-01,2020-01-01,False,0.033,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+872,France,Grand Est,54,Nancy,ESTIA-Plateau de Haye ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.084,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+873,France,Grand Est,54,Ecrouves,Réseau d’Ecrouves ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.074,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+874,France,Grand Est,54,Barbonville,Réseau chaufferie bois-Barbonville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.0764,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+875,France,Grand Est,54,Vandoeuvre-les-Nancy,S. E E. V-Plateau de Brabois,heat,2019-09-01,2019-09-01,2020-01-01,False,0.108,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+876,France,Grand Est,54,Nancy,ESTIA-Blandan Medreville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.091,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+877,France,Grand Est,55,Bar-le-Duc,Côte Sainte Catherine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.274,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+878,France,Grand Est,55,Verdun,ZUP Anthouard ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.212,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+879,France,Grand Est,55,Ligny-en-Barrois,Ligny en Barrois ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.074,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+880,France,Bretagne,56,Lanester,Réseau de Lanester ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.044,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+881,France,Bretagne,56,Hennebont,Réseau de chaleur Zac Centre ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.064,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+882,France,Bretagne,56,Auray,Réseau de Gumenen ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+883,France,Bretagne,56,Locminé,Réseau de chaleur Liger ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.064,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+884,France,Grand Est,57,Metz,Réseau de Metz ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.085,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+885,France,Grand Est,57,Yutz,Réseau de la ville de Yutz ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.068,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+886,France,Grand Est,57,Farébersviller,Réseau du Farébersviller ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.097,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+887,France,Grand Est,57,Saint-Avold,Wenheck ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.239,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+888,France,Grand Est,57,Freyming-Merlebach,Réseau de Freyming-Merlebach ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.153,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+889,France,Grand Est,57,Sarreguemines,Réseau de Sarreguemines ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.248,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+890,France,Grand Est,57,-Behren-lès-Forbach,Réseau de Holweg-Forbach-Behren ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.16704545454545452,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+891,France,Grand Est,57,Saint-Avold,Huchet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.195,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+892,France,Grand Est,57,Saint-Avold,Côte de la Justice ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.211,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+893,France,Grand Est,57,Saint-Avold,Carrière ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.228,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+894,France,Grand Est,57,Stiring-Wendel,Réseau de Stiring Wendel ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.16704545454545452,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+895,France,Grand Est,57,Creutzwald,Réseau de chauffage de Creutzwald ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.242,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+896,France,Grand Est,57,Metz,Réseau ZAC Amphithéâtre ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.012,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+897,France,Bourgogne-Franche-Comté Dijon,58,Decize,Réseau de Decize ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.126,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+898,France,Bourgogne-Franche-Comté Dijon,58,Nevers,Réseau de chaleur du Banlay ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.019,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+899,France,Bourgogne-Franche-Comté Dijon,58,Saint-Brisson,Réseau de chaleur de la Maison du Parc du Morvan ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+900,France,Bourgogne-Franche-Comté Dijon,58,Arleuf,Réseau de chaleur d’Arleuf ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+901,France,Bourgogne-Franche-Comté Dijon,58,Bazolles,Réseau de chaleur de Bazolles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+902,France,Bourgogne-Franche-Comté Dijon,58,Corbigny,Réseau de chaleur de Corbigny ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+903,France,Bourgogne-Franche-Comté Dijon,58,Lormes,Réseau de chaleur de Lormes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+904,France,Bourgogne-Franche-Comté Dijon,58,Montigny-en-Morvan,Réseau de chaleur de Montigny en morvan ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+905,France,Bourgogne-Franche-Comté Dijon,58,Ouroux-en-Morvan,Réseau de chaleur d’Ouroux en Morvan ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+906,France,Bourgogne-Franche-Comté Dijon,58,Planchez,Réseau de chaleur de Planchez ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+907,France,Bourgogne-Franche-Comté Dijon,58,Saint-Verain,Réseau de chaleur de Saint Amand en Puisaye ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+908,France,Bourgogne-Franche-Comté Dijon,58,Varzy,Réseau de chaleur de Varzy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+909,France,Bourgogne-Franche-Comté Dijon,58,Corancy,Réseau de chaleur de Corancy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+910,France,Bourgogne-Franche-Comté Dijon,58,Saint-Saulge,Réseau de chaleur de Saint Saulge ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+911,France,Bourgogne-Franche-Comté Dijon,58,Billy-sur-Oisy,Réseau de chaleur de Billy-sur-Oisy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+912,France,Bourgogne-Franche-Comté Dijon,58,Brassy,Réseau de chaleur de Brassy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+913,France,Bourgogne-Franche-Comté Dijon,58,Château-Chinon (Ville),Réseau de chaleur de Château Chinon Ville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1704,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+914,France,Nord-Pas-De-Calais,59,Roubaix,Réseau de Roubaix ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.092,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+915,France,Nord-Pas-De-Calais,59,Valenciennes,Les Canonniers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.24,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+916,France,Nord-Pas-De-Calais,59,Sains-du-Nord,Réseau de Sains-du-Nord ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.046,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+917,France,Nord-Pas-De-Calais,59,Villeneuve-d’Ascq,Quartier Pont de bois ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.231,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+918,France,Nord-Pas-De-Calais,59,Villeneuve-d’Ascq,Domaine Universitaire et Scientifique ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.206,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+919,France,Nord-Pas-De-Calais,59,Wattignies,Réseaux de Wattignies ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.178,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+920,France,Nord-Pas-De-Calais,59,Wattrelos,Réseau de Wattrelos ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.24,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+921,France,Nord-Pas-De-Calais,59,Sin-le-Noble,Réseau de chaleur de Sin Le Noble ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.108,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+922,France,Nord-Pas-De-Calais,59,Mons-en-Barœul,Réseau de Mons-en-Baroeul ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.151,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+923,France,Nord-Pas-De-Calais,59,Lille,Réseau de Lille ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.26,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+924,France,Nord-Pas-De-Calais,59,Lambersart,Réseau de Lambersart ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.102,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+925,France,Nord-Pas-De-Calais,59,Maubeuge,ZUP de la Caserne Joyeuse-Maubeuge ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.215,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+926,France,Nord-Pas-De-Calais,59,Anzin,Les rives créatives de l’Escaut ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1679375,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+927,France,Nord-Pas-De-Calais,59,Dunkerque,Energie Grand Littoral-Dunkerque ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+928,France,Nord-Pas-De-Calais,59,Douchy-les-Mines,Réseau de chaleur de Douchy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.028,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+929,France,Nord-Pas-De-Calais,59,Hazebrouck,Réseau de chauffage d’Hazebrouck ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.086,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+930,France,Nord-Pas-De-Calais,59,Lille,Quartier Tournebride Lomme-Capinghem ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.09,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+931,France,Hauts de France,60,Compiègne,Réseau de Compiègne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.229,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+932,France,Hauts de France,60,Creil,La Cavée et les hironvalles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.123,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+933,France,Hauts de France,60,Nogent-sur-Oise,Quartier des Obiers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.082,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+934,France,Hauts de France,60,Montataire,Les Martinets ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.168,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+935,France,Hauts de France,60,Beauvais,Réseau du Quartier Saint-Jean ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.021,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+936,France,Hauts de France,60,Breteuil-sur-Noye,Réseau de Breteuil-sur-Noye ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.007,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+937,France,Normandie,61,Flers,Quartier Saint Sauveur ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.06,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+938,France,Normandie,61,Alençon,Perseigne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.057,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+939,France,Normandie,61,Argentan,Quartier Nord-Route de Falaise ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.03,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+940,France,Normandie,61,La Ferté-Macé,Réseau de La Ferté-Macé ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.008,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+941,France,Normandie,61,L’Aigle,RECBIA ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.036,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+942,France,Nord-Pas-De-Calais,62,Avion,ZUP du quartier République-Avion ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.201,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+943,France,Nord-Pas-De-Calais,62,Arques,Réseau de Arques ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.063,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+944,France,Nord-Pas-De-Calais,62,Lens,Réseau de chaleur de Lens ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.028,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+945,France,Nord-Pas-De-Calais,62,Outreau,Le Portel-Outreau Engie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.189,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+946,France,Nord-Pas-De-Calais,62,Outreau,Le Portel-Outreau Dalkia ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.082,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+947,France,Nord-Pas-De-Calais,62,Béthune,Réseau de chaleur de Béthune-Mont Liebaut ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.237,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+948,France,Nord-Pas-De-Calais,62,Liévin,Réseau de Liévin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.246,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+949,France,Nord-Pas-De-Calais,62,Calais,Réseau de Chaleur de Calais ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.142,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+950,France,Nord-Pas-De-Calais,62,Béthune,Réseau de chaleur de Béthune-Centre-Ville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.214,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+951,France,Nord-Pas-De-Calais,62,Achicourt,Réseau d’Achicourt ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.079,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+952,France,Nord-Pas-De-Calais,62,Arras,Réseau d’Arras ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.227,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+953,France,Nord-Pas-De-Calais,62,Boulogne-sur-Mer,Réseau de Boulogne-sur-Mer ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.17,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+954,France,Auvergne-Rhône-Alpes,63,Riom,Réseau de Riom RCBE ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.037,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+955,France,Auvergne-Rhône-Alpes,63,Clermont-Ferrand,HLM Saint Jacques ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.193,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+956,France,Auvergne-Rhône-Alpes,63,Clermont-Ferrand,La Gauthière ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.077,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+957,France,Auvergne-Rhône-Alpes,63,Clermont-Ferrand,Croix-de-Neyrat/ Champratel/ Les Vergnes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.019,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+958,France,Auvergne-Rhône-Alpes,63,Beaumont,Quartier du Masage ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.217,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+959,France,Auvergne-Rhône-Alpes,63,Rochefort-Montagne,Réseau de Rochefort-Montagne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.046,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+960,France,Auvergne-Rhône-Alpes,63,Royat,Réseau de Royat ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.228,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+961,France,Auvergne-Rhône-Alpes,63,Pontaumur,Réseau de chaleur bois de Pontaumur ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+962,France,Auvergne-Rhône-Alpes,63,Saint-Germain-l’Herm,Réseau de chaleur de St-Germain-l’Herm ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.12258823529411765,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+963,France,Auvergne-Rhône-Alpes,63,Ardes,Réseau de chaleur de Ardes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.12258823529411765,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+964,France,Auvergne-Rhône-Alpes,63,Ambert,Le Coral ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.256,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+965,France,Aquitaine-Limousin-Poitou-Charentes,64,Pau,SPIC réseau de chaleur du hameau ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.029,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+966,France,Occitanie,65,Vic-en-Bigorre,Réseau de Vic-en-Bigorre ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.05,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+967,France,Occitanie,66,Osseja,Réseau de la Perle Cerdane ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.217,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+968,France,Grand Est,67,Strasbourg,Elsau ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.239,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+969,France,Grand Est,67,Strasbourg,Hautepierre ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.239,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+970,France,Grand Est,67,Strasbourg,L’Esplanade ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.225,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+971,France,Grand Est,67,Strasbourg,Eco-Quartier Brasserie Cronenbourg ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.061,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+972,France,Grand Est,67,Strasbourg,Hochfelden ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.279,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+973,France,Grand Est,67,Ostwald,Cité du Wihrel ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.235,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+974,France,Grand Est,67,Strasbourg,Cité de l’Ill ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.076,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+975,France,Grand Est,67,Strasbourg,Réseau de Colmar Vosges ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.069,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+976,France,Grand Est,67,Schiltigheim,Le Ried ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+977,France,Grand Est,67,Morsbronn-les-Bains,Réseau de la Communauté de Communes Sauer Pechelbronn ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.091,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+978,France,Grand Est,67,Lingolsheim,Réseau des Tanneries-Bohrie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.107,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+979,France,Grand Est,67,Haguenau,Réseau Mars ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.112,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+980,France,Grand Est,67,Niederbronn-les-Bains,Réseau de Niederbronn-les-Bains ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.066,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+981,France,Grand Est,67,Allenwiller,Réseau d’Allenwiller ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.14566666666666667,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+982,France,Grand Est,67,Saales,Réseau de Saales ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.14566666666666667,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+983,France,Grand Est,67,Haguenau,Réseau de Haguenau ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.063,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+984,France,Grand Est,67,Rittershoffen,ECOGI ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.14566666666666667,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+985,France,Grand Est,67,Sélestat,Réseau de Sélestat ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.111,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+986,France,Grand Est,67,Strasbourg,Réseau de Chaleur ECO2WACKEN ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.07,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+987,France,Grand Est,68,Colmar,Réseau de Colmar ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.07,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+988,France,Grand Est,68,Didenheim,L’Illberg ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.101,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+989,France,Grand Est,68,Mulhouse,Porte de Bâle ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.185,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+990,France,Grand Est,68,Saint-Louis,Réseau de la Ville de Saint-Louis ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.10928571428571429,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+991,France,Grand Est,68,Cernay,Réseau de Cernay ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.076,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+992,France,Grand Est,68,Rixheim,Réseau de Rixheim ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.063,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+993,France,Grand Est,68,Feldbach,Réseau de chaleur de Feldbach ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.056,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+994,France,Grand Est,68,Thann,Réseau de Thann ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.10928571428571429,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+995,France,Grand Est,68,Freisen,Réseau communal de Freisen ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.10928571428571429,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+996,France,Grand Est,68,Lapoutroie,Réseau de Lapoutroie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.10928571428571429,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+997,France,Grand Est,68,Sainte-Marie-aux-Mines,Réseau Val-d’Argent ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.075,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+998,France,Grand Est,68,Illzach,Papeteries du Rhin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.062,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+999,France,Auvergne-Rhône-Alpes,69,Vénissieux,Vénissieux énergies ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.121,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1000,France,Auvergne-Rhône-Alpes,69,Ecully,HLM Les Sources ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.207,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1001,France,Auvergne-Rhône-Alpes,69,Champagne-au-Mont-d’Or,La Duchère et Lyon 9e ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.073,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1002,France,Auvergne-Rhône-Alpes,69,Lyon,Réseau Lyon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.101,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1003,France,Auvergne-Rhône-Alpes,69,Lyon-Villeurbanne,Réseau Lyon ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.011,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1004,France,Auvergne-Rhône-Alpes,69,Vaulx-en-Velin,Réseau de Vaulx-en-Velin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.079,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1005,France,Auvergne-Rhône-Alpes,69,Villeurbanne,Campus de la Doua ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.249,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1006,France,Auvergne-Rhône-Alpes,69,Villeurbanne,Quartier La Perralière ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.183,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1007,France,Auvergne-Rhône-Alpes,69,Rillieux-la-Pape,Les Semailles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.028,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1008,France,Auvergne-Rhône-Alpes,69,Bron,Quartier Parilly ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.202,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1009,France,Auvergne-Rhône-Alpes,69,Givors,Quartier Les Vernes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.253,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1010,France,Auvergne-Rhône-Alpes,69,Villefranche-sur-Saone,Réseau UIOM Villefranche ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.003,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1011,France,Auvergne-Rhône-Alpes,69,Oullins,Plateau de Montmein ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.206,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1012,France,Auvergne-Rhône-Alpes,69,Lyon,Z. H Champvert ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.193,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1013,France,Auvergne-Rhône-Alpes,69,Rillieux-la-Pape,Réseau Valorly ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.14536585365853658,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1014,France,Auvergne-Rhône-Alpes,69,Gleize,Quartier Belleroche Ouest ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.087,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1015,France,Auvergne-Rhône-Alpes,69,Lyon,Quartier Mermoz Sud ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.202,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1016,France,Auvergne-Rhône-Alpes,69,Rillieux-la-Pape,Quartier de la Roue ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.226,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1017,France,Auvergne-Rhône-Alpes,69,Sathonay-Camp,Réseau de Sathonay-Camp ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.064,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1018,France,Auvergne-Rhône-Alpes,69,Yzeron,Réseau Les Combes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.14536585365853658,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1019,France,Auvergne-Rhône-Alpes,69,Yzeron,Réseau Le Bourg ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.14536585365853658,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1020,France,Auvergne-Rhône-Alpes,69,La Tour-de-Salvagny,Réseau de La Tour-de-Salvagny ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.044,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1021,France,Auvergne-Rhône-Alpes,69,Lamure-sur-Azergues,Réseau de Lamure-sur-Azergues ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.256,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1022,France,Auvergne-Rhône-Alpes,69,Lyon,Réseau de chaleur Lyon Confluence ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.384,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1023,France,Bourgogne-Franche-Comté Dijon,70,Gray,ZUP des Capucins ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.045,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1024,France,Bourgogne-Franche-Comté Dijon,70,Saulnot,Réseau de Saulnot ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.01,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1025,France,Bourgogne-Franche-Comté Dijon,70,Breurey-les-Faverney,Réseau de Breurey les Faverney ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08683333333333333,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1026,France,Bourgogne-Franche-Comté Dijon,70,Dampierre-sur-Linotte,Réseau de Dampierre-sur-Linotte ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.148,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1027,France,Bourgogne-Franche-Comté Dijon,70,Plancher-Bas,Réseau de Plancher-Bas ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.062,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1028,France,Bourgogne-Franche-Comté Dijon,70,Champey,Réseau de Champey ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.192,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1029,France,Bourgogne-Franche-Comté Dijon,70,Scey-sur-Saône-et-Saint-Albin,Réseau de Scey-sur-Saône-et-Saint-Albin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.086,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1030,France,Bourgogne-Franche-Comté Dijon,70,Marnay,Réseau de Marnay ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.001,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1031,France,Bourgogne-Franche-Comté Dijon,70,Gy,Réseau de Gy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08683333333333333,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1032,France,Bourgogne-Franche-Comté Dijon,70,Hericourt,Réseau d’Hericourt-Quartier Maunoury ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.058,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1033,France,Bourgogne-Franche-Comté Dijon,71,Chalon-sur-Saône,Réseau de Chalon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.103,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1034,France,Bourgogne-Franche-Comté Dijon,71,Montceau-les-Mines,Réseau de Montceau les mines ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.127,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1035,France,Bourgogne-Franche-Comté Dijon,71,Mâcon,Réseau de Mâcon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.301,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1036,France,Bourgogne-Franche-Comté Dijon,71,Autun,Réseau d’Autun ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.071,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1037,France,Bourgogne-Franche-Comté Dijon,71,Tramayes,Réseau de Tramayes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.016,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1038,France,Bourgogne-Franche-Comté Dijon,71,Anost,Réseau d’Anost ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1439,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1039,France,Pays-de-la-Loire,72,Le Mans,Réseau du Mans ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.312,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1040,France,Pays-de-la-Loire,72,Le Mans,Percée Centrale ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.228,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1041,France,Pays-de-la-Loire,72,Le Mans-Allonnes,ZUP d’Allonnes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.027,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1042,France,Pays-de-la-Loire,72,Coulaine,Bellevue ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.169,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1043,France,Auvergne-Rhône-Alpes,73,Chambéry,Bissy et Croix Rouge ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.103,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1044,France,Auvergne-Rhône-Alpes,73,Macôt-La-Plagne,La Plagne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.059,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1045,France,Auvergne-Rhône-Alpes,73,Bourg-Saint-Maurice,Les Arcs ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.338,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1046,France,Auvergne-Rhône-Alpes,73,Notre-Dame-des-Millières,Réseau de Notre-Dame-des-Millières ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.039,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1047,France,Auvergne-Rhône-Alpes,73,Saint-Etienne-de-Cuines,Réseau de Saint Etienne de Cuines ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.115625,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1048,France,Auvergne-Rhône-Alpes,73,Beaufort,Réseau de Beaufort ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.058,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1049,France,Auvergne-Rhône-Alpes,73,Gilly-sur-Isère,Réseau de Gilly-sur-Isère ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.134,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1050,France,Auvergne-Rhône-Alpes,73,Yenne,Réseau de Yenne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.014,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1051,France,Auvergne-Rhône-Alpes,73,La Bauche,Réseau de la Bauche ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.115625,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1052,France,Auvergne-Rhône-Alpes,73,Saint-Jean-d’Arvey,Réseau de Saint-Jean-d’Arvey ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.199,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1053,France,Auvergne-Rhône-Alpes,74,Seynod,Quartier de Champ Fleury ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.048,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1054,France,Auvergne-Rhône-Alpes,74,Annemasse,Bois Energies Annemasse ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.051,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1055,France,Auvergne-Rhône-Alpes,74,Thonon-les-Bains,Quartier de la Rénovation ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.222,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1056,France,Auvergne-Rhône-Alpes,74,Arracles les Carroy,Flaine Energie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.205,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1057,France,Auvergne-Rhône-Alpes,74,Cluses,Quartier Les Ewues ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.27,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1058,France,Auvergne-Rhône-Alpes,74,Faverges,Quartier La Cudray ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.009,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1059,France,Auvergne-Rhône-Alpes,74,Scionzier,Quartier du Crozets ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.226,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1060,France,Auvergne-Rhône-Alpes,74,Morzine,Réseau d’Avoriaz ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.086,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1061,France,Auvergne-Rhône-Alpes,74,Clarafond-Arcine,Réseau de Clarafond-la-Presles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.045,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1062,France,Auvergne-Rhône-Alpes,74,Vallorcine,Réseau de Vallorcine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.01,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1063,France,Auvergne-Rhône-Alpes,74,Thonon-les-Bains,Réseau UVE du STOC ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1359090909090909,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1064,France,Auvergne-Rhône-Alpes,74,Annecy,Annecy Bio chaleur ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.023,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1065,France,Ile-de-France,75,Paris,Paris et communes limitrophes-CPCU ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.172,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1066,France,Ile-de-France,75,Paris,Réseau Climespace ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.202,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1067,France,Ile-de-France,75,Paris,Réseau Climespace ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.007,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1068,France,Normandie,76,Rouen,Curb-Bihorel ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.368,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1069,France,Normandie,76,Le Havre,ZAC du Mont Gaillard ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.109,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1070,France,Normandie,76,Mont-Saint-Aignan,Réseau de Mont Saint Aignan ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.178,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1071,France,Normandie,76,Canteleu,Canteleu Energie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.105,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1072,France,Normandie,76,Le Petit-Quevilly,ZAC Nobel Bozel ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.051,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1073,France,Normandie,76,Saint-Etienne-du-Rouvray,Château Blanc ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.018,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1074,France,Normandie,76,Dieppe,Sodineuf ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.203,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1075,France,Normandie,76,Gonfreville-l’Orcher,SECGO ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.013,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1076,France,Normandie,76,Rouen,CHU Charles Nicolle ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.19,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1077,France,Normandie,76,Le Havre,ZUP de Caucriauville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.255,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1078,France,Normandie,76,Le Havre,La Côte Brulée ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.244,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1079,France,Normandie,76,Rouen,Chaufferie bois Grammont ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.035,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1080,France,Normandie,76,Maromme,Réseau de Maromme ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.021,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1081,France,Normandie,76,Notre-Dame-de-Gravenchon,SRGB ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.025,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1082,France,Normandie,76,Neufchatel-en-Bray,Réseau de Neufchatel-en-Bray ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.032,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1083,France,Normandie,76,Sandouville,Réseau de Semedi-Sedibex ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1328,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1084,France,Normandie,76,Le Grand-Quevilly,VESUVE ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1328,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1085,France,Ile-de-France,77,Meaux,Réseau de l’hôpital ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.103,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1086,France,Ile-de-France,77,Meaux,Beauval-Collinet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.108,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1087,France,Ile-de-France,77,Melun,Almont-Montaigu ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.033,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1088,France,Ile-de-France,77,Nemours,ZUP du mont Saint-Martin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.094,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1089,France,Ile-de-France,77,Dammarie-les-Lys,Réseau de Dammarie-les-Lys ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.246,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1090,France,Ile-de-France,77,Avon,Centrale de la butte Monceau ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.316,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1091,France,Ile-de-France,77,Le Mée-sur-Seine,Réseau du Mée-sur-Seine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.063,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1092,France,Ile-de-France,77,Vaux-le-Pénil,Réseau de Vaux-le-Pénil ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.043,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1093,France,Ile-de-France,77,Coulommiers,Réseau de Coulommiers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.005,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1094,France,Ile-de-France,77,Montereau-Fault-Yonne,ZUP de Surville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.015,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1095,France,Ile-de-France,77,Torcy,Réseau de Marne la Vallée ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.017,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1096,France,Ile-de-France,77,Chelles,Réseau de Chelles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.105,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1097,France,Ile-de-France,77,Bailly Romainvilliers,Réseau de Bailly Romainvilliers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.035,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1098,France,Ile-de-France,78,Mantes-la-Jolie,Le Val Fourré ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.104,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1099,France,Ile-de-France,78,Versailles,Réseau de Versailles ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.227,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1100,France,Ile-de-France,78,Le Chesnay,Parly II ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.212,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1101,France,Ile-de-France,78,Saint-Germain-en-Laye,Réseau de Saint Germain en Laye ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.144,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1102,France,Ile-de-France,78,Achères,Réseau d’Achères ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.104,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1103,France,Ile-de-France,78,Les Mureaux,Quartier Grand Ouest et Musiciens ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.076,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1104,France,Ile-de-France,78,Vélizy-Villacoublay,Réseau de Vélizy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.221,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1105,France,Ile-de-France,78,Carrières-sur-Seine,Réseau de Carrières-Chatou ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.007,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1106,France,Ile-de-France,78,Plaisir,Réseau de Plaisir-Resop ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.031,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1107,France,Poitou-Charente,79,Niort,ZUP Le Clou Bouchet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.327,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1108,France,Poitou-Charente,79,Romans,Réseau de Romans ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11142857142857143,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1109,France,Poitou-Charente,79,Bressuire,Réseau de Bressuire ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.15,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1110,France,Poitou-Charente,79,L’Absie,Réseau de l’Absie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.11142857142857143,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1111,France,Poitou-Charente,79,Niort,Quartier Les Brizeaux ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.017,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1112,France,Poitou-Charente,79,Lezay,Réseau de chaleur CC du Mellois ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.029,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1113,France,Hauts de France,80,Amiens,Etouvie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.15442857142857142,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1114,France,Hauts de France,80,Amiens,Quartier Henriville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.234,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1115,France,Hauts de France,80,Amiens,Le pigeonnier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.213,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1116,France,Hauts de France,80,Montdidier,Réseau de Montdidier ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.099,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1117,France,Hauts de France,80,Abbeville,Réseau d’Abbeville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.095,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1118,France,Occitanie,81,Carmaux,Réseau de Carmaux ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.299,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1119,France,Occitanie,81,Mazamet,Chauffage urbain de Mazamet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.077,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1120,France,Occitanie,81,Castres,Réseau de Castres Lameilhé ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.015,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1121,France,Occitanie,81,Gaillac,Réseau de Gaillac-ZAC de Pouille ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.053,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1122,France,Occitanie,81,Graulhet,Réseau de Graulhet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.022,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1123,France,Occitanie,81,Alban,Réseau d’Alban ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.008,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1124,France,Occitanie,82,Montauban,SIRTOMAD ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.02,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1125,France,Provence-Alpes-Côte d'Azur,83,Toulon,Réseau La Beaucaire (UIOM) ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.053,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1126,France,Provence-Alpes-Côte d'Azur,83,La-Seyne-sur-Mer,Berthe ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.011,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1127,France,Provence-Alpes-Côte d'Azur,84,Avignon,Le Triennal ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.216,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1128,France,Pays-de-la-Loire,85,La-Roche-sur-Yon,Quartier Vendée ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.314,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1129,France,Pays-de-la-Loire,85,Les Herbiers,Réseau Les Herbiers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.06,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1130,France,Pays-de-la-Loire,85,Saint-Pierre-du-Chemin,Réseau de Saint-Pierre-du-Chemin ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1855,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1131,France,Poitou-Charente,86,Poitiers,ZUP des Couronneries ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.073,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1132,France,Poitou-Charente,86,Civaux,Réseau de Civaux ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.078,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1133,France,Aquitaine-Limousin-Poitou-Charentes,87,Limoges,ZUP Val de l’Aurence ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.052,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1134,France,Aquitaine-Limousin-Poitou-Charentes,87,Limoges,ZAC de Beaubreuil ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.005,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1135,France,Aquitaine-Limousin-Poitou-Charentes,87,Limoges,Quartier de l’Hôtel de Ville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.19,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1136,France,Grand Est,88,Epinal,Plateau de la Justice ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.081,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1137,France,Grand Est,88,Saint-Dié-des-Vosges,Quartier Kellerman ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.046,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1138,France,Grand Est,88,Vittel,ZAD du Haut de Fol ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.109,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1139,France,Grand Est,88,Fresse-sur-Moselle,Réseau de Fresse sur Moselle ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.016,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1140,France,Grand Est,88,Monthureux-sur-Saône,Réseau de Monthureux-sur-Saône ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.075,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1141,France,Grand Est,88,La Bresse,Réseau de la Bresse 1 ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.081,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1142,France,Grand Est,88,La Bresse,Réseau de la Bresse 2 ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.081,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1143,France,Grand Est,88,Frémifontaine,Réseau de Frémifontaine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.081,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1144,France,Grand Est,88,Senones,Réseau bois du pays des Abbayes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.192,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1145,France,Grand Est,88,Ventron,Réseau de Ventron ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.035,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1146,France,Bourgogne-Franche-Comté Dijon,89,Sens,ZUP des Grahuches ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.024,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1147,France,Bourgogne-Franche-Comté Dijon,89,Auxerre,ZUP de Sainte Geneviève ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.119,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1148,France,Bourgogne-Franche-Comté Dijon,89,Sens,Les Chaillots ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.268,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1149,France,Bourgogne-Franche-Comté Dijon,89,Quarre-les-Tombes,Réseau de Quarre-les-Tombes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.211,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1150,France,Bourgogne-Franche-Comté Dijon,90,Belfort,ZUP des Glacis ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.233,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1151,France,Bourgogne-Franche-Comté Dijon,90,Delle,Réseau de Delle ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.106,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1152,France,Ile-de-France,91,Massy,Réseau de Massy-Antony ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.163,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1153,France,Ile-de-France,91,Les Ulis,Réseau des Ulis ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.073,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1154,France,Ile-de-France,91,Evry,Réseau d’Evry ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.193,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1155,France,Ile-de-France,91,Saint-Michel-Sur-Orge,Domaine du Bois des Roches ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.234,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1156,France,Ile-de-France,91,Grigny,Réseau de Grigny SOCCRAM ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.191,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1157,France,Ile-de-France,91,Brétigny-sur-orge,Réseau de Brétigny-sur-Orge ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.088,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1158,France,Ile-de-France,91,Dourdan,Réseau de Dourdan ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.246,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1159,France,Ile-de-France,91,Bruyères-le-Chatel,CEA DIF ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.219,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1160,France,Ile-de-France,91,Vigneux-sur-Seine,ZUP de la Croix Blanche ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.164,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1161,France,Ile-de-France,91,Epinay-sous-Sénart,Réseau d’Epinay sous Sénart ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.094,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1162,France,Ile-de-France,91,Ris-Orangis,Réseau de Ris-Orangis ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.101,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1163,France,Ile-de-France,91,Sainte-Geneviève-des-Bois,ZUP de Saint Hubert et Louis Pergaud ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.219,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1164,France,Ile-de-France,91,Grigny,Réseau de Grigny Rougnon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.197,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1165,France,Ile-de-France,91,Villejust,Parc d’activités ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.17627586206896553,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1166,France,Ile-de-France,91,Viry-Châtillon,Réseau de Viry Châtillon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.226,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1167,France,Ile-de-France,92,Meudon la Forêt,Réseau de Meudon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.204,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1168,France,Ile-de-France,92,Nanterre,ZAC Sainte-Geneviève ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.096,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1169,France,Ile-de-France,92,Gennevilliers,Réseau Gennevilliers ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.221,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1170,France,Ile-de-France,92,Chaville,Réseau de Chaville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.255,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1171,France,Ile-de-France,92,Levallois-Perret,Réseau de chaleur de Levallois ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.197,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1172,France,Ile-de-France,92,Levallois-Perret,ZAC du Front de Seine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.347,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1173,France,Ile-de-France,92,Châtillon-Sous-Bagneux,Réseau de Châtillon sous Bagneux Cocharec ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.282,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1174,France,Ile-de-France,92,Boulogne-Billancourt,ZAC île Séguin Rives de Seine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.13,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1175,France,Ile-de-France,92,Boulogne-Billancourt,ZAC île Séguin Rives de Seine ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.013,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1176,France,Ile-de-France,92,Suresnes,Réseau de Suresnes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.242,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1177,France,Ile-de-France,92,Courbevoie,Réseau CENEVIA ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.246,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1178,France,Ile-de-France,92,Courbevoie,Réseau de La Défense-Enertherm ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.192,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1179,France,Ile-de-France,92,Courbevoie,Réseau de La Défense-Enertherm ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.011,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1180,France,Ile-de-France,92,Villeneuve-la-Garenne,Résidence Villeneuve ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.21,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1181,France,Ile-de-France,92,Puteaux,Réseau Ciceo ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.236,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1182,France,Ile-de-France,92,Courbevoie,Réseau Suc-Société Urbaine de Climatisation ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.011,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1183,France,Ile-de-France,92,Nanterre,Réseau Quartier Hoche ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.062,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1184,France,Ile-de-France,92,Colombes,Réseau de la ZAC de la Marine ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.116,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1185,France,Ile-de-France,92,Clichy,Réseau de Clichy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.233,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1186,France,Ile-de-France,92,Bagneux,Réseau de Bagneux-Chatillon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.19,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1187,France,Ile-de-France,92,Levallois-Perret,Réseau Cristalia ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.018,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1188,France,Ile-de-France,93,Saint-Denis,Réseau de Saint Denis ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.183,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1189,France,Ile-de-France,93,Bagnolet,Réseau de Bagnolet ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.182,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1190,France,Ile-de-France,93,Bobigny,ZUP de Bobigny ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.221,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1191,France,Ile-de-France,93,Sevran,ZAC de Sevran ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.231,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1192,France,Ile-de-France,93,Neuilly-sur-Marne,ZUP des Fauvettes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.065,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1193,France,Ile-de-France,93,Villepinte,Réseau de Villepinte ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.054,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1194,France,Ile-de-France,93,Sevran,SEBIO ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.074,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1195,France,Ile-de-France,93,Le Bourget,Réseau ADP Le Bouget ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.226,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1196,France,Ile-de-France,93,Le Bourget,Réseau ADP Le Bouget ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.033,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1197,France,Ile-de-France,93,Clichy-sous-Bois,Le Chêne Pointu ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.193,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1198,France,Ile-de-France,93,Aulnay-sous-Bois,Le Gros Saule ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.193,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1199,France,Ile-de-France,93,La Courneuve,Quartier Nord ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.211,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1200,France,Ile-de-France,93,Tremblay-en-France,Réseau de Tremblay-en-France ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.08,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1201,France,Ile-de-France,93,Le Blanc-Mesnil,Réseau du Blanc Mesnil ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.218,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1202,France,Ile-de-France,93,Bondy,Réseau de Bondy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.13,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1203,France,Ile-de-France,93,Aulnay-sous-bois,Garonor ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.267,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1204,France,Ile-de-France,93,Saint-Denis,Centrale Landy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.233,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1205,France,Ile-de-France,93,Saint-Denis,Stade Energies SAS ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.009,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1206,France,Ile-de-France,93,La Courneuve,Quartier Sud ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.163,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1207,France,Ile-de-France,93,Saint-Ouen,Réseau de la ZAC des docks de Saint-Ouen ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.061,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1208,France,Ile-de-France,94,Limeil-Brévannes,Réseau de Limeil-Brévannes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.072,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1209,France,Ile-de-France,94,Créteil,Réseau de Créteil-Scuc ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.072,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1210,France,Ile-de-France,94,Vitry-sur-Seine,Réseau de Choisy-Vitry ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.157,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1211,France,Ile-de-France,94,Fontenay-sous-Bois,Réseau de Fontenay-sous-Bois ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.18,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1212,France,Ile-de-France,94,Rungis,Marché International de Rungis ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.001,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1213,France,Ile-de-France,94,Sucy-en-Brie,Réseau de Sucy en Brie ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.045,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1214,France,Ile-de-France,94,Cachan,Réseau de Cachan ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.151,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1215,France,Ile-de-France,94,Champigny-sur-Marne,Réseau de Champigny sur Marne ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.066,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1216,France,Ile-de-France,94,Maison-Alfort,Réseau de Maison-Alfort ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.091,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1217,France,Ile-de-France,94,Thiais,Réseau de Thiais ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.128,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1218,France,Ile-de-France,94,Bonneuil-sur-Marne,SETBO ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.052,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1219,France,Ile-de-France,94,Chevilly-Larue,Réseau de Chevilly-Larue l’Hay les Roses Villejuif ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.093,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1220,France,Ile-de-France,94,Fresnes,Réseau de Fresnes ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.095,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1221,France,Ile-de-France,94,Orly,Réseau d’Orly ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.065,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1222,France,Ile-de-France,94,Alfortville,Réseau d’Alfortville-Smag ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.048,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1223,France,Ile-de-France,94,Arcueil,Réseau d’Arcueil-Gentilly ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.107,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1224,France,Ile-de-France,94,Ivry-sur-Seine,Réseau d’Ivry ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.232,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1225,France,Ile-de-France,94,Villeneuve-Saint-Georges,Réseau de Villeneuve Saint Georges ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.087,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1226,France,Ile-de-France,94,Orly,Réseau ADP Orly ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.096,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1227,France,Ile-de-France,94,Orly,Réseau ADP Orly ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.007,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1228,France,Ile-de-France,95,Taverny,Réseau de la ZAC Croix Rouge ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.242,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1229,France,Ile-de-France,95,Sarcelles,Grand Ensemble Sarcelles-Locheres ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.053,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1230,France,Ile-de-France,95,Cergy Pontoise,Réseau de Cergy-Pontoise ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.166,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1231,France,Ile-de-France,95,Garges-Les-Gonesse,Van Gogh ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.18,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1232,France,Ile-de-France,95,Franconville,ZUP de Sannois-Ermont-Franconville ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.088,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1233,France,Ile-de-France,95,Argenteuil,Réseau d’Argenteuil ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.1,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1234,France,Ile-de-France,95,Roissy,Réseaux ADP Roissy ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.191,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1235,France,Ile-de-France,95,Roissy,Réseau ADP Roissy ,cool,2019-09-01,2019-09-01,2020-01-01,False,0.008,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1236,France,Ile-de-France,95,Franconville,ZUP de l’Epine Guyon ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.163,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1237,France,Ile-de-France,95,Villiers-le-Bel,Réseau de Villiers-le-Bel-Gonesse ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.105,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1238,France,Ile-de-France,95,Pontoise,Réseau de Pontoise ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.197,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,
+1239,France,Ile-de-France,95,Franconville,ZAC de Montedour ,heat,2019-09-01,2019-09-01,2020-01-01,False,0.231,30%,kgCO2e/kWh,,27,kgCO2e/kWh,,

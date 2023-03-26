@@ -5,7 +5,7 @@ from src.db.db_queries import fetch_all_from_table, upload_data
 
 DB_TABLE = 'F_fr_regional_heating_emissions'
 
-def fr_regional_heating_emissions_data(full_dataset:pd.DataFrame) -> None:
+def import_fr_regional_heating_emissions_data(full_dataset:pd.DataFrame) -> None:
     data = retrieve_fr_regional_heating_emissions_data(full_dataset)
     data = clean_fr_regional_heating_emissions_data(data)
     data = prep_fr_regional_heating_emissions_data(data)

@@ -1,11 +1,11 @@
 import pandas as pd
 
-from src.utils.cleaning_utils import clean_FR_dates, update_FR_region_names
+from src.utils.cleaning_utils import clean_FR_dates
 from src.db.db_queries import fetch_all_from_table, upload_data
 
 DB_TABLE = 'F_world_electricity_mix'
 
-def fr_electricity_mix_data(full_dataset:pd.DataFrame) -> None:
+def import_fr_electricity_mix_data(full_dataset:pd.DataFrame) -> None:
     data = retrieve_fr_electricity_mix_data(full_dataset)
     data = clean_fr_electricity_mix_data(data)
     data = prep_fr_electricity_mix_data(data)

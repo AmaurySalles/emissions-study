@@ -20,7 +20,6 @@ def upload_data(data:pd.DataFrame, table:str) -> None:
     finally:
         db.close()
 
-
 def fetch_all_from_table(table:str) -> pd.DataFrame:
     """
     Given a db SQL table, return all results as a dataframe.

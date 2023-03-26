@@ -1,27 +1,19 @@
 import sqlite3
 import logging
-
-from src.db.db_init_dims import init_db_dim_data
+import pandas as pd
+from src.utils.cleaning_utils import update_FR_region_names
+from src.db.db_queries import upload_data
+from src.db.db_tables import ALL_DB_TABLES
+from typing import List, Callable
 
 logging.basicConfig(level=logging.INFO)
 
-def create_db() -> None:
+def create_db(tables:List[Callable[[None], str]]=ALL_DB_TABLES) -> None:
     """
     Creating all dimension and fact DB tables.
     """
     db = sqlite3.connect('ecoact.db')
     c = db.cursor()
-
-    tables = [
-        Dim_Countries,
-        Dim_Regions,
-        Dim_Departments,
-        Dim_Units,
-        Dim_Sources,
-        Dim_Elec_mix_source_types,
-        F_fr_regional_heating_emissions,
-        F_world_electricity_mix
-    ]
 
     for t in tables:
         try:
@@ -33,93 +25,50 @@ def create_db() -> None:
     
     db.close()
 
-def Dim_Countries() -> str:
-    return """CREATE TABLE Dim_Countries (
-                country_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                country_name TEXT NOT NULL UNIQUE,
-                country_short TEXT NOT NULL UNIQUE
-            );
-            """
+def init_db_dim_data() -> None:
+    # Countries                                                         # Namibia's acronym is 'NA'
+    countries = pd.read_csv('./data/countries.csv', encoding='latin-1', keep_default_na=False) 
+    upload_data(countries, "Dim_Countries")
+    
+    # Regions
+    fr_regions = pd.read_csv('./data/french_regions.csv', encoding='latin-1')
+    fr_regions['country_id'] = 1  # Append FR country_id - TODO: look-up from db / cheated here by re-placing it first in list.
+    upload_data(fr_regions, "Dim_Regions")
+    
+    # Departments
+    fr_dept_dims = prep_FR_dept_dim_data()
+    upload_data(fr_dept_dims, "Dim_Departments")
+    
+    # Units - TODO: Clean unique units
+    data = pd.read_csv('./data/donnees_candidats_dev_python.csv', encoding='latin-1')
+    units = pd.DataFrame(data['Unité français'].unique()).rename(columns={0:'unit_name'})
+    upload_data(units.astype(str), "Dim_Units")
+    
+    # Sources - TODO: Clean unique sources
+    sources = pd.DataFrame(data['Source'].unique()).rename(columns={0:'source_name'}) # TODO: To add source_url if avaiable
+    upload_data(sources.astype(str), "Dim_Sources")
 
-def Dim_Regions() -> str:
-    return """CREATE TABLE Dim_Regions (
-                region_id INTEGER PRIMARY KEY,
-                region_name TEXT NOT NULL UNIQUE,
-                country_id INTEGER NOT NULL,
-                FOREIGN KEY (country_id) REFERENCES Dim_Countries (country_id)
-            );
-            """
+    # Electricity mix source type
+    elec_mix_source_types = pd.DataFrame({'source_type_name': ['Amont', 'Combustion à la centrale', 'Transport et distribution', 'Total']})
+    upload_data(elec_mix_source_types, "Dim_Elec_mix_source_types")
 
-def Dim_Departments() -> str:
-    # dept_id must be text rather than integer, as Corsica is split into 20A and 20B
-    return """CREATE TABLE Dim_Departments (
-                dept_id TEXT PRIMARY KEY,
-                dept_name TEXT NOT NULL UNIQUE,
-                region_id INTEGER NOT NULL,
-                FOREIGN KEY (region_id) REFERENCES Dim_Regions (region_id)
-            );
-            """
-
-def Dim_Units() -> str:
-    return """CREATE TABLE Dim_Units (
-                unit_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                unit_name TEXT NOT NULL UNIQUE
-            );
-            """
-
-def Dim_Sources() -> str:
-    return """CREATE TABLE Dim_Sources (
-                source_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                source_name TEXT NOT NULL UNIQUE,
-                source_url TEXT UNIQUE
-            );
-            """
-
-def Dim_Elec_mix_source_types() -> str:
-    return """CREATE TABLE Dim_Elec_mix_source_types (
-                source_type_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                source_type_name TEXT NOT NULL UNIQUE,
-            );
-            """
-
-def F_fr_regional_heating_emissions() -> str:
-    # TODO: Add unique feature to differentiate whether data is already in db.
-    return """ CREATE TABLE F_FR_regional_heating_emissions (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                dept_id TEXT NOT NULL,
-                heat_cycle TEXT NOT NULL,
-                emissions REAL NOT NULL,
-                unit_id INT NOT NULL,
-                uncertainty REAL,
-                creation_date DATE NOT NULL,
-                modified_date DATE,
-                validity_date DATE NOT NULL,
-                source_id INTEGER,
-                FOREIGN KEY (dept_id) REFERENCES Dim_Departments (dept_id),
-                FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id)
-                FOREIGN KEY (source_id) REFERENCES Dim_Sources (source_id)
-            );
-        """
-
-def F_world_electricity_mix() -> str:
-    return """ CREATE TABLE F_electricity_mix (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            country_id TEXT NOT NULL,
-            type TEXT NOT NULL
-            validity_date DATE NOT NULL,
-            source_type_id INTEGER NOT NULL
-            emissions REAL NOT NULL,
-            unit_id INT NOT NULL,
-            uncertainty REAL,
-            creation_date DATE NOT NULL,
-            modified_date DATE,
-            source_id INTEGER,
-            FOREIGN KEY (country_id) REFERENCES Dim_Countries (country_id),
-            FOREIGN KEY (source_type_id) REFERENCES Dim_Elec_mix_source_types (source_type_id)
-            FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id)
-            FOREIGN KEY (source_id) REFERENCES Dim_Sources (source_id)
-        );
+def prep_FR_dept_dim_data() -> pd.DataFrame:
     """
+    Retrieves all french departments and regions, alongside their corresponding ids
+    -----------
+    returns:
+        df containing the relationship between each department, region and country
+        for upload into the db.
+    """
+    regions = pd.read_csv('./data/french_regions.csv', encoding='latin-1')
+    depts = pd.read_csv('./data/french_dept.csv', encoding='latin-1')
+
+    depts['region'] = update_FR_region_names(depts['Région administrative'])
+    depts['region_id'] = depts['region'].map(regions.set_index('region_name')['region_id']).astype(int)
+    dept_dims = depts[['dept_id', 'Département ', 'region_id']].copy()
+    dept_dims = dept_dims.rename(columns={'Département ':'dept_name'})
+    
+    return dept_dims
 
 if __name__=="__main__":
     create_db()

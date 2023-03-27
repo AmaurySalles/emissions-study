@@ -1,10 +1,10 @@
-country_name,country_short
+fr_country_name,country_short
 France,FR
 Afghanistan,AF
 Îles Åland,AX
 Albanie,AL
 Algérie,DZ
-Samoa américaines,AS
+Samoa Américaines,AS
 Andorre,AD
 Angola,AO
 Anguilla,AI
@@ -42,7 +42,7 @@ Cameroun,CM
 Canada,CA
 Cap-Vert,CV
 Iles Cayman,KY
-République centrafricaine,CF
+République Centrafricaine,CF
 Tchad,TD
 Chili,CL
 Chine,CN
@@ -53,22 +53,22 @@ Macao,MO
 Colombie,CO
 Comores,KM
 République du Congo,CG
-République démocratique du Congo,CD
+République Démocratique du Congo,CD
 Îles Cook,CK
 Costa Rica,CR
 Côte d’Ivoire,CI
 Croatie,HR
 Cuba,CU
 Chypre,CY
-République tchèque,CZ
+République Tchèque,CZ
 Danemark,DK
 Djibouti,DJ
 Dominique,DM
-République dominicaine,DO
+République Dominicaine,DO
 Équateur,EC
 Égypte,EG
 Salvador,SV
-Guinée équatoriale,GQ
+Guinée Equatoriale,GQ
 Érythrée,ER
 Estonie,EE
 Éthiopie,ET
@@ -76,8 +76,8 @@ Estonie,EE
 Îles Féroé,FO
 Fidji,FJ
 Finlande,FI
-Guyane française,GF
-Polynésie française,PF
+Guyane Française,GF
+Polynésie Française,PF
 Terres australes et antarctiques françaises,TF
 Gabon,GA
 Gambie,GM
@@ -97,7 +97,6 @@ Guinée-Bissau,GW
 Guyane,GY
 Haïti,HT
 Îles Heard-et-MacDonald,HM
-Saint-Siège (Vatican),VA
 Honduras,HN
 Hongrie,HU
 Islande,IS
@@ -159,7 +158,7 @@ Nouvelle-Calédonie,NC
 Nouvelle-Zélande,NZ
 Nicaragua,NI
 Niger,NE
-Nigeria,NG
+Nigéria,NG
 Niue,NU
 Île Norfolk,NF
 Îles Mariannes du Nord,MP
@@ -241,17 +240,11 @@ Vanuatu,VU
 Venezuela,VE
 Viêt Nam,VN
 Îles Vierges américaines,VI
-Wallis-et-Futuna,WF
 Sahara occidental,EH
 Yémen,YE
 Zambie,ZM
 Zimbabwe,ZW
-Venezuela (République bolivarienne du),VE
-Viet Nam,VN
-Viet Nam (Sud),VD
+Vatican,VA
 Wallis et Futuna,WF
-Yémen,YE
 Yougoslavie,YU
 Zaïre,ZR
-Zambie,ZM
-Zimbabwe,ZW

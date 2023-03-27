@@ -4,7 +4,8 @@ import logging
 
 from src.db.db_setup import create_db, init_db_dim_data
 from src.dataset_func.fr_regional_heating_emissions_data import import_fr_regional_heating_emissions_data
-from src.dataset_func.fr_electricity_mix_data import import_fr_electricity_mix_data
+from src.dataset_func.fr_electricity_emissions_data import import_fr_electricity_emissions_data
+from src.dataset_func.world_electricity_emissions_data import import_world_electricity_emissions_data
 
 logging.basicConfig(level=logging.INFO)
 
@@ -15,8 +16,8 @@ def main() -> None:
     
     datasets = [
         import_fr_regional_heating_emissions_data,
-        import_fr_electricity_mix_data,
-        # TODO: world_electricity_mix_data,
+        import_fr_electricity_emissions_data,
+        import_world_electricity_emissions_data,
         # TODO: goods_emissions_data
         # TODO: transport_emissions_data
         # TODO: fuel_emissions_data

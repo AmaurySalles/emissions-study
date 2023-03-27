@@ -7,7 +7,7 @@ to execute each table on db setup (see db_setup.py).
 def Dim_Countries() -> str:
     return """CREATE TABLE Dim_Countries (
                 country_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                country_name TEXT NOT NULL UNIQUE,
+                fr_country_name TEXT NOT NULL UNIQUE,
                 country_short TEXT NOT NULL UNIQUE
             );
             """
@@ -55,7 +55,7 @@ def Dim_Elec_mix_source_types() -> str:
 
 def F_fr_regional_heating_emissions() -> str:
     # TODO: Add unique feature to differentiate whether data is already in db.
-    return """ CREATE TABLE F_FR_regional_heating_emissions (
+    return """ CREATE TABLE F_fr_regional_heating_emissions (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 dept_id TEXT NOT NULL,
                 heat_cycle TEXT NOT NULL,
@@ -72,7 +72,7 @@ def F_fr_regional_heating_emissions() -> str:
             );
         """
 
-def F_world_electricity_mix() -> str:
+def F_world_electricity_emissions() -> str:
     return """ CREATE TABLE F_world_electricity_mix (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             country_id TEXT NOT NULL,
@@ -101,5 +101,5 @@ ALL_DB_TABLES = [
     Dim_Sources,
     Dim_Elec_mix_source_types,
     F_fr_regional_heating_emissions,
-    F_world_electricity_mix
+    F_world_electricity_emissions,
 ]

@@ -3,31 +3,33 @@ import pandas as pd
 from src.utils.cleaning_utils import clean_FR_dates
 from src.db.db_queries import fetch_all_from_table, upload_data
 
-DB_TABLE = 'F_world_electricity_mix'
+DB_TABLE = 'F_world_electricity_emissions'
 
-def import_fr_electricity_mix_data(full_dataset:pd.DataFrame) -> None:
-    data = retrieve_fr_electricity_mix_data(full_dataset)
-    data = clean_fr_electricity_mix_data(data)
-    data = prep_fr_electricity_mix_data(data)
+def import_fr_electricity_emissions_data(full_dataset:pd.DataFrame) -> None:
+    data = retrieve_fr_electricity_emissions_data(full_dataset)
+    data = clean_fr_electricity_emissions_data(data)
+    data = prep_fr_electricity_emissions_data(data)
     upload_data(data, DB_TABLE)
 
-def retrieve_fr_electricity_mix_data(data:pd.DataFrame) -> pd.DataFrame:
+def retrieve_fr_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     # Split main categories
     data[['Cat1', 'Cat2', 'Cat3', 'Cat4', 'Cat5', 'Cat6']] = data["Code de la catégorie"].str.split(" > ", expand=True)
     
     # Find FR electricity mix data
     electricity_data = data[data['Cat1']=="Electricité"]
     elec_mix_data = electricity_data[electricity_data['Cat2']=="Mix réseau électrique"]
-    fr_elec_mix_data = elec_mix_data[elec_mix_data['Cat3']=="France continentale"]
-    fr_elec_mix_data = fr_elec_mix_data[fr_elec_mix_data['Cat4']=="Moyen"]
-    fr_elec_mix_data = fr_elec_mix_data[fr_elec_mix_data['Nom attribut français']=='mix moyen'].copy()
+    electricity_data = data[data['Cat1']=="Electricité"]
+    elec_mix_data = electricity_data[electricity_data['Cat2']=="Mix réseau électrique"]
+    fr_elec_emissions_data = elec_mix_data[elec_mix_data['Cat3']=="France continentale"]
+    fr_elec_emissions_data = fr_elec_emissions_data[fr_elec_emissions_data['Cat4']=="Moyen"]
+    fr_elec_emissions_data = fr_elec_emissions_data[fr_elec_emissions_data['Nom attribut français']=='mix moyen'].copy()
     
-    return fr_elec_mix_data
+    return fr_elec_emissions_data
 
-def clean_fr_electricity_mix_data(data:pd.DataFrame) -> pd.DataFrame:
+def clean_fr_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     clean_df = pd.DataFrame()    
     
-    clean_df['country_name'] = data['Localisation géographique'].apply(lambda x: x.split(' ')[0])
+    clean_df['fr_country_name'] = data['Localisation géographique'].apply(lambda x: x.split(' ')[0])
     clean_df['validity_date'] = pd.to_datetime(data['Période de validité'].apply(lambda x: x.replace('Année ', '')), format='%Y')
     clean_df['source_type_name'] = data['Type poste'].fillna('Total')
     clean_df['unit_name'] = data['Unité français']
@@ -39,13 +41,13 @@ def clean_fr_electricity_mix_data(data:pd.DataFrame) -> pd.DataFrame:
     
     return clean_df.sort_values('validity_date')
 
-def prep_fr_electricity_mix_data(data:pd.DataFrame) -> pd.DataFrame:
+def prep_fr_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     """
     Given all required regional_heat_data as str, find the relevant foreign key ids from db.
     """
     # Find country_ids
     country_ids = fetch_all_from_table('Dim_Countries')
-    data = data.merge(country_ids, on='country_name', how='left')
+    data = data.merge(country_ids, on='fr_country_name', how='left')
     data.rename(columns={'id':'country_id'}, inplace=True)
     
     # Find elec_mix_source_type_id

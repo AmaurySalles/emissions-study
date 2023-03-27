@@ -12,7 +12,7 @@ def upload_data(data:pd.DataFrame, table:str) -> None:
     db = sqlite3.connect('ecoact.db')
 
     try:
-        data.to_sql(table, db, if_exists="replace", index=False)
+        data.to_sql(table, db, if_exists="append", index=False)
         logging.info(f'Uploaded data to {table}.')
     except sqlite3.OperationalError as e:
         logging.error(e)
@@ -31,8 +31,11 @@ def fetch_all_from_table(table:str) -> pd.DataFrame:
         df = pd.read_sql_query(query, db)
         
         # For auto-incrementing primary keys, grab df index as id
-        df.reset_index(names='id', inplace=True)
-        df['id'] +=1 # auto-incrementing ids start at 1 (sqlite3), rather than 0 (in pd.DataFrames)
+        try:
+            df.reset_index(names='id', inplace=True)
+            df['id'] +=1 # auto-incrementing ids start at 1 (sqlite3), rather than 0 (in pd.DataFrames)
+        except ValueError:
+            pass
         
         logging.info(f'Fetch from {table} successful.')
     except sqlite3.OperationalError as e:

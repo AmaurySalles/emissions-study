@@ -6,9 +6,10 @@ to execute each table on db setup (see db_setup.py).
 
 def Dim_Countries() -> str:
     return """CREATE TABLE Dim_Countries (
-                country_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                fr_country_name TEXT NOT NULL UNIQUE,
-                country_short TEXT NOT NULL UNIQUE
+                iso_3 TEXT NOT NULL UNIQUE PRIMARY KEY, 
+                iso_2 TEXT NOT NULL UNIQUE,
+                iso_n INTEGER NOT NULL UNIQUE,
+                fr_country_name TEXT NOT NULL UNIQUE
             );
             """
 
@@ -16,8 +17,8 @@ def Dim_Regions() -> str:
     return """CREATE TABLE Dim_Regions (
                 region_id INTEGER PRIMARY KEY,
                 region_name TEXT NOT NULL UNIQUE,
-                country_id INTEGER NOT NULL,
-                FOREIGN KEY (country_id) REFERENCES Dim_Countries (country_id)
+                country_iso_3 TEXT NOT NULL,
+                FOREIGN KEY (country_iso_3) REFERENCES Dim_Countries (iso_3)
             );
             """
 
@@ -46,16 +47,16 @@ def Dim_Sources() -> str:
             );
             """
 
-def Dim_Elec_mix_source_types() -> str:
-    return """CREATE TABLE Dim_Elec_mix_source_types (
-                source_type_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                source_type_name TEXT NOT NULL UNIQUE
+def Dim_Elec_mix_post_types() -> str:
+    return """CREATE TABLE Dim_Elec_mix_post_types (
+                post_type_id INTEGER PRIMARY KEY AUTOINCREMENT,
+                post_type_name TEXT NOT NULL UNIQUE
             );
             """
 
-def F_fr_regional_heating_emissions() -> str:
+def FR_regional_heating_emissions() -> str:
     # TODO: Add unique feature to differentiate whether data is already in db.
-    return """ CREATE TABLE F_fr_regional_heating_emissions (
+    return """ CREATE TABLE FR_regional_heating_emissions (
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
                 dept_id TEXT NOT NULL,
                 heat_cycle TEXT NOT NULL,
@@ -72,21 +73,20 @@ def F_fr_regional_heating_emissions() -> str:
             );
         """
 
-def F_world_electricity_emissions() -> str:
-    return """ CREATE TABLE F_world_electricity_mix (
+def World_electricity_emissions() -> str:
+    return """ CREATE TABLE World_electricity_emissions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            country_id TEXT NOT NULL,
-            type TEXT NOT NULL,
+            country_iso_3 TEXT NOT NULL,
             validity_date DATE NOT NULL,
-            source_type_id INTEGER NOT NULL,
+            post_type_id INTEGER,
             emissions REAL NOT NULL,
             unit_id INT NOT NULL,
             uncertainty REAL,
             creation_date DATE NOT NULL,
             modified_date DATE,
             source_id INTEGER,
-            FOREIGN KEY (country_id) REFERENCES Dim_Countries (country_id),
-            FOREIGN KEY (source_type_id) REFERENCES Dim_Elec_mix_source_types (source_type_id),
+            FOREIGN KEY (country_iso_3) REFERENCES Dim_Countries (iso_3),
+            FOREIGN KEY (post_type_id) REFERENCES Dim_Elec_mix_post_types (post_type_id),
             FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id),
             FOREIGN KEY (source_id) REFERENCES Dim_Sources (source_id)
         );
@@ -99,7 +99,7 @@ ALL_DB_TABLES = [
     Dim_Departments,
     Dim_Units,
     Dim_Sources,
-    Dim_Elec_mix_source_types,
-    F_fr_regional_heating_emissions,
-    F_world_electricity_emissions,
+    Dim_Elec_mix_post_types,
+    FR_regional_heating_emissions,
+    World_electricity_emissions,
 ]

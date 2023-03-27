@@ -3,7 +3,7 @@ import pandas as pd
 from src.utils.cleaning_utils import clean_FR_dates, update_FR_region_names
 from src.db.db_queries import fetch_all_from_table, upload_data
 
-DB_TABLE = 'F_fr_regional_heating_emissions'
+DB_TABLE = 'FR_regional_heating_emissions'
 
 def import_fr_regional_heating_emissions_data(full_dataset:pd.DataFrame) -> None:
     data = retrieve_fr_regional_heating_emissions_data(full_dataset)
@@ -33,8 +33,10 @@ def clean_fr_regional_heating_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     
     # Split into dept, city and addresses
     clean_df[['dept_id', 'city', 'address', 'address2']] = data['Nom attribut français'].str.split(', ', expand=True)
+    clean_df['dept_id'] = clean_df['dept_id'].str.zfill(2) # Changes id from '1' to '01'
     clean_df['address'] = clean_df['address'].str.cat(clean_df['address2'], sep=' ', na_rep='') # Concat & remove as only 2 val
-    clean_df.drop(columns={'address2'}, inplace=True) 
+    clean_df.drop(columns={'address2'}, inplace=True)
+    
     
     # Heat_cycle (shorten value)
     clean_df['heat_cycle'] = data['Nom base français'].apply(lambda x: 'heat' if 'chaleur' in x else 'cool')

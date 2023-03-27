@@ -3,7 +3,7 @@ import pandas as pd
 from src.utils.cleaning_utils import clean_FR_dates
 from src.db.db_queries import fetch_all_from_table, upload_data
 
-DB_TABLE = 'F_world_electricity_emissions'
+DB_TABLE = 'World_electricity_emissions'
 
 def import_world_electricity_emissions_data(full_dataset:pd.DataFrame) -> None:
     data = retrieve_world_electricity_emissions_data(full_dataset)
@@ -26,25 +26,32 @@ def clean_world_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     clean_df = pd.DataFrame()    
     
     clean_df['fr_country_name'] = data['Sous-localisation géographique français']
-    clean_df['fr_country_name'].replace({"Birmanie":"Myanmar",
-                                      "Bélarus":"Biélorussie",
-                                      "Congo": "République du Congo",
-                                      "Corée du nord": "Corée du Nord",
-                                      "Corée du sud": "Corée du Sud",
-                                      "Costa rica": "Costa Rica",
-                                      "Côte d'Ivoire": "Côte dIvoire", # DB does not take special charaters
-                                      "Dominicaine. République":"République Dominicaine",
-                                      "Iraq":"Irak",
-                                      "Macédonie":"Macédoine",
-                                      "Rép. Dém. Du Congo":"République Démocratique du Congo"},
-                                    regex=True, inplace=True)
-    clean_df[clean_df['fr_country_name']!='Union européenne à 27'] # Remove EU-27 (no corresponding country in DB & can be reconstructed)
+    clean_df['fr_country_name'].replace({"Bélarus":"Biélorussie",
+                                        "Birmanie":"Myanmar",
+                                        "Brunéi Darussalam":"Brunei Darussalam",
+                                        "Congo": "République du Congo",
+                                        "Corée du nord": "Corée du Nord",
+                                        "Corée du sud": "Corée du Sud",
+                                        "Costa rica": "Costa Rica",
+                                        "Côte d'Ivoire": "Côte dIvoire", # DB removes any special charaters
+                                        "Dominicaine. République":"République Dominicaine",
+                                        "El Salvador":"Salvador",
+                                        "Iraq":"Irak",
+                                        "Macédonie":"Macédoine",
+                                        "Montenegro":"Monténégro",
+                                        "Kazakstan":"Kazakhstan",
+                                        "Rép. Dém. Du République du Congo":"République Démocratique du Congo"},
+                                        regex=True, inplace=True)
+    # Remove country/region aggregates (no corresponding country code)
+    clean_df.drop(clean_df[clean_df['fr_country_name'] == 'Union européenne à 27'].index, inplace=True)
+    clean_df.drop(clean_df[clean_df['fr_country_name'] == 'Antilles Néerlandaises'].index, inplace=True)
+    clean_df.drop(clean_df[clean_df['fr_country_name'] == 'Rép. Dém. Du République du Congo'].index, inplace=True) # TODO: Debug for this val
     
     clean_df['validity_date'] = data['Période de validité'].apply(lambda x: x.replace('déc.-', 'Décembre 20'))
     clean_df['validity_date'] = clean_df['validity_date'].apply(lambda x: x.replace('déc-', 'Décembre 20'))                                                 
     clean_df['validity_date'] = pd.to_datetime(clean_df['validity_date'], format='%B %Y')
     
-    clean_df['source_type_name'] = data['Type poste'].fillna('Total')
+    clean_df['post_type_name'] = data['Type poste'].fillna('Total')
     clean_df['unit_name'] = data['Unité français']
     clean_df['emissions'] = data['Total poste non décomposé']
     clean_df['source_name'] = data['Source']
@@ -61,12 +68,13 @@ def prep_world_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     # Find country_ids
     country_ids = fetch_all_from_table('Dim_Countries')
     data = data.merge(country_ids, on='fr_country_name', how='left')
-    data.rename(columns={'id':'country_id'}, inplace=True)
+    data.rename(columns={'iso_3':'country_iso_3'}, inplace=True)
+    data.drop('id', axis=1, inplace=True) # Do not need, as use ISO-3 country names
     
-    # Find elec_mix_source_type_id
-    elec_mix_source_type_id = fetch_all_from_table('Dim_Elec_mix_source_types')
-    data = data.merge(elec_mix_source_type_id, on='source_type_name', how='left')
-    data.rename(columns={'id':'source_type_id'}, inplace=True)
+    # Find elec_mix_post_type_id
+    elec_mix_post_type_id = fetch_all_from_table('Dim_Elec_mix_post_types')
+    data = data.merge(elec_mix_post_type_id, on='post_type_name', how='left')
+    data.rename(columns={'id':'post_type_id'}, inplace=True)
     
     # Find unit_ids
     unit_ids = fetch_all_from_table('Dim_Units')
@@ -76,9 +84,9 @@ def prep_world_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     # Find source_ids
     source_ids = fetch_all_from_table('Dim_Sources')
     data = data.merge(source_ids, on='source_name', how='left')
-    data.rename(columns={'id':'source_id'}, inplace=True)
-        
-    db_data = data[['country_id', 'source_type_id', 'emissions', 'unit_id','uncertainty', 
+    data.rename(columns={'id':'source_id'}, inplace=True)      
+    
+    db_data = data[['country_iso_3', 'post_type_id', 'emissions', 'unit_id','uncertainty', 
                     'creation_date','modified_date','validity_date', 'source_id']].copy()
     
     return db_data

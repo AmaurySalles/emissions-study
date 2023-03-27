@@ -36,7 +36,7 @@ def init_db_dim_data() -> None:
     
     # Regions
     fr_regions = pd.read_csv('./data/french_regions.csv', encoding='latin-1')
-    fr_regions['country_id'] = 1  # Append FR country_id - TODO: look-up from db / cheated here by re-placing it first in list.
+    fr_regions['country_iso_3'] = 'FRA'
     upload_data(fr_regions, "Dim_Regions")
     
     # Departments
@@ -53,8 +53,8 @@ def init_db_dim_data() -> None:
     upload_data(sources.astype(str), "Dim_Sources")
 
     # Electricity mix source type
-    elec_mix_source_types = pd.DataFrame({'source_type_name': ['Amont', 'Combustion à la centrale', 'Transport et distribution', 'Total']})
-    upload_data(elec_mix_source_types, "Dim_Elec_mix_source_types")
+    elec_mix_source_types = pd.DataFrame({'post_type_name': ['Amont', 'Combustion à la centrale', 'Transport et distribution', 'Total']})
+    upload_data(elec_mix_source_types, "Dim_Elec_mix_post_types")
 
 def prep_FR_dept_dim_data() -> pd.DataFrame:
     """
@@ -69,8 +69,16 @@ def prep_FR_dept_dim_data() -> pd.DataFrame:
 
     depts['region'] = update_FR_region_names(depts['Région administrative'])
     depts['region_id'] = depts['region'].map(regions.set_index('region_name')['region_id']).astype(int)
-    dept_dims = depts[['dept_id', 'Département ', 'region_id']].copy()
-    dept_dims = dept_dims.rename(columns={'Département ':'dept_name'})
+    depts.rename(columns={'Département ':'dept_name'}, inplace=True)
+    depts['dept_name'] = depts['dept_name'].str.strip()
+    depts['dept_name'].replace({"Alpes de Haute-Provence": "Alpes-de-Haute-Provence",  # To match fr-geo-json file
+                                "Ardêche": "Ardèche",
+                                "Côtes d'Armor":"Côtes-d'Armor",
+                                "Île-et-Vilaine":"Ille-et-Vilaine",
+                                "Territoire-de-Belfort":"Territoire de Belfort"},
+                            regex=True, inplace=True)
+    depts['dept_id'] = depts['dept_id'].str.zfill(2) # Changes id from '1' to '01'
+    dept_dims = depts[['dept_id', 'dept_name', 'region_id']].copy()
     
     return dept_dims
 

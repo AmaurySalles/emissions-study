@@ -10,4 +10,7 @@ Data analysis of GHG emissions in France, from various 3rd party sources
 4. Install all the requirements `python3 -m pip install -r requirements.txt`
 
 ## Run
-Run locally with the `python emissions.py` command.
+
+To initialise the database, run the `emissions.py` script with the following command: `python3 -m emissions.py`
+
+To launch the streamlit app: `streamlit run app.py`

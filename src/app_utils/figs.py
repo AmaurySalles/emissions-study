@@ -10,10 +10,9 @@ def graph_world_electricity_emissions():
     emissions_df['emissions'] *= 1_000 # Convert from kgCO2e/kWh to gCO2e/kWh
     emissions_df['emissions'] = round(emissions_df['emissions'],2)
     
-    # Load the GeoJSON file for French departments
-    with open('./maps/fr_departements.geojson') as f:
-        fr_dept_geojson = json.load(f)
-
+    # Remove outlier
+    emissions_df.drop(emissions_df[emissions_df['country_iso_3'] == 'BWA'].index, inplace=True)
+    
     # Plot graph
     fig = px.choropleth(emissions_df, 
                         locationmode="ISO-3", 

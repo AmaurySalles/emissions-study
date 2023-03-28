@@ -1,14 +1,16 @@
 import pandas as pd
+from enum import Enum
+from typing import Dict
 
 from src.utils.cleaning_utils import clean_FR_dates, update_FR_region_names
 from src.db.db_queries import fetch_all_from_table, upload_data
 
 DB_TABLE = 'FR_regional_heating_emissions'
 
-def import_fr_regional_heating_emissions_data(full_dataset:pd.DataFrame) -> None:
+def import_fr_regional_heating_emissions_data(full_dataset:pd.DataFrame, db_dims:Dict[str,Enum]) -> None:
     data = retrieve_fr_regional_heating_emissions_data(full_dataset)
     data = clean_fr_regional_heating_emissions_data(data)
-    data = prep_fr_regional_heating_emissions_data(data)
+    data = prep_fr_regional_heating_emissions_data(data, db_dims)
     upload_data(data, DB_TABLE)
 
 def retrieve_fr_regional_heating_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
@@ -67,23 +69,23 @@ def clean_fr_regional_heating_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     
     return clean_df 
 
-def prep_fr_regional_heating_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
+def prep_fr_regional_heating_emissions_data(data:pd.DataFrame, db_dims:Dict[str,Enum]) -> pd.DataFrame:
     """
     Given all required regional_heat_data as str, find the relevant foreign key ids from db.
+    These functions make use of the DB dimension enums, and through a lambda function which 
+    returns the enum name (table_id) for the first enum.value match.
     """
     # Find dept_ids
     # NA - Already within the dataset
-    
+
     # Find unit_ids
-    unit_ids = fetch_all_from_table('Dim_Units')
-    data = data.merge(unit_ids, on='unit_name', how='left')
-    data.rename(columns={'id':'unit_id'}, inplace=True)
+    Units = db_dims['Units']
+    data['unit_id'] = data['unit_name'].apply(lambda x: next((enum.name for enum in Units if enum.value == x), None))
     
     # Find source_ids
-    source_ids = fetch_all_from_table('Dim_Sources')
-    data = data.merge(source_ids, on='source_name', how='left')
-    data.rename(columns={'id':'source_id'}, inplace=True)
-        
+    Sources = db_dims['Sources']
+    data['source_id'] = data['source_name'].apply(lambda x: next((enum.name for enum in Sources if enum.value == x), None)) 
+    
     db_data = data[['dept_id', 'heat_cycle', 'emissions', 'unit_id','uncertainty', 
                     'creation_date','modified_date','validity_date', 'source_id']].copy()
     

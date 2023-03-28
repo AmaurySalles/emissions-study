@@ -1,14 +1,16 @@
 import pandas as pd
+from enum import Enum
+from typing import Dict
 
 from src.utils.cleaning_utils import clean_FR_dates
 from src.db.db_queries import fetch_all_from_table, upload_data
 
 DB_TABLE = 'World_electricity_emissions'
 
-def import_fr_electricity_emissions_data(full_dataset:pd.DataFrame) -> None:
+def import_fr_electricity_emissions_data(full_dataset:pd.DataFrame, db_dims:Dict[str,Enum]) -> None:
     data = retrieve_fr_electricity_emissions_data(full_dataset)
     data = clean_fr_electricity_emissions_data(data)
-    data = prep_fr_electricity_emissions_data(data)
+    data = prep_fr_electricity_emissions_data(data, db_dims)
     upload_data(data, DB_TABLE)
 
 def retrieve_fr_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
@@ -41,30 +43,28 @@ def clean_fr_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
     
     return clean_df.sort_values('validity_date')
 
-def prep_fr_electricity_emissions_data(data:pd.DataFrame) -> pd.DataFrame:
+def prep_fr_electricity_emissions_data(data:pd.DataFrame, db_dims:Dict[str, Enum]) -> pd.DataFrame:
     """
     Given all required regional_heat_data as str, find the relevant foreign key ids from db.
+    These functions make use of the DB dimension enums, and through a lambda function which 
+    returns the enum name (table_id) for the first enum.value match.
     """
     # Find country_ids
-    country_ids = fetch_all_from_table('Dim_Countries')
-    data = data.merge(country_ids, on='fr_country_name', how='left')
-    data.rename(columns={'iso_3':'country_iso_3'}, inplace=True)
-    # data.drop('id', axis=1, inplace=True) # Do not need, as use ISO-3 country names
+    Countries = db_dims['Countries']
+    data['country_iso_3'] = data['fr_country_name'].apply(lambda x: next((enum.name for enum in Countries if enum.value == x), None))
     
     # Find elec_mix_post_type_id
-    elec_mix_post_type_id = fetch_all_from_table('Dim_Elec_mix_post_types')
-    data = data.merge(elec_mix_post_type_id, on='post_type_name', how='left')
-    data.rename(columns={'id':'post_type_id'}, inplace=True)
+    Elec_mix_post_types = db_dims['Elec_mix_post_types']
+    data['post_type_id'] = data['post_type_name'].apply(lambda x: next((enum.name for enum in Elec_mix_post_types if enum.value == x), None))
+
     
     # Find unit_ids
-    unit_ids = fetch_all_from_table('Dim_Units')
-    data = data.merge(unit_ids, on='unit_name', how='left')
-    data.rename(columns={'id':'unit_id'}, inplace=True)
+    Units = db_dims['Units']
+    data['unit_id'] = data['unit_name'].apply(lambda x: next((enum.name for enum in Units if enum.value == x), None))
     
     # Find source_ids
-    source_ids = fetch_all_from_table('Dim_Sources')
-    data = data.merge(source_ids, on='source_name', how='left')
-    data.rename(columns={'id':'source_id'}, inplace=True)
+    Sources = db_dims['Sources']
+    data['source_id'] = data['source_name'].apply(lambda x: next((enum.name for enum in Sources if enum.value == x), None))
         
     db_data = data[['country_iso_3', 'post_type_id', 'emissions', 'unit_id','uncertainty', 
                     'creation_date','modified_date','validity_date', 'source_id']].copy()

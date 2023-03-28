@@ -1,7 +1,8 @@
 import sqlite3
 import logging
 import pandas as pd
-from typing import List, Callable
+from typing import List, Dict, Callable
+from enum import Enum
 
 from src.utils.cleaning_utils import update_FR_region_names
 from src.db.db_queries import upload_data
@@ -82,6 +83,37 @@ def prep_FR_dept_dim_data() -> pd.DataFrame:
     
     return dept_dims
 
+def retrieve_db_dim_data() -> Dict[str, Enum]:
+
+    db = sqlite3.connect('ecoact.db')
+
+    Countries = create_enum_from_table(db, 'Dim_Countries', 'iso_3', 'fr_country_name')
+    Departments = create_enum_from_table(db, 'Dim_Departments', 'dept_id', 'dept_name')
+    Regions = create_enum_from_table(db, 'Dim_Regions', 'region_id', 'region_name')
+    Elec_mix_post_type = create_enum_from_table(db, 'Dim_Elec_mix_post_types', 'post_type_id', 'post_type_name')
+    Sources = create_enum_from_table(db, 'Dim_Sources', 'source_id', 'source_name')
+    Units = create_enum_from_table(db, 'Dim_Units', 'unit_id', 'unit_name')
+    
+    db_dims = {
+        'Countries': Countries,
+        'Depts' : Departments,
+        'Regions': Regions,
+        'Elec_mix_post_types': Elec_mix_post_type,
+        'Sources': Sources,
+        'Units': Units
+    }
+    
+    return db_dims
+
+def create_enum_from_table(db: sqlite3.Connection, table_name: str, name_column: str, value_column: str) -> Enum:
+    query = db.execute(f"SELECT {name_column}, {value_column} FROM {table_name}")
+    result = dict(query.fetchall())
+    result = {str(k): v for k, v in result.items()}
+    dim_enum = Enum(table_name, result)
+    return dim_enum
+
+
 if __name__=="__main__":
     create_db()
     init_db_dim_data()
+    retrieve_db_dim_data()

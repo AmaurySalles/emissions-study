@@ -1,6 +1,10 @@
 # emissions-study
 Data analysis of GHG emissions in France, from various 3rd party sources
 
+Clean data can be viewed on a streamlit app:
+
+![image](https://user-images.githubusercontent.com/90214548/228274878-a9b06596-4232-462b-a1d4-1ab818356478.png)
+
 
 ## Install
 
@@ -14,3 +18,9 @@ Data analysis of GHG emissions in France, from various 3rd party sources
 To initialise the database, run the `emissions.py` script with the following command: `python3 -m emissions.py`
 
 To launch the streamlit app: `streamlit run app.py`
+
+## DB-Schema
+
+DB-Schema.xml can be found under `./doc`
+
+![image](https://user-images.githubusercontent.com/90214548/228275276-8b5e41d6-790b-4071-b0cb-3111f73fecd8.png)

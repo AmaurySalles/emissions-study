@@ -4,3 +4,6 @@ pathlib
 sqlite
 streamlit
 plotly
+slqalchemy
+fastapi
+uvicorn

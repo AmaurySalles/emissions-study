@@ -24,16 +24,15 @@ def main():
                                     'France heating network emissions'])
     
     
-    # TODO: Match-case on selectbox rather than else-if       
+    # TODO: Match-case on selectbox rather than else-if once more datasets are available    
     if dataset == 'World electricity emissions':
-        with st.container():
-            fig = graph_world_electricity_emissions()
+        fig = graph_world_electricity_emissions()
     elif dataset == 'France heating network emissions':
-        with st.container():
-            fig = graph_fr_heating_emissions()
+        fig = graph_fr_heating_emissions()
     
     st.write('###') # Vertical space
-    st.plotly_chart(fig, )
+    with st.container():
+        st.plotly_chart(fig, )
 
 if __name__ == "__main__":
     main()

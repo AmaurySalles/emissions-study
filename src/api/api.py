@@ -3,7 +3,6 @@ import json
 from sqlalchemy import create_engine, text
 from sqlalchemy.orm import sessionmaker
 
-
 app = FastAPI()
 engine = create_engine("sqlite:///ecoact.db", connect_args={"check_same_thread": False})
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)

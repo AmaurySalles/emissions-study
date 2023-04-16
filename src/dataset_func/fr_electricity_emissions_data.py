@@ -3,7 +3,7 @@ from enum import Enum
 from typing import Dict
 
 from src.utils.cleaning_utils import clean_FR_dates
-from src.db.db_queries import fetch_all_from_table, upload_data
+from src.db.db_queries import upload_data
 
 DB_TABLE = 'World_electricity_emissions'
 

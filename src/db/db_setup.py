@@ -56,6 +56,15 @@ def init_db_dim_data() -> None:
     # Electricity mix source type
     elec_mix_source_types = pd.DataFrame({'post_type_name': ['Amont', 'Combustion à la centrale', 'Transport et distribution', 'Total']})
     upload_data(elec_mix_source_types, "Dim_Elec_mix_post_types")
+    
+    # Tree types
+    tree_types = pd.DataFrame({'tree_type_name': ['Deciduous', 'Coniferous', 'Mixed', 'Total']})
+    upload_data(tree_types, "Dim_Tree_types")
+    
+    # Forest types
+    forest_types = pd.DataFrame({'forest_type_name': ['Open forest', 'Closed forest', 'Open and closed forest', 'Total']})
+    upload_data(forest_types, "Dim_Forest_types")
+    
 
 def prep_FR_dept_dim_data() -> pd.DataFrame:
     """
@@ -93,14 +102,18 @@ def retrieve_db_dim_data() -> Dict[str, Enum]:
     Elec_mix_post_type = create_enum_from_table(db, 'Dim_Elec_mix_post_types', 'post_type_id', 'post_type_name')
     Sources = create_enum_from_table(db, 'Dim_Sources', 'source_id', 'source_name')
     Units = create_enum_from_table(db, 'Dim_Units', 'unit_id', 'unit_name')
+    Tree_types = create_enum_from_table(db, 'Dim_Tree_types', 'tree_type_id', 'tree_type_name')
+    Forest_types = create_enum_from_table(db, 'Dim_Forest_types', 'forest_type_id', 'forest_type_name')
     
     db_dims = {
         'Countries': Countries,
-        'Depts' : Departments,
         'Regions': Regions,
+        'Depts' : Departments,
         'Elec_mix_post_types': Elec_mix_post_type,
         'Sources': Sources,
-        'Units': Units
+        'Units': Units,
+        'Forest_types': Forest_types,
+        'Tree_types': Tree_types,
     }
     
     return db_dims
@@ -108,7 +121,7 @@ def retrieve_db_dim_data() -> Dict[str, Enum]:
 def create_enum_from_table(db: sqlite3.Connection, table_name: str, name_column: str, value_column: str) -> Enum:
     query = db.execute(f"SELECT {name_column}, {value_column} FROM {table_name}")
     result = dict(query.fetchall())
-    result = {str(k): v for k, v in result.items()}
+    result = {str(key): val for key, val in result.items()}
     dim_enum = Enum(table_name, result)
     return dim_enum
 

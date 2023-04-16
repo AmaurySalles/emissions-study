@@ -29,6 +29,7 @@ def update_FR_region_names(data:pd.Series) -> pd.Series:
         "Centre-Val de Loire": "Centre",
         "Languedoc-Roussillon": "Occitanie",
         "Midi-Pyrénées":"Occitanie",
+        "Midi-Pyrenées":"Occitanie",
         "Nord-Pas-de-Calais": "Hauts de France",
         "Picardie":"Hauts de France",
         "Basse-Normandie": "Normandie",

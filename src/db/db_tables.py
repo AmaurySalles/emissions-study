@@ -54,6 +54,20 @@ def Dim_Elec_mix_post_types() -> str:
             );
             """
 
+def Dim_Tree_types() -> str:
+    return """ CREATE TABLE Dim_Tree_types (
+        tree_type_id INTEGER PRIMARY KEY AUTOINCREMENT,
+        tree_type_name TEXT NOT NULL UNIQUE
+    );
+"""
+
+def Dim_Forest_types() -> str:
+    return """ CREATE TABLE Dim_Forest_types (
+        forest_type_id INTEGER PRIMARY KEY AUTOINCREMENT,
+        forest_type_name TEXT NOT NULL UNIQUE
+    );
+"""
+
 def FR_regional_heating_emissions() -> str:
     # TODO: Add unique feature to differentiate whether data is already in db.
     return """ CREATE TABLE FR_regional_heating_emissions (
@@ -92,6 +106,45 @@ def World_electricity_emissions() -> str:
         );
     """
 
+
+def FR_forestry_area() -> str:
+    return """ CREATE TABLE FR_forestry_area (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            region_id INTEGER NOT NULL,
+            forest_type_id INTEGER NOT NULL,
+            tree_type_id INTEGER NOT NULL,
+            land_loss REAL NOT NULL,
+            unit_id INT NOT NULL,
+            uncertainty REAL,
+            validity_date DATE NOT NULL,
+            creation_date DATE NOT NULL,
+            modified_date DATE,
+            source_id INTEGER,
+            FOREIGN KEY (region_id) REFERENCES Dim_Regions (region_id),
+            FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id),
+            FOREIGN KEY (tree_type_id) REFERENCES Dim_Tree_types (tree_type_id),
+            FOREIGN KEY (source_id) REFERENCES Dim_Sources (source_id)
+        );
+    """
+
+# def World_land_use() -> str:
+#     return """ CREATE TABLE World_electricity_emissions (
+#             id INTEGER PRIMARY KEY AUTOINCREMENT,
+#             dept_id TEXT NOT NULL,
+#             land_change TEXT NOT NULL,
+#             value REAL NOT NULL,
+#             unit_id INT NOT NULL,
+#             uncertainty REAL,
+#             validity_date DATE NOT NULL,
+#             creation_date DATE NOT NULL,
+#             modified_date DATE,
+#             source_id INTEGER,
+#             FOREIGN KEY (country_iso_3) REFERENCES Dim_Countries (iso_3),
+#             FOREIGN KEY (unit_id) REFERENCES Dim_Units (unit_id),
+#             FOREIGN KEY (source_id) REFERENCES Dim_Sources (source_id)
+#         );
+#     """
+
 # List of callable functions
 ALL_DB_TABLES = [
     Dim_Countries,
@@ -100,6 +153,9 @@ ALL_DB_TABLES = [
     Dim_Units,
     Dim_Sources,
     Dim_Elec_mix_post_types,
+    Dim_Forest_types,
+    Dim_Tree_types,
     FR_regional_heating_emissions,
     World_electricity_emissions,
+    FR_forestry_area
 ]

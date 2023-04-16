@@ -1,0 +1,177 @@
+,region_name,tree_type_name,forest_type_name,land_loss,unit_name,uncertainty,creation_date,modified_date,validity_date,source_name,region_id,forest_type_id,tree_type_id,unit_id,source_id
+14140,Grand Est,Coniferous,Closed forest,-4120.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,2,26,2
+14141,Grand Est,Coniferous,Open and closed forest,-4120.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,2,26,2
+14142,Grand Est,Deciduous,Closed forest,-4710.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,1,26,2
+14143,Grand Est,Deciduous,Open and closed forest,-4690.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,1,26,2
+14144,Grand Est,Mixed,Closed forest,-5540.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,3,26,2
+14145,Grand Est,Mixed,Open and closed forest,-5540.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,3,26,2
+14146,Grand Est,Total,Closed forest,-4760.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,4,26,2
+14147,Grand Est,Total,Open and closed forest,-4760.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,4,26,2
+14148,Aquitaine-Limousin-Poitou-Charentes,Coniferous,Closed forest,2580.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,2,26,2
+14149,Aquitaine-Limousin-Poitou-Charentes,Coniferous,Open and closed forest,2580.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,2,26,2
+14150,Aquitaine-Limousin-Poitou-Charentes,Deciduous,Closed forest,-4390.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,1,26,2
+14151,Aquitaine-Limousin-Poitou-Charentes,Deciduous,Open and closed forest,-4330.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,1,26,2
+14152,Aquitaine-Limousin-Poitou-Charentes,Mixed,Closed forest,-1080.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,3,26,2
+14153,Aquitaine-Limousin-Poitou-Charentes,Mixed,Open and closed forest,-1010.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,3,26,2
+14154,Aquitaine-Limousin-Poitou-Charentes,Total,Closed forest,-1170.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,4,26,2
+14155,Aquitaine-Limousin-Poitou-Charentes,Total,Open and closed forest,-890.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,4,26,2
+14156,Auvergne-Rhône-Alpes,Coniferous,Closed forest,-5880.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,2,2,26,2
+14157,Auvergne-Rhône-Alpes,Coniferous,Open and closed forest,-5710.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,3,2,26,2
+14158,Auvergne-Rhône-Alpes,Deciduous,Closed forest,-4310.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,2,1,26,2
+14159,Auvergne-Rhône-Alpes,Deciduous,Open and closed forest,-4240.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,3,1,26,2
+14160,Auvergne-Rhône-Alpes,Mixed,Closed forest,-5750.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,2,3,26,2
+14161,Auvergne-Rhône-Alpes,Mixed,Open and closed forest,-5580.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,3,3,26,2
+14162,Auvergne-Rhône-Alpes,Total,Closed forest,-5030.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,2,4,26,2
+14163,Auvergne-Rhône-Alpes,Total,Open and closed forest,-4810.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,3,4,26,2
+14164,Normandie,Coniferous,Closed forest,-6710.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,2,2,26,2
+14165,Normandie,Coniferous,Open and closed forest,-6710.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,3,2,26,2
+14166,Normandie,Deciduous,Closed forest,-5860.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,2,1,26,2
+14167,Normandie,Deciduous,Open and closed forest,-5810.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,3,1,26,2
+14168,Normandie,Mixed,Closed forest,-4970.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,2,3,26,2
+14169,Normandie,Mixed,Open and closed forest,-4930.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,3,3,26,2
+14170,Normandie,Total,Closed forest,-5870.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,2,4,26,2
+14171,Normandie,Total,Open and closed forest,-5800.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,3,4,26,2
+14172,Bourgogne-Franche-Comté Dijon,Coniferous,Closed forest,-2240.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,2,2,26,2
+14173,Bourgogne-Franche-Comté Dijon,Coniferous,Open and closed forest,-2240.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,3,2,26,2
+14174,Bourgogne-Franche-Comté Dijon,Deciduous,Closed forest,-5610.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,2,1,26,2
+14175,Bourgogne-Franche-Comté Dijon,Deciduous,Open and closed forest,-5600.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,3,1,26,2
+14176,Bourgogne-Franche-Comté Dijon,Mixed,Closed forest,-2780.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,2,3,26,2
+14177,Bourgogne-Franche-Comté Dijon,Mixed,Open and closed forest,-2810.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,3,3,26,2
+14178,Bourgogne-Franche-Comté Dijon,Total,Closed forest,-5090.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,2,4,26,2
+14179,Bourgogne-Franche-Comté Dijon,Total,Open and closed forest,-5010.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,3,4,26,2
+14180,Bretagne,Coniferous,Closed forest,-1520.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,5,2,2,26,2
+14181,Bretagne,Coniferous,Open and closed forest,-1530.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,5,3,2,26,2
+14182,Bretagne,Deciduous,Closed forest,-6860.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,5,2,1,26,2
+14183,Bretagne,Deciduous,Open and closed forest,-6710.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,5,3,1,26,2
+14184,Bretagne,Mixed,Closed forest,-9650.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,5,2,3,26,2
+14185,Bretagne,Mixed,Open and closed forest,-9650.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,5,3,3,26,2
+14186,Bretagne,Total,Closed forest,-6230.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,5,2,4,26,2
+14187,Bretagne,Total,Open and closed forest,-5920.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,5,3,4,26,2
+14188,Centre,Coniferous,Closed forest,-4910.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,6,2,2,26,2
+14189,Centre,Coniferous,Open and closed forest,-4910.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,6,3,2,26,2
+14190,Centre,Deciduous,Closed forest,-5170.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,6,2,1,26,2
+14191,Centre,Deciduous,Open and closed forest,-5130.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,6,3,1,26,2
+14192,Centre,Mixed,Closed forest,-7460.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,6,2,3,26,2
+14193,Centre,Mixed,Open and closed forest,-7380.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,6,3,3,26,2
+14194,Centre,Total,Closed forest,-5280.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,6,2,4,26,2
+14195,Centre,Total,Open and closed forest,-5140.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,6,3,4,26,2
+14196,Grand Est,Coniferous,Closed forest,-1600.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,2,26,2
+14197,Grand Est,Coniferous,Open and closed forest,-1600.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,2,26,2
+14198,Grand Est,Deciduous,Closed forest,-5060.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,1,26,2
+14199,Grand Est,Deciduous,Open and closed forest,-5060.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,1,26,2
+14200,Grand Est,Mixed,Closed forest,-6600.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,3,26,2
+14201,Grand Est,Mixed,Open and closed forest,-6600.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,3,26,2
+14202,Grand Est,Total,Closed forest,-4920.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,4,26,2
+14203,Grand Est,Total,Open and closed forest,-4830.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,4,26,2
+14204,Corse,Coniferous,Closed forest,-6190.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,7,2,2,26,2
+14205,Corse,Coniferous,Open and closed forest,-6050.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,7,3,2,26,2
+14206,Corse,Deciduous,Closed forest,-4830.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,7,2,1,26,2
+14207,Corse,Deciduous,Open and closed forest,-4230.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,7,3,1,26,2
+14208,Corse,Mixed,Closed forest,-5940.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,7,2,3,26,2
+14209,Corse,Mixed,Open and closed forest,-5800.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,7,3,3,26,2
+14210,Corse,Total,Closed forest,-5140.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,7,2,4,26,2
+14211,Corse,Total,Open and closed forest,-4350.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,7,3,4,26,2
+14221,Bourgogne-Franche-Comté Dijon,Coniferous,Closed forest,-2170.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,2,2,26,2
+14222,Bourgogne-Franche-Comté Dijon,Coniferous,Open and closed forest,-2150.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,3,2,26,2
+14223,Bourgogne-Franche-Comté Dijon,Deciduous,Closed forest,-3580.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,2,1,26,2
+14224,Bourgogne-Franche-Comté Dijon,Deciduous,Open and closed forest,-3580.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,3,1,26,2
+14225,Bourgogne-Franche-Comté Dijon,Mixed,Closed forest,-7370.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,2,3,26,2
+14226,Bourgogne-Franche-Comté Dijon,Mixed,Open and closed forest,-7370.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,3,3,26,2
+14227,Bourgogne-Franche-Comté Dijon,Total,Closed forest,-4110.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,2,4,26,2
+14228,Bourgogne-Franche-Comté Dijon,Total,Open and closed forest,-4040.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,4,3,4,26,2
+14229,Normandie,Coniferous,Closed forest,-5350.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,2,2,26,2
+14230,Normandie,Coniferous,Open and closed forest,-5350.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,3,2,26,2
+14231,Normandie,Deciduous,Closed forest,-3700.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,2,1,26,2
+14232,Normandie,Deciduous,Open and closed forest,-3660.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,3,1,26,2
+14233,Normandie,Mixed,Closed forest,-4970.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,2,3,26,2
+14234,Normandie,Mixed,Open and closed forest,-4930.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,3,3,26,2
+14235,Normandie,Total,Closed forest,-3900.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,2,4,26,2
+14236,Normandie,Total,Open and closed forest,-3850.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,11,3,4,26,2
+14237,Île-de-France,Coniferous,Closed forest,-5350.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,8,2,2,26,2
+14238,Île-de-France,Coniferous,Open and closed forest,-5350.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,8,3,2,26,2
+14239,Île-de-France,Deciduous,Closed forest,-3900.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,8,2,1,26,2
+14240,Île-de-France,Deciduous,Open and closed forest,-3890.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,8,3,1,26,2
+14241,Île-de-France,Mixed,Closed forest,-4970.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,8,2,3,26,2
+14242,Île-de-France,Mixed,Open and closed forest,-4930.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,8,3,3,26,2
+14243,Île-de-France,Total,Closed forest,-4050.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,8,2,4,26,2
+14244,Île-de-France,Total,Open and closed forest,-4010.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,8,3,4,26,2
+14245,Occitanie,Coniferous,Closed forest,-2220.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,2,2,26,2
+14246,Occitanie,Coniferous,Open and closed forest,-2030.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,3,2,26,2
+14247,Occitanie,Deciduous,Closed forest,-3600.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,2,1,26,2
+14248,Occitanie,Deciduous,Open and closed forest,-3320.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,3,1,26,2
+14249,Occitanie,Mixed,Closed forest,-5200.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,2,3,26,2
+14250,Occitanie,Mixed,Open and closed forest,-4830.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,3,3,26,2
+14251,Occitanie,Total,Closed forest,-3430.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,2,4,26,2
+14252,Occitanie,Total,Open and closed forest,-3030.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,3,4,26,2
+14253,Aquitaine-Limousin-Poitou-Charentes,Coniferous,Closed forest,10.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,2,26,2
+14254,Aquitaine-Limousin-Poitou-Charentes,Coniferous,Open and closed forest,10.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,2,26,2
+14255,Aquitaine-Limousin-Poitou-Charentes,Deciduous,Closed forest,-5390.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,1,26,2
+14256,Aquitaine-Limousin-Poitou-Charentes,Deciduous,Open and closed forest,-5360.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,1,26,2
+14257,Aquitaine-Limousin-Poitou-Charentes,Mixed,Closed forest,-7530.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,3,26,2
+14258,Aquitaine-Limousin-Poitou-Charentes,Mixed,Open and closed forest,-7510.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,3,26,2
+14259,Aquitaine-Limousin-Poitou-Charentes,Total,Closed forest,-4540.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,4,26,2
+14260,Aquitaine-Limousin-Poitou-Charentes,Total,Open and closed forest,-4330.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,4,26,2
+14261,Grand Est,Coniferous,Closed forest,-5340.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,2,26,2
+14262,Grand Est,Coniferous,Open and closed forest,-5340.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,2,26,2
+14263,Grand Est,Deciduous,Closed forest,-4060.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,1,26,2
+14264,Grand Est,Deciduous,Open and closed forest,-4050.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,1,26,2
+14265,Grand Est,Mixed,Closed forest,-4970.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,3,26,2
+14266,Grand Est,Mixed,Open and closed forest,-4970.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,3,26,2
+14267,Grand Est,Total,Closed forest,-4370.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,2,4,26,2
+14268,Grand Est,Total,Open and closed forest,-4290.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,1,3,4,26,2
+14269,Occitanie,Coniferous,Closed forest,-7000.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,2,2,26,2
+14270,Occitanie,Coniferous,Open and closed forest,-6810.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,3,2,26,2
+14271,Occitanie,Deciduous,Closed forest,-4920.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,2,1,26,2
+14272,Occitanie,Deciduous,Open and closed forest,-4840.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,3,1,26,2
+14273,Occitanie,Mixed,Closed forest,-5740.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,2,3,26,2
+14274,Occitanie,Mixed,Open and closed forest,-5530.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,3,3,26,2
+14275,Occitanie,Total,Closed forest,-5180.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,2,4,26,2
+14276,Occitanie,Total,Open and closed forest,-4960.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,9,3,4,26,2
+14277,Hauts de France,Coniferous,Closed forest,-5350.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,2,2,26,2
+14278,Hauts de France,Coniferous,Open and closed forest,-5350.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,3,2,26,2
+14279,Hauts de France,Deciduous,Closed forest,-5630.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,2,1,26,2
+14280,Hauts de France,Deciduous,Open and closed forest,-5570.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,3,1,26,2
+14281,Hauts de France,Mixed,Closed forest,-4970.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,2,3,26,2
+14282,Hauts de France,Mixed,Open and closed forest,-4930.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,3,3,26,2
+14283,Hauts de France,Total,Closed forest,-4540.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,2,4,26,2
+14284,Hauts de France,Total,Open and closed forest,-4370.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,3,4,26,2
+14285,Pays de la Loire,Coniferous,Closed forest,-8670.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,12,2,2,26,2
+14286,Pays de la Loire,Coniferous,Open and closed forest,-8590.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,12,3,2,26,2
+14287,Pays de la Loire,Deciduous,Closed forest,-6250.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,12,2,1,26,2
+14288,Pays de la Loire,Deciduous,Open and closed forest,-6100.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,12,3,1,26,2
+14289,Pays de la Loire,Mixed,Closed forest,-6910.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,12,2,3,26,2
+14290,Pays de la Loire,Mixed,Open and closed forest,-6810.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,12,3,3,26,2
+14291,Pays de la Loire,Total,Closed forest,-6840.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,12,2,4,26,2
+14292,Pays de la Loire,Total,Open and closed forest,-6540.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,12,3,4,26,2
+14293,Hauts de France,Coniferous,Closed forest,4020.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,2,2,26,2
+14294,Hauts de France,Coniferous,Open and closed forest,4020.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,3,2,26,2
+14295,Hauts de France,Deciduous,Closed forest,-3770.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,2,1,26,2
+14296,Hauts de France,Deciduous,Open and closed forest,-3740.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,3,1,26,2
+14297,Hauts de France,Mixed,Closed forest,-4970.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,2,3,26,2
+14298,Hauts de France,Mixed,Open and closed forest,-4930.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,3,3,26,2
+14299,Hauts de France,Total,Closed forest,-3350.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,2,4,26,2
+14300,Hauts de France,Total,Open and closed forest,-3240.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,10,3,4,26,2
+14301,Aquitaine-Limousin-Poitou-Charentes,Coniferous,Closed forest,-5400.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,2,26,2
+14302,Aquitaine-Limousin-Poitou-Charentes,Coniferous,Open and closed forest,-5290.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,2,26,2
+14303,Aquitaine-Limousin-Poitou-Charentes,Deciduous,Closed forest,-5530.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,1,26,2
+14304,Aquitaine-Limousin-Poitou-Charentes,Deciduous,Open and closed forest,-5440.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,1,26,2
+14305,Aquitaine-Limousin-Poitou-Charentes,Mixed,Closed forest,-6570.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,3,26,2
+14306,Aquitaine-Limousin-Poitou-Charentes,Mixed,Open and closed forest,-6740.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,3,26,2
+14307,Aquitaine-Limousin-Poitou-Charentes,Total,Closed forest,-5570.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,2,4,26,2
+14308,Aquitaine-Limousin-Poitou-Charentes,Total,Open and closed forest,-5360.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,2,3,4,26,2
+14309,Provence-Alpes-Côte d'Azur,Coniferous,Closed forest,-2630.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,13,2,2,26,2
+14310,Provence-Alpes-Côte d'Azur,Coniferous,Open and closed forest,-2470.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,13,3,2,26,2
+14311,Provence-Alpes-Côte d'Azur,Deciduous,Closed forest,-2260.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,13,2,1,26,2
+14312,Provence-Alpes-Côte d'Azur,Deciduous,Open and closed forest,-2070.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,13,3,1,26,2
+14313,Provence-Alpes-Côte d'Azur,Mixed,Closed forest,-2500.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,13,2,3,26,2
+14314,Provence-Alpes-Côte d'Azur,Mixed,Open and closed forest,-2270.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,13,3,3,26,2
+14315,Provence-Alpes-Côte d'Azur,Total,Closed forest,-2460.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,13,2,4,26,2
+14316,Provence-Alpes-Côte d'Azur,Total,Open and closed forest,-2130.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,13,3,4,26,2
+14317,Auvergne-Rhône-Alpes,Coniferous,Closed forest,-4170.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,2,2,26,2
+14318,Auvergne-Rhône-Alpes,Coniferous,Open and closed forest,-4050.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,3,2,26,2
+14319,Auvergne-Rhône-Alpes,Deciduous,Closed forest,-5510.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,2,1,26,2
+14320,Auvergne-Rhône-Alpes,Deciduous,Open and closed forest,-5370.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,3,1,26,2
+14321,Auvergne-Rhône-Alpes,Mixed,Closed forest,-5400.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,2,3,26,2
+14322,Auvergne-Rhône-Alpes,Mixed,Open and closed forest,-5240.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,3,3,26,2
+14323,Auvergne-Rhône-Alpes,Total,Closed forest,-5140.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,2,4,26,2
+14324,Auvergne-Rhône-Alpes,Total,Open and closed forest,-4900.0,kgCO2e/ha.an,50%,2019-11-01,2019-11-01,2023-01-01,ADEME,3,3,4,26,2

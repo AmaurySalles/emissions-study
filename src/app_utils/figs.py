@@ -71,3 +71,42 @@ def graph_fr_heating_emissions():
     )
     return fig
 
+def graph_fr_forestry_change(forest_type, tree_type):
+    # Fetch data
+    forestry_df = fetch_all_from_table('FR_forestry_area')
+    dept_df = fetch_all_from_table('Dim_Regions')
+    forest_types_df = fetch_all_from_table('Dim_Forest_types')
+    tree_types_df = fetch_all_from_table('Dim_Tree_types')
+    
+    # Merge dimensions
+    forestry_df = forestry_df.merge(dept_df, on='region_id', how='left')
+    forestry_df = forestry_df.merge(forest_types_df, on='forest_type_id', how='left')
+    forestry_df = forestry_df.merge(tree_types_df, on='tree_type_id', how='left')
+    
+    # Select sub-set as per user request
+    forestry_df = forestry_df[forestry_df['forest_type_name'] == forest_type]
+    forestry_df = forestry_df[forestry_df['tree_type_name'] == tree_type]
+    
+    # Load the GeoJSON file for French departments
+    with open('./maps/fr_regions.geojson') as f:
+        fr_regions_geojson = json.load(f)
+
+    # Plot graph
+    fig = px.choropleth(forestry_df, 
+                        geojson=fr_regions_geojson, 
+                        color="land_loss",
+                        color_continuous_scale="Viridis",
+                        locations="region_name",
+                        featureidkey="properties.nom",
+                        projection="mercator",
+                        width=1200, height=800,
+                        labels={'region_id':'Region', 'land_loss': 'Area change (kgCO2e/ha.yr)'},
+                        title='Average emissions (kgCO2e) from forestry area (ha) change per annum.'
+                    )
+    fig.update_geos(fitbounds="locations", visible=False)
+    fig.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
+    fig.update_layout(title_font_size=16, 
+                      title_x=0.05,
+                      title_y=0.95,
+    )
+    return fig
